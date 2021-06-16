@@ -1,3 +1,4 @@
+@smoke
 Feature: productRegions is being tested with negative scenarios
 
   Background:

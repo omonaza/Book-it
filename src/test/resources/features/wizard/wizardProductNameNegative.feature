@@ -1,4 +1,4 @@
-@negative @smoke @Regression
+@smoke @negative  @regression
 Feature: name, shortDescription, fullDescription, are being tested within the given range of characters
 
   @nameNegative

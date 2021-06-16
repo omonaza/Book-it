@@ -1,4 +1,4 @@
-  @productPriceNegativeTesting @smoke @regression
+@smoke @productPriceNegativeTesting @regression
 Feature: productPrices is being tested with negative scenarios
 
   Background:

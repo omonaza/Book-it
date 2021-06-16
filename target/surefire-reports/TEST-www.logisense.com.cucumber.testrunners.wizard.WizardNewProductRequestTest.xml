@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="www.logisense.com.cucumber.testrunners.wizard.WizardNewProductRequestTest" time="47.944" tests="395" errors="0" skipped="18" failures="46">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="www.logisense.com.cucumber.testrunners.wizard.WizardNewProductRequestTest" time="43.21" tests="395" errors="0" skipped="18" failures="44">
   <properties>
     <property name="java.specification.version" value="14"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -14,7 +14,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-14.0.1\bin"/>
-    <property name="sun.java.command" value="C:\Users\azaos\AppData\Local\Temp\surefire15235175838104118399\surefirebooter11840558498083660976.jar C:\Users\azaos\AppData\Local\Temp\surefire15235175838104118399 2021-06-16T08-25-00_936-jvmRun1 surefire10398474347867899425tmp surefire_016088543408090537078tmp"/>
+    <property name="sun.java.command" value="C:\Users\azaos\AppData\Local\Temp\surefire16637173986346427101\surefirebooter4884867653761683845.jar C:\Users\azaos\AppData\Local\Temp\surefire16637173986346427101 2021-06-16T15-23-46_564-jvmRun1 surefire5037115354425764287tmp surefire_018440669951400320605tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\azaos\IdeaProjects\Book_It_LogiSense\target\test-classes;C:\Users\azaos\IdeaProjects\Book_It_LogiSense\target\classes;C:\Users\azaos\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\azaos\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\azaos\.m2\repository\io\cucumber\cucumber-junit\1.2.6\cucumber-junit-1.2.6.jar;C:\Users\azaos\.m2\repository\io\cucumber\cucumber-java\1.2.6\cucumber-java-1.2.6.jar;C:\Users\azaos\.m2\repository\io\cucumber\cucumber-core\1.2.6\cucumber-core-1.2.6.jar;C:\Users\azaos\.m2\repository\info\cukes\cucumber-html\0.2.3\cucumber-html-0.2.3.jar;C:\Users\azaos\.m2\repository\info\cukes\cucumber-jvm-deps\1.0.5\cucumber-jvm-deps-1.0.5.jar;C:\Users\azaos\.m2\repository\info\cukes\gherkin\2.12.2\gherkin-2.12.2.jar;C:\Users\azaos\.m2\repository\io\rest-assured\rest-assured\4.3.3\rest-assured-4.3.3.jar;C:\Users\azaos\.m2\repository\org\codehaus\groovy\groovy\3.0.7\groovy-3.0.7.jar;C:\Users\azaos\.m2\repository\org\codehaus\groovy\groovy-xml\3.0.7\groovy-xml-3.0.7.jar;C:\Users\azaos\.m2\repository\org\apache\httpcomponents\httpclient\4.5.3\httpclient-4.5.3.jar;C:\Users\azaos\.m2\repository\org\apache\httpcomponents\httpcore\4.4.6\httpcore-4.4.6.jar;C:\Users\azaos\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\azaos\.m2\repository\commons-codec\commons-codec\1.9\commons-codec-1.9.jar;C:\Users\azaos\.m2\repository\org\apache\httpcomponents\httpmime\4.5.3\httpmime-4.5.3.jar;C:\Users\azaos\.m2\repository\org\hamcrest\hamcrest\2.1\hamcrest-2.1.jar;C:\Users\azaos\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar;C:\Users\azaos\.m2\repository\io\rest-assured\json-path\4.3.3\json-path-4.3.3.jar;C:\Users\azaos\.m2\repository\org\codehaus\groovy\groovy-json\3.0.7\groovy-json-3.0.7.jar;C:\Users\azaos\.m2\repository\io\rest-assured\rest-assured-common\4.3.3\rest-assured-common-4.3.3.jar;C:\Users\azaos\.m2\repository\io\rest-assured\xml-path\4.3.3\xml-path-4.3.3.jar;C:\Users\azaos\.m2\repository\org\apache\commons\commons-lang3\3.11\commons-lang3-3.11.jar;C:\Users\azaos\.m2\repository\jakarta\xml\bind\jakarta.xml.bind-api\2.3.3\jakarta.xml.bind-api-2.3.3.jar;C:\Users\azaos\.m2\repository\jakarta\activation\jakarta.activation-api\1.2.2\jakarta.activation-api-1.2.2.jar;C:\Users\azaos\.m2\repository\com\sun\xml\bind\jaxb-impl\2.3.3\jaxb-impl-2.3.3.jar;C:\Users\azaos\.m2\repository\org\hamcrest\hamcrest-all\1.3\hamcrest-all-1.3.jar;C:\Users\azaos\.m2\repository\org\projectlombok\lombok\1.18.16\lombok-1.18.16.jar;C:\Users\azaos\.m2\repository\com\google\code\gson\gson\2.8.5\gson-2.8.5.jar;C:\Users\azaos\.m2\repository\io\cucumber\cucumber-picocontainer\1.2.6\cucumber-picocontainer-1.2.6.jar;C:\Users\azaos\.m2\repository\org\picocontainer\picocontainer\2.15\picocontainer-2.15.jar;C:\Users\azaos\.m2\repository\org\apache\logging\log4j\log4j-core\2.14.0\log4j-core-2.14.0.jar;C:\Users\azaos\.m2\repository\org\apache\logging\log4j\log4j-api\2.14.0\log4j-api-2.14.0.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -29,7 +29,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\azaos\AppData\Local\Temp\surefire15235175838104118399\surefirebooter11840558498083660976.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\azaos\AppData\Local\Temp\surefire16637173986346427101\surefirebooter4884867653761683845.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="14.0.1+7"/>
@@ -48,7 +48,7 @@
     <property name="os.arch" value="amd64"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="sun.os.patch.level" value=""/>
-    <property name="java.library.path" value="C:\Program Files\Java\jdk-14.0.1\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk-14.0.1\bin;C:\Program Files\Git\cmd;C:\Users\azaos\Downloads\apache-maven-3.6.3-bin\apache-maven-3.6.3\bin;C:\Users\azaos\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.2\bin;;MAVEN_HOME\bin;C:\Users\azaos\Downloads\apache-maven-3.6.3-bin\apache-maven-3.6.3\bin;;C:\Users\azaos\AppData\Local\Programs\Fiddler;."/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-14.0.1\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk-14.0.1\bin;C:\Program Files\Git\cmd;C:\Users\azaos\Downloads\apache-maven-3.6.3-bin\apache-maven-3.6.3\bin;C:\Users\azaos\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.2\bin;;MAVEN_HOME\bin;C:\Users\azaos\Downloads\apache-maven-3.6.3-bin\apache-maven-3.6.3\bin;;C:\Users\azaos\AppData\Local\Programs\Fiddler;."/>
     <property name="java.vm.info" value="mixed mode, sharing"/>
     <property name="java.vendor" value="Oracle Corporation"/>
     <property name="java.vm.version" value="14.0.1+7"/>
@@ -90,43 +90,22 @@
   <testcase name="Scenario: verify that product has been created" classname="Scenario: verify that product has been created" time="0"/>
   <testcase name="Given verify that ProductWorkingDates is set with following fields" classname="Scenario: verify that ProductWorkingDates has been created" time="0"/>
   <testcase name="Scenario: verify that ProductWorkingDates has been created" classname="Scenario: verify that ProductWorkingDates has been created" time="0"/>
-  <testcase name="Given verify that timeSlots is set with following fields" classname="Scenario: verify that timeSlots has been created" time="0">
-    <failure message="failure of quantity  expected: java.lang.String&lt;67&gt; but was: java.lang.Integer&lt;67&gt;" type="java.lang.AssertionError"><![CDATA[java.lang.AssertionError: failure of quantity  expected: java.lang.String<67> but was: java.lang.Integer<67>
-]]></failure>
-    <system-out><![CDATA[
-  #  Scenario: verify that productTypes has been created
-  #    Given verify that productTypes is set with following fields
-  #      | name    | id       |
-  #      | TestAPI | 5bpJ0olV |
-  Scenario: verify that ProductWorkingDates has been created           &amp#27;[90m# features/wizard/wizardNewProduct.feature:101&amp#27;[0m
-    &amp#27;[32mGiven &amp#27;[0m&amp#27;[32mverify that ProductWorkingDates is set with following fields&amp#27;[0m &amp#27;[90m# CreateNewProductSteps.verifyThatProductWorkingDatesIsSetWithFollowingFields(String,String>>)&amp#27;[0m
-]]></system-out>
-  </testcase>
-  <testcase name="Scenario: verify that timeSlots has been created" classname="Scenario: verify that timeSlots has been created" time="0">
-    <failure message="failure of quantity  expected: java.lang.String&lt;67&gt; but was: java.lang.Integer&lt;67&gt;" type="java.lang.AssertionError"><![CDATA[java.lang.AssertionError: failure of quantity  expected: java.lang.String<67> but was: java.lang.Integer<67>
-]]></failure>
-  </testcase>
-  <testcase name="Given verify that productRegions is set with following fields" classname="Scenario: verify that productRegions have been created" time="0">
+  <testcase name="Given verify that timeSlots is set with following fields" classname="Scenario: verify that timeSlots has been created" time="0"/>
+  <testcase name="Scenario: verify that timeSlots has been created" classname="Scenario: verify that timeSlots has been created" time="0"/>
+  <testcase name="Given verify that productRegions is set with following fields" classname="Scenario: verify that productRegions have been created" time="0.008">
     <failure message="failure of regionName  expected:&lt;Eilat&gt; but was:&lt;null&gt;" type="java.lang.AssertionError"><![CDATA[java.lang.AssertionError: failure of regionName  expected:<Eilat> but was:<null>
 ]]></failure>
     <system-out><![CDATA[
   Scenario: verify that timeSlots has been created           &amp#27;[90m# features/wizard/wizardNewProduct.feature:106&amp#27;[0m
-    &amp#27;[31mGiven &amp#27;[0m&amp#27;[31mverify that timeSlots is set with following fields&amp#27;[0m &amp#27;[90m# CreateNewProductSteps.verifyThatTimeSlotsIsSetWithFollowingFields(String,String>>)&amp#27;[0m
-      &amp#27;[31mjava.lang.AssertionError: failure of quantity  expected: java.lang.String<67> but was: java.lang.Integer<67>
-      	at org.junit.Assert.fail(Assert.java:88)
-      	at org.junit.Assert.failNotEquals(Assert.java:743)
-      	at org.junit.Assert.assertEquals(Assert.java:118)
-      	at www.logisense.com.cucumber.steps.newProduct.CreateNewProductSteps.verifyThatTimeSlotsIsSetWithFollowingFields(CreateNewProductSteps.java:424)
-      	at ?.Given verify that timeSlots is set with following fields(features/wizard/wizardNewProduct.feature:107)
-      &amp#27;[0m
+    &amp#27;[32mGiven &amp#27;[0m&amp#27;[32mverify that timeSlots is set with following fields&amp#27;[0m &amp#27;[90m# CreateNewProductSteps.verifyThatTimeSlotsIsSetWithFollowingFields(String,String>>)&amp#27;[0m
 ]]></system-out>
   </testcase>
-  <testcase name="Scenario: verify that productRegions have been created" classname="Scenario: verify that productRegions have been created" time="0">
+  <testcase name="Scenario: verify that productRegions have been created" classname="Scenario: verify that productRegions have been created" time="0.008">
     <failure message="failure of regionName  expected:&lt;Eilat&gt; but was:&lt;null&gt;" type="java.lang.AssertionError"><![CDATA[java.lang.AssertionError: failure of regionName  expected:<Eilat> but was:<null>
 ]]></failure>
   </testcase>
   <testcase name="Given verify that productPrices is set with following field" classname="Scenario: verify that productPrices have been created" time="0"/>
-  <testcase name="Scenario: verify that productPrices have been created" classname="Scenario: verify that productPrices have been created" time="0"/>
+  <testcase name="Scenario: verify that productPrices have been created" classname="Scenario: verify that productPrices have been created" time="0.008"/>
   <testcase name="Given verify that productPriceTypes is set with following fields" classname="Scenario: verify that productPriceTypes have been created" time="0"/>
   <testcase name="Scenario: verify that productPriceTypes have been created" classname="Scenario: verify that productPriceTypes have been created" time="0"/>
   <testcase name="Given verify that productCustomerType is set with following fields" classname="Scenario: verify that productCustomerType has been created" time="0"/>
@@ -194,7 +173,7 @@
     <failure message="expected:&lt;500&gt; but was:&lt;200&gt;" type="java.lang.AssertionError"><![CDATA[java.lang.AssertionError: expected:<500> but was:<200>
 ]]></failure>
     <system-out><![CDATA[{
-    "id": "elm3Wepn",
+    "id": "Gaz735lV",
     "name": "AutoTest",
     "productTypeId": null,
     "active": true,
@@ -205,8 +184,8 @@
     "latitude": 3245678.5467,
     "calendarColor": "blue",
     "address": "Bishkek",
-    "cityId": "jLa3BWpz",
-    "createdAt": "2021-06-16T04:25:23.149842",
+    "cityId": "QrO9wnae",
+    "createdAt": "2021-06-16T11:24:03.581852",
     "productImages": [
         
     ],
@@ -216,16 +195,16 @@
     "productTypes": null,
     "productWorkingDates": [
         {
-            "id": "0WaN6oad",
-            "productId": "elm3Wepn",
+            "id": "Ybpv5BOJ",
+            "productId": "Gaz735lV",
             "fromDate": "2021-05-27",
             "toDate": "2022-12-31",
             "name": "1234567sdfgh#$#%^%&",
             "strictHours": false,
             "timeSlots": [
                 {
-                    "id": "blB7Y3OR",
-                    "productWorkingDateId": "0WaN6oad",
+                    "id": "Yayq9zaW",
+                    "productWorkingDateId": "Ybpv5BOJ",
                     "dayOfWeek": "Monday",
                     "startTime": "09:00:00",
                     "endTime": "20:00:00",
@@ -243,16 +222,16 @@
     ],
     "productRegions": [
         {
-            "id": "bBl5o9pX",
-            "productId": "elm3Wepn",
+            "id": "5bpJGVaV",
+            "productId": "Gaz735lV",
             "regionId": "5bpJKaVE",
             "regionName": null
         }
     ],
     "productPrices": [
         {
-            "id": "qeaZYNpd",
-            "productId": "elm3Wepn",
+            "id": "0GpbGXar",
+            "productId": "Gaz735lV",
             "channelId": "5bpJKaVE",
             "fromDate": "2021-05-31T00:00:00",
             "toDate": "2022-12-31T00:00:00",
@@ -265,15 +244,15 @@
             "pricePerPerson": false,
             "productPriceTypes": [
                 {
-                    "id": "EjpjEDOM",
-                    "productPriceId": "qeaZYNpd",
-                    "productCustomerTypeId": "JpgyDLlq",
+                    "id": "M5l12VOW",
+                    "productPriceId": "0GpbGXar",
+                    "productCustomerTypeId": "5l1AkzlW",
                     "amount": 57,
                     "currencyId": "Belm3pnb",
                     "currencySymbol": null,
                     "isOfficial": true,
                     "productCustomerType": {
-                        "id": "JpgyDLlq",
+                        "id": "5l1AkzlW",
                         "productId": "yxl4wVaj",
                         "name": "?????"
                     }
@@ -284,34 +263,34 @@
     ],
     "productCustomerTypes": [
         {
-            "id": "Gpbzn8pr",
-            "productId": "elm3Wepn",
+            "id": "Yp6gzdaK",
+            "productId": "Gaz735lV",
             "name": "API"
         },
         {
-            "id": "zpM9R5p6",
-            "productId": "elm3Wepn",
+            "id": "wOXz1nao",
+            "productId": "Gaz735lV",
             "name": "?????"
         },
         {
-            "id": "ZOwL0Wpx",
-            "productId": "elm3Wepn",
+            "id": "YayqvYaW",
+            "productId": "Gaz735lV",
             "name": "???"
         },
         {
-            "id": "Bl51vklX",
-            "productId": "elm3Wepn",
+            "id": "3pWo2Rp4",
+            "productId": "Gaz735lV",
             "name": "?????"
         }
     ],
     "city": {
-        "id": "jLa3BWpz",
+        "id": "QrO9wnae",
         "name": "Israel"
     },
     "productIncludedTags": [
         {
-            "id": "oylKQ5p8",
-            "productId": "elm3Wepn",
+            "id": "r1lk0GO6",
+            "productId": "Gaz735lV",
             "subTagId": "jLa3rjpz",
             "parentTagId": null,
             "subTagName": null
@@ -319,8 +298,8 @@
     ],
     "productExcludedTags": [
         {
-            "id": "QrO9o1ae",
-            "productId": "elm3Wepn",
+            "id": "KPleWVpv",
+            "productId": "Gaz735lV",
             "subTagId": "4eO8gvlP",
             "parentTagId": null,
             "subTagName": null
@@ -328,8 +307,8 @@
     ],
     "productTags": [
         {
-            "id": "bpvADZOJ",
-            "productId": "elm3Wepn",
+            "id": "zpM6Eea6",
+            "productId": "Gaz735lV",
             "subTagId": "qeaZMepd",
             "parentTagId": null,
             "subTagName": null
@@ -338,14 +317,14 @@
     "productTranslations": null,
     "productVideos": [
         {
-            "id": "qeaZz7ad",
-            "productId": "elm3Wepn",
+            "id": "KPleVNOv",
+            "productId": "Gaz735lV",
             "path": "https://www.youtube.com/watch?v=u1yVCeXYya4&list=RDMMu1yVCeXYya4&start_radio=1"
         }
     ]
 }
 {
-    "id": "elm3Wepn",
+    "id": "Gaz735lV",
     "name": "AutoTest",
     "productTypeId": null,
     "active": true,
@@ -356,8 +335,8 @@
     "latitude": 3245678.5467,
     "calendarColor": "blue",
     "address": "Bishkek",
-    "cityId": "jLa3BWpz",
-    "createdAt": "2021-06-16T04:25:23.149842",
+    "cityId": "QrO9wnae",
+    "createdAt": "2021-06-16T11:24:03.581852",
     "productImages": [
         
     ],
@@ -367,16 +346,16 @@
     "productTypes": null,
     "productWorkingDates": [
         {
-            "id": "0WaN6oad",
-            "productId": "elm3Wepn",
+            "id": "Ybpv5BOJ",
+            "productId": "Gaz735lV",
             "fromDate": "2021-05-27",
             "toDate": "2022-12-31",
             "name": "1234567sdfgh#$#%^%&",
             "strictHours": false,
             "timeSlots": [
                 {
-                    "id": "blB7Y3OR",
-                    "productWorkingDateId": "0WaN6oad",
+                    "id": "Yayq9zaW",
+                    "productWorkingDateId": "Ybpv5BOJ",
                     "dayOfWeek": "Monday",
                     "startTime": "09:00:00",
                     "endTime": "20:00:00",
@@ -394,16 +373,16 @@
     ],
     "productRegions": [
         {
-            "id": "bBl5o9pX",
-            "productId": "elm3Wepn",
+            "id": "5bpJGVaV",
+            "productId": "Gaz735lV",
             "regionId": "5bpJKaVE",
             "regionName": null
         }
     ],
     "productPrices": [
         {
-            "id": "qeaZYNpd",
-            "productId": "elm3Wepn",
+            "id": "0GpbGXar",
+            "productId": "Gaz735lV",
             "channelId": "5bpJKaVE",
             "fromDate": "2021-05-31T00:00:00",
             "toDate": "2022-12-31T00:00:00",
@@ -416,15 +395,15 @@
             "pricePerPerson": false,
             "productPriceTypes": [
                 {
-                    "id": "EjpjEDOM",
-                    "productPriceId": "qeaZYNpd",
-                    "productCustomerTypeId": "JpgyDLlq",
+                    "id": "M5l12VOW",
+                    "productPriceId": "0GpbGXar",
+                    "productCustomerTypeId": "5l1AkzlW",
                     "amount": 57,
                     "currencyId": "Belm3pnb",
                     "currencySymbol": null,
                     "isOfficial": true,
                     "productCustomerType": {
-                        "id": "JpgyDLlq",
+                        "id": "5l1AkzlW",
                         "productId": "yxl4wVaj",
                         "name": "?????"
                     }
@@ -435,34 +414,34 @@
     ],
     "productCustomerTypes": [
         {
-            "id": "Gpbzn8pr",
-            "productId": "elm3Wepn",
+            "id": "Yp6gzdaK",
+            "productId": "Gaz735lV",
             "name": "API"
         },
         {
-            "id": "zpM9R5p6",
-            "productId": "elm3Wepn",
+            "id": "wOXz1nao",
+            "productId": "Gaz735lV",
             "name": "?????"
         },
         {
-            "id": "ZOwL0Wpx",
-            "productId": "elm3Wepn",
+            "id": "YayqvYaW",
+            "productId": "Gaz735lV",
             "name": "???"
         },
         {
-            "id": "Bl51vklX",
-            "productId": "elm3Wepn",
+            "id": "3pWo2Rp4",
+            "productId": "Gaz735lV",
             "name": "?????"
         }
     ],
     "city": {
-        "id": "jLa3BWpz",
+        "id": "QrO9wnae",
         "name": "Israel"
     },
     "productIncludedTags": [
         {
-            "id": "oylKQ5p8",
-            "productId": "elm3Wepn",
+            "id": "r1lk0GO6",
+            "productId": "Gaz735lV",
             "subTagId": "jLa3rjpz",
             "parentTagId": null,
             "subTagName": null
@@ -470,8 +449,8 @@
     ],
     "productExcludedTags": [
         {
-            "id": "QrO9o1ae",
-            "productId": "elm3Wepn",
+            "id": "KPleWVpv",
+            "productId": "Gaz735lV",
             "subTagId": "4eO8gvlP",
             "parentTagId": null,
             "subTagName": null
@@ -479,8 +458,8 @@
     ],
     "productTags": [
         {
-            "id": "bpvADZOJ",
-            "productId": "elm3Wepn",
+            "id": "zpM6Eea6",
+            "productId": "Gaz735lV",
             "subTagId": "qeaZMepd",
             "parentTagId": null,
             "subTagName": null
@@ -489,8 +468,8 @@
     "productTranslations": null,
     "productVideos": [
         {
-            "id": "qeaZz7ad",
-            "productId": "elm3Wepn",
+            "id": "KPleVNOv",
+            "productId": "Gaz735lV",
             "path": "https://www.youtube.com/watch?v=u1yVCeXYya4&list=RDMMu1yVCeXYya4&start_radio=1"
         }
     ]
@@ -517,7 +496,7 @@
     <failure message="expected:&lt;400&gt; but was:&lt;200&gt;" type="java.lang.AssertionError"><![CDATA[java.lang.AssertionError: expected:<400> but was:<200>
 ]]></failure>
     <system-out><![CDATA[{
-    "id": "WaNXEBOd",
+    "id": "PleoAopv",
     "name": "",
     "productTypeId": null,
     "active": true,
@@ -528,8 +507,8 @@
     "latitude": 3245678.5467,
     "calendarColor": "blue",
     "address": "Bishkek",
-    "cityId": "N4lrzgld",
-    "createdAt": "2021-06-16T04:25:25.65353",
+    "cityId": "5rO724l6",
+    "createdAt": "2021-06-16T11:24:06.483465",
     "productImages": [
         
     ],
@@ -539,16 +518,16 @@
     "productTypes": null,
     "productWorkingDates": [
         {
-            "id": "52aAoDOZ",
-            "productId": "WaNXEBOd",
+            "id": "ozOPx8Oj",
+            "productId": "PleoAopv",
             "fromDate": "2021-05-27",
             "toDate": "2022-12-31",
             "name": "1234567sdfgh#$#%^%&",
             "strictHours": false,
             "timeSlots": [
                 {
-                    "id": "WlqM2Zlb",
-                    "productWorkingDateId": "52aAoDOZ",
+                    "id": "3pWoLjp4",
+                    "productWorkingDateId": "ozOPx8Oj",
                     "dayOfWeek": "Monday",
                     "startTime": "09:00:00",
                     "endTime": "20:00:00",
@@ -566,16 +545,16 @@
     ],
     "productRegions": [
         {
-            "id": "YbpvEqOJ",
-            "productId": "WaNXEBOd",
+            "id": "0WaN6oad",
+            "productId": "PleoAopv",
             "regionId": "5bpJKaVE",
             "regionName": null
         }
     ],
     "productPrices": [
         {
-            "id": "5rO764l6",
-            "productId": "WaNXEBOd",
+            "id": "dzpMnea6",
+            "productId": "PleoAopv",
             "channelId": "5bpJKaVE",
             "fromDate": "2021-05-31T00:00:00",
             "toDate": "2022-12-31T00:00:00",
@@ -588,15 +567,15 @@
             "pricePerPerson": false,
             "productPriceTypes": [
                 {
-                    "id": "r1lkoZl6",
-                    "productPriceId": "5rO764l6",
-                    "productCustomerTypeId": "zOPeYypj",
+                    "id": "WYp65nOK",
+                    "productPriceId": "dzpMnea6",
+                    "productCustomerTypeId": "Gaz735lV",
                     "amount": 57,
                     "currencyId": "Belm3pnb",
                     "currencySymbol": null,
                     "isOfficial": true,
                     "productCustomerType": {
-                        "id": "zOPeYypj",
+                        "id": "Gaz735lV",
                         "productId": "yxl4wVaj",
                         "name": "?????"
                     }
@@ -607,34 +586,34 @@
     ],
     "productCustomerTypes": [
         {
-            "id": "blVXq5pw",
-            "productId": "WaNXEBOd",
+            "id": "8p0NP7lJ",
+            "productId": "PleoAopv",
             "name": "API"
         },
         {
-            "id": "waD3Mzp3",
-            "productId": "WaNXEBOd",
+            "id": "PleoAopv",
+            "productId": "PleoAopv",
             "name": "?????"
         },
         {
-            "id": "La3rnjpz",
-            "productId": "WaNXEBOd",
+            "id": "ApRDZMlY",
+            "productId": "PleoAopv",
             "name": "???"
         },
         {
-            "id": "eO8gevlP",
-            "productId": "WaNXEBOd",
+            "id": "7OxM0Wp6",
+            "productId": "PleoAopv",
             "name": "?????"
         }
     ],
     "city": {
-        "id": "N4lrzgld",
+        "id": "5rO724l6",
         "name": "Israel"
     },
     "productIncludedTags": [
         {
-            "id": "1dpdNbl7",
-            "productId": "WaNXEBOd",
+            "id": "zblBDDpR",
+            "productId": "PleoAopv",
             "subTagId": "jLa3rjpz",
             "parentTagId": null,
             "subTagName": null
@@ -642,8 +621,8 @@
     ],
     "productExcludedTags": [
         {
-            "id": "qeaZrdad",
-            "productId": "WaNXEBOd",
+            "id": "vApRoVaY",
+            "productId": "PleoAopv",
             "subTagId": "4eO8gvlP",
             "parentTagId": null,
             "subTagName": null
@@ -651,8 +630,8 @@
     ],
     "productTags": [
         {
-            "id": "zOPqWYpj",
-            "productId": "WaNXEBOd",
+            "id": "ZOw7w3Ox",
+            "productId": "PleoAopv",
             "subTagId": "qeaZMepd",
             "parentTagId": null,
             "subTagName": null
@@ -661,14 +640,14 @@
     "productTranslations": null,
     "productVideos": [
         {
-            "id": "5rO77BO6",
-            "productId": "WaNXEBOd",
+            "id": "vApR2dpY",
+            "productId": "PleoAopv",
             "path": "https://www.youtube.com/watch?v=u1yVCeXYya4&list=RDMMu1yVCeXYya4&start_radio=1"
         }
     ]
 }
 {
-    "id": "WaNXEBOd",
+    "id": "PleoAopv",
     "name": "",
     "productTypeId": null,
     "active": true,
@@ -679,8 +658,8 @@
     "latitude": 3245678.5467,
     "calendarColor": "blue",
     "address": "Bishkek",
-    "cityId": "N4lrzgld",
-    "createdAt": "2021-06-16T04:25:25.65353",
+    "cityId": "5rO724l6",
+    "createdAt": "2021-06-16T11:24:06.483465",
     "productImages": [
         
     ],
@@ -690,16 +669,16 @@
     "productTypes": null,
     "productWorkingDates": [
         {
-            "id": "52aAoDOZ",
-            "productId": "WaNXEBOd",
+            "id": "ozOPx8Oj",
+            "productId": "PleoAopv",
             "fromDate": "2021-05-27",
             "toDate": "2022-12-31",
             "name": "1234567sdfgh#$#%^%&",
             "strictHours": false,
             "timeSlots": [
                 {
-                    "id": "WlqM2Zlb",
-                    "productWorkingDateId": "52aAoDOZ",
+                    "id": "3pWoLjp4",
+                    "productWorkingDateId": "ozOPx8Oj",
                     "dayOfWeek": "Monday",
                     "startTime": "09:00:00",
                     "endTime": "20:00:00",
@@ -717,16 +696,16 @@
     ],
     "productRegions": [
         {
-            "id": "YbpvEqOJ",
-            "productId": "WaNXEBOd",
+            "id": "0WaN6oad",
+            "productId": "PleoAopv",
             "regionId": "5bpJKaVE",
             "regionName": null
         }
     ],
     "productPrices": [
         {
-            "id": "5rO764l6",
-            "productId": "WaNXEBOd",
+            "id": "dzpMnea6",
+            "productId": "PleoAopv",
             "channelId": "5bpJKaVE",
             "fromDate": "2021-05-31T00:00:00",
             "toDate": "2022-12-31T00:00:00",
@@ -739,15 +718,15 @@
             "pricePerPerson": false,
             "productPriceTypes": [
                 {
-                    "id": "r1lkoZl6",
-                    "productPriceId": "5rO764l6",
-                    "productCustomerTypeId": "zOPeYypj",
+                    "id": "WYp65nOK",
+                    "productPriceId": "dzpMnea6",
+                    "productCustomerTypeId": "Gaz735lV",
                     "amount": 57,
                     "currencyId": "Belm3pnb",
                     "currencySymbol": null,
                     "isOfficial": true,
                     "productCustomerType": {
-                        "id": "zOPeYypj",
+                        "id": "Gaz735lV",
                         "productId": "yxl4wVaj",
                         "name": "?????"
                     }
@@ -758,34 +737,34 @@
     ],
     "productCustomerTypes": [
         {
-            "id": "blVXq5pw",
-            "productId": "WaNXEBOd",
+            "id": "8p0NP7lJ",
+            "productId": "PleoAopv",
             "name": "API"
         },
         {
-            "id": "waD3Mzp3",
-            "productId": "WaNXEBOd",
+            "id": "PleoAopv",
+            "productId": "PleoAopv",
             "name": "?????"
         },
         {
-            "id": "La3rnjpz",
-            "productId": "WaNXEBOd",
+            "id": "ApRDZMlY",
+            "productId": "PleoAopv",
             "name": "???"
         },
         {
-            "id": "eO8gevlP",
-            "productId": "WaNXEBOd",
+            "id": "7OxM0Wp6",
+            "productId": "PleoAopv",
             "name": "?????"
         }
     ],
     "city": {
-        "id": "N4lrzgld",
+        "id": "5rO724l6",
         "name": "Israel"
     },
     "productIncludedTags": [
         {
-            "id": "1dpdNbl7",
-            "productId": "WaNXEBOd",
+            "id": "zblBDDpR",
+            "productId": "PleoAopv",
             "subTagId": "jLa3rjpz",
             "parentTagId": null,
             "subTagName": null
@@ -793,8 +772,8 @@
     ],
     "productExcludedTags": [
         {
-            "id": "qeaZrdad",
-            "productId": "WaNXEBOd",
+            "id": "vApRoVaY",
+            "productId": "PleoAopv",
             "subTagId": "4eO8gvlP",
             "parentTagId": null,
             "subTagName": null
@@ -802,8 +781,8 @@
     ],
     "productTags": [
         {
-            "id": "zOPqWYpj",
-            "productId": "WaNXEBOd",
+            "id": "ZOw7w3Ox",
+            "productId": "PleoAopv",
             "subTagId": "qeaZMepd",
             "parentTagId": null,
             "subTagName": null
@@ -812,8 +791,8 @@
     "productTranslations": null,
     "productVideos": [
         {
-            "id": "5rO77BO6",
-            "productId": "WaNXEBOd",
+            "id": "vApR2dpY",
+            "productId": "PleoAopv",
             "path": "https://www.youtube.com/watch?v=u1yVCeXYya4&list=RDMMu1yVCeXYya4&start_radio=1"
         }
     ]
@@ -834,7 +813,7 @@
     <failure message="expected:&lt;500&gt; but was:&lt;200&gt;" type="java.lang.AssertionError"><![CDATA[java.lang.AssertionError: expected:<500> but was:<200>
 ]]></failure>
     <system-out><![CDATA[{
-    "id": "2aAgJLOZ",
+    "id": "ApRDZMlY",
     "name": "AutoTest",
     "productTypeId": null,
     "active": true,
@@ -845,8 +824,8 @@
     "latitude": 3245678.5467,
     "calendarColor": "blue",
     "address": "Bishkek",
-    "cityId": "PdOnXwaV",
-    "createdAt": "2021-06-16T04:25:26.001524",
+    "cityId": "JnlY9Nlz",
+    "createdAt": "2021-06-16T11:24:06.850854",
     "productImages": [
         
     ],
@@ -856,16 +835,16 @@
     "productTypes": null,
     "productWorkingDates": [
         {
-            "id": "Q4aLdKan",
-            "productId": "2aAgJLOZ",
+            "id": "VblV5waw",
+            "productId": "ApRDZMlY",
             "fromDate": "2021-05-27",
             "toDate": "2022-12-31",
             "name": "1234567sdfgh#$#%^%&",
             "strictHours": false,
             "timeSlots": [
                 {
-                    "id": "rOEEdyOY",
-                    "productWorkingDateId": "Q4aLdKan",
+                    "id": "xl4WNoaj",
+                    "productWorkingDateId": "VblV5waw",
                     "dayOfWeek": "Monday",
                     "startTime": "09:00:00",
                     "endTime": "20:00:00",
@@ -883,16 +862,16 @@
     ],
     "productRegions": [
         {
-            "id": "ozOPyLpj",
-            "productId": "2aAgJLOZ",
+            "id": "52aAoDOZ",
+            "productId": "ApRDZMlY",
             "regionId": "5bpJKaVE",
             "regionName": null
         }
     ],
     "productPrices": [
         {
-            "id": "JnlY7Npz",
-            "productId": "2aAgJLOZ",
+            "id": "0ZOwr3lx",
+            "productId": "ApRDZMlY",
             "channelId": "5bpJKaVE",
             "fromDate": "2021-05-31T00:00:00",
             "toDate": "2022-12-31T00:00:00",
@@ -905,15 +884,15 @@
             "pricePerPerson": false,
             "productPriceTypes": [
                 {
-                    "id": "zblBJxlR",
-                    "productPriceId": "JnlY7Npz",
-                    "productCustomerTypeId": "4lrWvkOd",
+                    "id": "kwOXPkOo",
+                    "productPriceId": "0ZOwr3lx",
+                    "productCustomerTypeId": "dl2oPxOX",
                     "amount": 57,
                     "currencyId": "Belm3pnb",
                     "currencySymbol": null,
                     "isOfficial": true,
                     "productCustomerType": {
-                        "id": "4lrWvkOd",
+                        "id": "dl2oPxOX",
                         "productId": "yxl4wVaj",
                         "name": "?????"
                     }
@@ -924,34 +903,34 @@
     ],
     "productCustomerTypes": [
         {
-            "id": "dOnn19OV",
-            "productId": "2aAgJLOZ",
+            "id": "Jpgy9vlq",
+            "productId": "ApRDZMlY",
             "name": "API"
         },
         {
-            "id": "jpjPXblM",
-            "productId": "2aAgJLOZ",
+            "id": "Gpbzm5pr",
+            "productId": "ApRDZMlY",
             "name": "?????"
         },
         {
-            "id": "1lkVyWa6",
-            "productId": "2aAgJLOZ",
+            "id": "zpM9JRp6",
+            "productId": "ApRDZMlY",
             "name": "???"
         },
         {
-            "id": "blB7B3OR",
-            "productId": "2aAgJLOZ",
+            "id": "ZOwLzDpx",
+            "productId": "ApRDZMlY",
             "name": "?????"
         }
     ],
     "city": {
-        "id": "PdOnXwaV",
+        "id": "JnlY9Nlz",
         "name": "Israel"
     },
     "productIncludedTags": [
         {
-            "id": "M5l1vMOW",
-            "productId": "2aAgJLOZ",
+            "id": "7WlqQelb",
+            "productId": "ApRDZMlY",
             "subTagId": "jLa3rjpz",
             "parentTagId": null,
             "subTagName": null
@@ -959,8 +938,8 @@
     ],
     "productExcludedTags": [
         {
-            "id": "5rO7wYO6",
-            "productId": "2aAgJLOZ",
+            "id": "q7Ox10p6",
+            "productId": "ApRDZMlY",
             "subTagId": "4eO8gvlP",
             "parentTagId": null,
             "subTagName": null
@@ -968,8 +947,8 @@
     ],
     "productTags": [
         {
-            "id": "blVm22aw",
-            "productId": "2aAgJLOZ",
+            "id": "Bl5B97OX",
+            "productId": "ApRDZMlY",
             "subTagId": "qeaZMepd",
             "parentTagId": null,
             "subTagName": null
@@ -978,14 +957,14 @@
     "productTranslations": null,
     "productVideos": [
         {
-            "id": "JnlY6xOz",
-            "productId": "2aAgJLOZ",
+            "id": "q7OxqXp6",
+            "productId": "ApRDZMlY",
             "path": "https://www.youtube.com/watch?v=u1yVCeXYya4&list=RDMMu1yVCeXYya4&start_radio=1"
         }
     ]
 }
 {
-    "id": "2aAgJLOZ",
+    "id": "ApRDZMlY",
     "name": "AutoTest",
     "productTypeId": null,
     "active": true,
@@ -996,8 +975,8 @@
     "latitude": 3245678.5467,
     "calendarColor": "blue",
     "address": "Bishkek",
-    "cityId": "PdOnXwaV",
-    "createdAt": "2021-06-16T04:25:26.001524",
+    "cityId": "JnlY9Nlz",
+    "createdAt": "2021-06-16T11:24:06.850854",
     "productImages": [
         
     ],
@@ -1007,16 +986,16 @@
     "productTypes": null,
     "productWorkingDates": [
         {
-            "id": "Q4aLdKan",
-            "productId": "2aAgJLOZ",
+            "id": "VblV5waw",
+            "productId": "ApRDZMlY",
             "fromDate": "2021-05-27",
             "toDate": "2022-12-31",
             "name": "1234567sdfgh#$#%^%&",
             "strictHours": false,
             "timeSlots": [
                 {
-                    "id": "rOEEdyOY",
-                    "productWorkingDateId": "Q4aLdKan",
+                    "id": "xl4WNoaj",
+                    "productWorkingDateId": "VblV5waw",
                     "dayOfWeek": "Monday",
                     "startTime": "09:00:00",
                     "endTime": "20:00:00",
@@ -1034,16 +1013,16 @@
     ],
     "productRegions": [
         {
-            "id": "ozOPyLpj",
-            "productId": "2aAgJLOZ",
+            "id": "52aAoDOZ",
+            "productId": "ApRDZMlY",
             "regionId": "5bpJKaVE",
             "regionName": null
         }
     ],
     "productPrices": [
         {
-            "id": "JnlY7Npz",
-            "productId": "2aAgJLOZ",
+            "id": "0ZOwr3lx",
+            "productId": "ApRDZMlY",
             "channelId": "5bpJKaVE",
             "fromDate": "2021-05-31T00:00:00",
             "toDate": "2022-12-31T00:00:00",
@@ -1056,15 +1035,15 @@
             "pricePerPerson": false,
             "productPriceTypes": [
                 {
-                    "id": "zblBJxlR",
-                    "productPriceId": "JnlY7Npz",
-                    "productCustomerTypeId": "4lrWvkOd",
+                    "id": "kwOXPkOo",
+                    "productPriceId": "0ZOwr3lx",
+                    "productCustomerTypeId": "dl2oPxOX",
                     "amount": 57,
                     "currencyId": "Belm3pnb",
                     "currencySymbol": null,
                     "isOfficial": true,
                     "productCustomerType": {
-                        "id": "4lrWvkOd",
+                        "id": "dl2oPxOX",
                         "productId": "yxl4wVaj",
                         "name": "?????"
                     }
@@ -1075,34 +1054,34 @@
     ],
     "productCustomerTypes": [
         {
-            "id": "dOnn19OV",
-            "productId": "2aAgJLOZ",
+            "id": "Jpgy9vlq",
+            "productId": "ApRDZMlY",
             "name": "API"
         },
         {
-            "id": "jpjPXblM",
-            "productId": "2aAgJLOZ",
+            "id": "Gpbzm5pr",
+            "productId": "ApRDZMlY",
             "name": "?????"
         },
         {
-            "id": "1lkVyWa6",
-            "productId": "2aAgJLOZ",
+            "id": "zpM9JRp6",
+            "productId": "ApRDZMlY",
             "name": "???"
         },
         {
-            "id": "blB7B3OR",
-            "productId": "2aAgJLOZ",
+            "id": "ZOwLzDpx",
+            "productId": "ApRDZMlY",
             "name": "?????"
         }
     ],
     "city": {
-        "id": "PdOnXwaV",
+        "id": "JnlY9Nlz",
         "name": "Israel"
     },
     "productIncludedTags": [
         {
-            "id": "M5l1vMOW",
-            "productId": "2aAgJLOZ",
+            "id": "7WlqQelb",
+            "productId": "ApRDZMlY",
             "subTagId": "jLa3rjpz",
             "parentTagId": null,
             "subTagName": null
@@ -1110,8 +1089,8 @@
     ],
     "productExcludedTags": [
         {
-            "id": "5rO7wYO6",
-            "productId": "2aAgJLOZ",
+            "id": "q7Ox10p6",
+            "productId": "ApRDZMlY",
             "subTagId": "4eO8gvlP",
             "parentTagId": null,
             "subTagName": null
@@ -1119,8 +1098,8 @@
     ],
     "productTags": [
         {
-            "id": "blVm22aw",
-            "productId": "2aAgJLOZ",
+            "id": "Bl5B97OX",
+            "productId": "ApRDZMlY",
             "subTagId": "qeaZMepd",
             "parentTagId": null,
             "subTagName": null
@@ -1129,8 +1108,8 @@
     "productTranslations": null,
     "productVideos": [
         {
-            "id": "JnlY6xOz",
-            "productId": "2aAgJLOZ",
+            "id": "q7OxqXp6",
+            "productId": "ApRDZMlY",
             "path": "https://www.youtube.com/watch?v=u1yVCeXYya4&list=RDMMu1yVCeXYya4&start_radio=1"
         }
     ]
@@ -1151,7 +1130,7 @@
     <failure message="expected:&lt;500&gt; but was:&lt;200&gt;" type="java.lang.AssertionError"><![CDATA[java.lang.AssertionError: expected:<500> but was:<200>
 ]]></failure>
     <system-out><![CDATA[{
-    "id": "4aLLDZan",
+    "id": "7OxM0Wp6",
     "name": "AutoTest",
     "productTypeId": null,
     "active": true,
@@ -1162,8 +1141,8 @@
     "latitude": 3245678.5467,
     "calendarColor": "blue",
     "address": "Bishkek",
-    "cityId": "EjpjKvaM",
-    "createdAt": "2021-06-16T04:25:26.210402",
+    "cityId": "kMaG1zOD",
+    "createdAt": "2021-06-16T11:24:07.030909",
     "productImages": [
         
     ],
@@ -1173,16 +1152,16 @@
     "productTypes": null,
     "productWorkingDates": [
         {
-            "id": "QrO92Ape",
-            "productId": "4aLLDZan",
+            "id": "4waDK0p3",
+            "productId": "7OxM0Wp6",
             "fromDate": "2021-05-27",
             "toDate": "2022-12-31",
             "name": "1234567sdfgh#$#%^%&",
             "strictHours": false,
             "timeSlots": [
                 {
-                    "id": "1lonRZa7",
-                    "productWorkingDateId": "QrO92Ape",
+                    "id": "Gaz7ZElV",
+                    "productWorkingDateId": "4waDK0p3",
                     "dayOfWeek": "Monday",
                     "startTime": "09:00:00",
                     "endTime": "20:00:00",
@@ -1200,16 +1179,16 @@
     ],
     "productRegions": [
         {
-            "id": "VblVRYlw",
-            "productId": "4aLLDZan",
+            "id": "Q4aLdKan",
+            "productId": "7OxM0Wp6",
             "regionId": "5bpJKaVE",
             "regionName": null
         }
     ],
     "productPrices": [
         {
-            "id": "kMaGwzaD",
-            "productId": "4aLLDZan",
+            "id": "bBl5R7OX",
+            "productId": "7OxM0Wp6",
             "channelId": "5bpJKaVE",
             "fromDate": "2021-05-31T00:00:00",
             "toDate": "2022-12-31T00:00:00",
@@ -1222,15 +1201,15 @@
             "pricePerPerson": false,
             "productPriceTypes": [
                 {
-                    "id": "7WlqE5lb",
-                    "productPriceId": "kMaGwzaD",
-                    "productCustomerTypeId": "WlqMvZlb",
+                    "id": "PYayQDaW",
+                    "productPriceId": "bBl5R7OX",
+                    "productCustomerTypeId": "Bl51P9lX",
                     "amount": 57,
                     "currencyId": "Belm3pnb",
                     "currencySymbol": null,
                     "isOfficial": true,
                     "productCustomerType": {
-                        "id": "WlqMvZlb",
+                        "id": "Bl51P9lX",
                         "productId": "yxl4wVaj",
                         "name": "?????"
                     }
@@ -1241,34 +1220,34 @@
     ],
     "productCustomerTypes": [
         {
-            "id": "rOEEDyOY",
-            "productId": "4aLLDZan",
+            "id": "bpvjrqpJ",
+            "productId": "7OxM0Wp6",
             "name": "API"
         },
         {
-            "id": "1lon4Za7",
-            "productId": "4aLLDZan",
+            "id": "zOPeLLpj",
+            "productId": "7OxM0Wp6",
             "name": "?????"
         },
         {
-            "id": "baQkRGOA",
-            "productId": "4aLLDZan",
+            "id": "blVXWYpw",
+            "productId": "7OxM0Wp6",
             "name": "???"
         },
         {
-            "id": "elm3P3pn",
-            "productId": "4aLLDZan",
+            "id": "waD3vEp3",
+            "productId": "7OxM0Wp6",
             "name": "?????"
         }
     ],
     "city": {
-        "id": "EjpjKvaM",
+        "id": "kMaG1zOD",
         "name": "Israel"
     },
     "productIncludedTags": [
         {
-            "id": "WYp6X0lK",
-            "productId": "4aLLDZan",
+            "id": "GrOE6qpY",
+            "productId": "7OxM0Wp6",
             "subTagId": "jLa3rjpz",
             "parentTagId": null,
             "subTagName": null
@@ -1276,8 +1255,8 @@
     ],
     "productExcludedTags": [
         {
-            "id": "JnlYeklz",
-            "productId": "4aLLDZan",
+            "id": "Kdl2dnpX",
+            "productId": "7OxM0Wp6",
             "subTagId": "4eO8gvlP",
             "parentTagId": null,
             "subTagName": null
@@ -1285,8 +1264,8 @@
     ],
     "productTags": [
         {
-            "id": "waD1edl3",
-            "productId": "4aLLDZan",
+            "id": "bpvA3ZOJ",
+            "productId": "7OxM0Wp6",
             "subTagId": "qeaZMepd",
             "parentTagId": null,
             "subTagName": null
@@ -1295,14 +1274,14 @@
     "productTranslations": null,
     "productVideos": [
         {
-            "id": "kMaGdylD",
-            "productId": "4aLLDZan",
+            "id": "Kdl2NAlX",
+            "productId": "7OxM0Wp6",
             "path": "https://www.youtube.com/watch?v=u1yVCeXYya4&list=RDMMu1yVCeXYya4&start_radio=1"
         }
     ]
 }
 {
-    "id": "4aLLDZan",
+    "id": "7OxM0Wp6",
     "name": "AutoTest",
     "productTypeId": null,
     "active": true,
@@ -1313,8 +1292,8 @@
     "latitude": 3245678.5467,
     "calendarColor": "blue",
     "address": "Bishkek",
-    "cityId": "EjpjKvaM",
-    "createdAt": "2021-06-16T04:25:26.210402",
+    "cityId": "kMaG1zOD",
+    "createdAt": "2021-06-16T11:24:07.030909",
     "productImages": [
         
     ],
@@ -1324,16 +1303,16 @@
     "productTypes": null,
     "productWorkingDates": [
         {
-            "id": "QrO92Ape",
-            "productId": "4aLLDZan",
+            "id": "4waDK0p3",
+            "productId": "7OxM0Wp6",
             "fromDate": "2021-05-27",
             "toDate": "2022-12-31",
             "name": "1234567sdfgh#$#%^%&",
             "strictHours": false,
             "timeSlots": [
                 {
-                    "id": "1lonRZa7",
-                    "productWorkingDateId": "QrO92Ape",
+                    "id": "Gaz7ZElV",
+                    "productWorkingDateId": "4waDK0p3",
                     "dayOfWeek": "Monday",
                     "startTime": "09:00:00",
                     "endTime": "20:00:00",
@@ -1351,16 +1330,16 @@
     ],
     "productRegions": [
         {
-            "id": "VblVRYlw",
-            "productId": "4aLLDZan",
+            "id": "Q4aLdKan",
+            "productId": "7OxM0Wp6",
             "regionId": "5bpJKaVE",
             "regionName": null
         }
     ],
     "productPrices": [
         {
-            "id": "kMaGwzaD",
-            "productId": "4aLLDZan",
+            "id": "bBl5R7OX",
+            "productId": "7OxM0Wp6",
             "channelId": "5bpJKaVE",
             "fromDate": "2021-05-31T00:00:00",
             "toDate": "2022-12-31T00:00:00",
@@ -1373,15 +1352,15 @@
             "pricePerPerson": false,
             "productPriceTypes": [
                 {
-                    "id": "7WlqE5lb",
-                    "productPriceId": "kMaGwzaD",
-                    "productCustomerTypeId": "WlqMvZlb",
+                    "id": "PYayQDaW",
+                    "productPriceId": "bBl5R7OX",
+                    "productCustomerTypeId": "Bl51P9lX",
                     "amount": 57,
                     "currencyId": "Belm3pnb",
                     "currencySymbol": null,
                     "isOfficial": true,
                     "productCustomerType": {
-                        "id": "WlqMvZlb",
+                        "id": "Bl51P9lX",
                         "productId": "yxl4wVaj",
                         "name": "?????"
                     }
@@ -1392,34 +1371,34 @@
     ],
     "productCustomerTypes": [
         {
-            "id": "rOEEDyOY",
-            "productId": "4aLLDZan",
+            "id": "bpvjrqpJ",
+            "productId": "7OxM0Wp6",
             "name": "API"
         },
         {
-            "id": "1lon4Za7",
-            "productId": "4aLLDZan",
+            "id": "zOPeLLpj",
+            "productId": "7OxM0Wp6",
             "name": "?????"
         },
         {
-            "id": "baQkRGOA",
-            "productId": "4aLLDZan",
+            "id": "blVXWYpw",
+            "productId": "7OxM0Wp6",
             "name": "???"
         },
         {
-            "id": "elm3P3pn",
-            "productId": "4aLLDZan",
+            "id": "waD3vEp3",
+            "productId": "7OxM0Wp6",
             "name": "?????"
         }
     ],
     "city": {
-        "id": "EjpjKvaM",
+        "id": "kMaG1zOD",
         "name": "Israel"
     },
     "productIncludedTags": [
         {
-            "id": "WYp6X0lK",
-            "productId": "4aLLDZan",
+            "id": "GrOE6qpY",
+            "productId": "7OxM0Wp6",
             "subTagId": "jLa3rjpz",
             "parentTagId": null,
             "subTagName": null
@@ -1427,8 +1406,8 @@
     ],
     "productExcludedTags": [
         {
-            "id": "JnlYeklz",
-            "productId": "4aLLDZan",
+            "id": "Kdl2dnpX",
+            "productId": "7OxM0Wp6",
             "subTagId": "4eO8gvlP",
             "parentTagId": null,
             "subTagName": null
@@ -1436,8 +1415,8 @@
     ],
     "productTags": [
         {
-            "id": "waD1edl3",
-            "productId": "4aLLDZan",
+            "id": "bpvA3ZOJ",
+            "productId": "7OxM0Wp6",
             "subTagId": "qeaZMepd",
             "parentTagId": null,
             "subTagName": null
@@ -1446,8 +1425,8 @@
     "productTranslations": null,
     "productVideos": [
         {
-            "id": "kMaGdylD",
-            "productId": "4aLLDZan",
+            "id": "Kdl2NAlX",
+            "productId": "7OxM0Wp6",
             "path": "https://www.youtube.com/watch?v=u1yVCeXYya4&list=RDMMu1yVCeXYya4&start_radio=1"
         }
     ]
@@ -1462,13 +1441,13 @@
     <skipped/>
   </testcase>
   <testcase name="Given product is set with the following fields" classname="Scenario: Provider creates a new product with empty shortDescription field" time="0"/>
-  <testcase name="Given productVideos is set with the following fields" classname="Scenario: Provider creates a new product with empty shortDescription field" time="0.016"/>
+  <testcase name="Given productVideos is set with the following fields" classname="Scenario: Provider creates a new product with empty shortDescription field" time="0"/>
   <testcase name="Given provider creates a new product" classname="Scenario: Provider creates a new product with empty shortDescription field" time="0"/>
   <testcase name="Then verify status code is 500" classname="Scenario: Provider creates a new product with empty shortDescription field" time="0">
     <failure message="expected:&lt;500&gt; but was:&lt;200&gt;" type="java.lang.AssertionError"><![CDATA[java.lang.AssertionError: expected:<500> but was:<200>
 ]]></failure>
     <system-out><![CDATA[{
-    "id": "rO98eble",
+    "id": "dl2oPxOX",
     "name": "AutoTest",
     "productTypeId": null,
     "active": true,
@@ -1479,8 +1458,8 @@
     "latitude": 3245678.5467,
     "calendarColor": "blue",
     "address": "Bishkek",
-    "cityId": "r1lkdKO6",
-    "createdAt": "2021-06-16T04:25:26.406434",
+    "cityId": "oylKe1p8",
+    "createdAt": "2021-06-16T11:24:07.195526",
     "productImages": [
         
     ],
@@ -1490,16 +1469,16 @@
     "productTypes": null,
     "productWorkingDates": [
         {
-            "id": "qeaZb7ad",
-            "productId": "rO98eble",
+            "id": "jLa3bZpz",
+            "productId": "dl2oPxOX",
             "fromDate": "2021-05-27",
             "toDate": "2022-12-31",
             "name": "1234567sdfgh#$#%^%&",
             "strictHours": false,
             "timeSlots": [
                 {
-                    "id": "baQkVGOA",
-                    "productWorkingDateId": "qeaZb7ad",
+                    "id": "8p0NVxlJ",
+                    "productWorkingDateId": "jLa3bZpz",
                     "dayOfWeek": "Monday",
                     "startTime": "09:00:00",
                     "endTime": "20:00:00",
@@ -1517,16 +1496,16 @@
     ],
     "productRegions": [
         {
-            "id": "4waDAEl3",
-            "productId": "rO98eble",
+            "id": "QrO92Ape",
+            "productId": "dl2oPxOX",
             "regionId": "5bpJKaVE",
             "regionName": null
         }
     ],
     "productPrices": [
         {
-            "id": "oylKx1O8",
-            "productId": "rO98eble",
+            "id": "YbpvVZpJ",
+            "productId": "dl2oPxOX",
             "channelId": "5bpJKaVE",
             "fromDate": "2021-05-31T00:00:00",
             "toDate": "2022-12-31T00:00:00",
@@ -1539,15 +1518,15 @@
             "pricePerPerson": false,
             "productPriceTypes": [
                 {
-                    "id": "GrOELmlY",
-                    "productPriceId": "oylKx1O8",
-                    "productCustomerTypeId": "bpJREKpV",
+                    "id": "D3pWvdO4",
+                    "productPriceId": "YbpvVZpJ",
+                    "productCustomerTypeId": "La3rXqpz",
                     "amount": 57,
                     "currencyId": "Belm3pnb",
                     "currencySymbol": null,
                     "isOfficial": true,
                     "productCustomerType": {
-                        "id": "bpJREKpV",
+                        "id": "La3rXqpz",
                         "productId": "yxl4wVaj",
                         "name": "?????"
                     }
@@ -1558,34 +1537,34 @@
     ],
     "productCustomerTypes": [
         {
-            "id": "WaNXVDOd",
-            "productId": "rO98eble",
+            "id": "eO8gz3lP",
+            "productId": "dl2oPxOX",
             "name": "API"
         },
         {
-            "id": "2aAg9GOZ",
-            "productId": "rO98eble",
+            "id": "4lrWb9Od",
+            "productId": "dl2oPxOX",
             "name": "?????"
         },
         {
-            "id": "4aLLvyan",
-            "productId": "rO98eble",
+            "id": "dOnnBZOV",
+            "productId": "dl2oPxOX",
             "name": "???"
         },
         {
-            "id": "rO98vBle",
-            "productId": "rO98eble",
+            "id": "jpjPYDlM",
+            "productId": "dl2oPxOX",
             "name": "?????"
         }
     ],
     "city": {
-        "id": "r1lkdKO6",
+        "id": "oylKe1p8",
         "name": "Israel"
     },
     "productIncludedTags": [
         {
-            "id": "kwOXW2lo",
-            "productId": "rO98eble",
+            "id": "q1lo0wO7",
+            "productId": "dl2oPxOX",
             "subTagId": "jLa3rjpz",
             "parentTagId": null,
             "subTagName": null
@@ -1593,8 +1572,8 @@
     ],
     "productExcludedTags": [
         {
-            "id": "kMaGNPpD",
-            "productId": "rO98eble",
+            "id": "BJpgzbOq",
+            "productId": "dl2oPxOX",
             "subTagId": "4eO8gvlP",
             "parentTagId": null,
             "subTagName": null
@@ -1602,8 +1581,8 @@
     ],
     "productTags": [
         {
-            "id": "La386Elz",
-            "productId": "rO98eble",
+            "id": "zOPq2Ypj",
+            "productId": "dl2oPxOX",
             "subTagId": "qeaZMepd",
             "parentTagId": null,
             "subTagName": null
@@ -1612,14 +1591,14 @@
     "productTranslations": null,
     "productVideos": [
         {
-            "id": "oylKMVp8",
-            "productId": "rO98eble",
+            "id": "BJpgdqaq",
+            "productId": "dl2oPxOX",
             "path": "https://www.youtube.com/watch?v=u1yVCeXYya4&list=RDMMu1yVCeXYya4&start_radio=1"
         }
     ]
 }
 {
-    "id": "rO98eble",
+    "id": "dl2oPxOX",
     "name": "AutoTest",
     "productTypeId": null,
     "active": true,
@@ -1630,8 +1609,8 @@
     "latitude": 3245678.5467,
     "calendarColor": "blue",
     "address": "Bishkek",
-    "cityId": "r1lkdKO6",
-    "createdAt": "2021-06-16T04:25:26.406434",
+    "cityId": "oylKe1p8",
+    "createdAt": "2021-06-16T11:24:07.195526",
     "productImages": [
         
     ],
@@ -1641,16 +1620,16 @@
     "productTypes": null,
     "productWorkingDates": [
         {
-            "id": "qeaZb7ad",
-            "productId": "rO98eble",
+            "id": "jLa3bZpz",
+            "productId": "dl2oPxOX",
             "fromDate": "2021-05-27",
             "toDate": "2022-12-31",
             "name": "1234567sdfgh#$#%^%&",
             "strictHours": false,
             "timeSlots": [
                 {
-                    "id": "baQkVGOA",
-                    "productWorkingDateId": "qeaZb7ad",
+                    "id": "8p0NVxlJ",
+                    "productWorkingDateId": "jLa3bZpz",
                     "dayOfWeek": "Monday",
                     "startTime": "09:00:00",
                     "endTime": "20:00:00",
@@ -1668,16 +1647,16 @@
     ],
     "productRegions": [
         {
-            "id": "4waDAEl3",
-            "productId": "rO98eble",
+            "id": "QrO92Ape",
+            "productId": "dl2oPxOX",
             "regionId": "5bpJKaVE",
             "regionName": null
         }
     ],
     "productPrices": [
         {
-            "id": "oylKx1O8",
-            "productId": "rO98eble",
+            "id": "YbpvVZpJ",
+            "productId": "dl2oPxOX",
             "channelId": "5bpJKaVE",
             "fromDate": "2021-05-31T00:00:00",
             "toDate": "2022-12-31T00:00:00",
@@ -1690,15 +1669,15 @@
             "pricePerPerson": false,
             "productPriceTypes": [
                 {
-                    "id": "GrOELmlY",
-                    "productPriceId": "oylKx1O8",
-                    "productCustomerTypeId": "bpJREKpV",
+                    "id": "D3pWvdO4",
+                    "productPriceId": "YbpvVZpJ",
+                    "productCustomerTypeId": "La3rXqpz",
                     "amount": 57,
                     "currencyId": "Belm3pnb",
                     "currencySymbol": null,
                     "isOfficial": true,
                     "productCustomerType": {
-                        "id": "bpJREKpV",
+                        "id": "La3rXqpz",
                         "productId": "yxl4wVaj",
                         "name": "?????"
                     }
@@ -1709,34 +1688,34 @@
     ],
     "productCustomerTypes": [
         {
-            "id": "WaNXVDOd",
-            "productId": "rO98eble",
+            "id": "eO8gz3lP",
+            "productId": "dl2oPxOX",
             "name": "API"
         },
         {
-            "id": "2aAg9GOZ",
-            "productId": "rO98eble",
+            "id": "4lrWb9Od",
+            "productId": "dl2oPxOX",
             "name": "?????"
         },
         {
-            "id": "4aLLvyan",
-            "productId": "rO98eble",
+            "id": "dOnnBZOV",
+            "productId": "dl2oPxOX",
             "name": "???"
         },
         {
-            "id": "rO98vBle",
-            "productId": "rO98eble",
+            "id": "jpjPYDlM",
+            "productId": "dl2oPxOX",
             "name": "?????"
         }
     ],
     "city": {
-        "id": "r1lkdKO6",
+        "id": "oylKe1p8",
         "name": "Israel"
     },
     "productIncludedTags": [
         {
-            "id": "kwOXW2lo",
-            "productId": "rO98eble",
+            "id": "q1lo0wO7",
+            "productId": "dl2oPxOX",
             "subTagId": "jLa3rjpz",
             "parentTagId": null,
             "subTagName": null
@@ -1744,8 +1723,8 @@
     ],
     "productExcludedTags": [
         {
-            "id": "kMaGNPpD",
-            "productId": "rO98eble",
+            "id": "BJpgzbOq",
+            "productId": "dl2oPxOX",
             "subTagId": "4eO8gvlP",
             "parentTagId": null,
             "subTagName": null
@@ -1753,8 +1732,8 @@
     ],
     "productTags": [
         {
-            "id": "La386Elz",
-            "productId": "rO98eble",
+            "id": "zOPq2Ypj",
+            "productId": "dl2oPxOX",
             "subTagId": "qeaZMepd",
             "parentTagId": null,
             "subTagName": null
@@ -1763,8 +1742,8 @@
     "productTranslations": null,
     "productVideos": [
         {
-            "id": "oylKMVp8",
-            "productId": "rO98eble",
+            "id": "BJpgdqaq",
+            "productId": "dl2oPxOX",
             "path": "https://www.youtube.com/watch?v=u1yVCeXYya4&list=RDMMu1yVCeXYya4&start_radio=1"
         }
     ]
@@ -1785,7 +1764,7 @@
     <failure message="expected:&lt;500&gt; but was:&lt;200&gt;" type="java.lang.AssertionError"><![CDATA[java.lang.AssertionError: expected:<500> but was:<200>
 ]]></failure>
     <system-out><![CDATA[{
-    "id": "eaZL1vOd",
+    "id": "Jpgy9vlq",
     "name": "AutoTest",
     "productTypeId": null,
     "active": true,
@@ -1796,8 +1775,8 @@
     "latitude": 3245678.5467,
     "calendarColor": "blue",
     "address": "Bishkek",
-    "cityId": "zblB1daR",
-    "createdAt": "2021-06-16T04:25:26.658051",
+    "cityId": "1dpdwzO7",
+    "createdAt": "2021-06-16T11:24:07.363192",
     "productImages": [
         
     ],
@@ -1807,16 +1786,16 @@
     "productTypes": null,
     "productWorkingDates": [
         {
-            "id": "5rO7vBl6",
-            "productId": "eaZL1vOd",
+            "id": "4eO8P5OP",
+            "productId": "Jpgy9vlq",
             "fromDate": "2021-05-27",
             "toDate": "2022-12-31",
             "name": "1234567sdfgh#$#%^%&",
             "strictHours": false,
             "timeSlots": [
                 {
-                    "id": "elm3M3pn",
-                    "productWorkingDateId": "5rO7vBl6",
+                    "id": "Pleozzpv",
+                    "productWorkingDateId": "4eO8P5OP",
                     "dayOfWeek": "Monday",
                     "startTime": "09:00:00",
                     "endTime": "20:00:00",
@@ -1834,16 +1813,16 @@
     ],
     "productRegions": [
         {
-            "id": "jLa34qlz",
-            "productId": "eaZL1vOd",
+            "id": "qeaZb7ad",
+            "productId": "Jpgy9vlq",
             "regionId": "5bpJKaVE",
             "regionName": null
         }
     ],
     "productPrices": [
         {
-            "id": "LbaQQQaA",
-            "productId": "eaZL1vOd",
+            "id": "ozOPnYaj",
+            "productId": "Jpgy9vlq",
             "channelId": "5bpJKaVE",
             "fromDate": "2021-05-31T00:00:00",
             "toDate": "2022-12-31T00:00:00",
@@ -1856,15 +1835,15 @@
             "pricePerPerson": false,
             "productPriceTypes": [
                 {
-                    "id": "q1loEAp7",
-                    "productPriceId": "LbaQQQaA",
-                    "productCustomerTypeId": "eaZLzeOd",
+                    "id": "yxl4MPOj",
+                    "productPriceId": "ozOPnYaj",
+                    "productCustomerTypeId": "1lkVGZa6",
                     "amount": 57,
                     "currencyId": "Belm3pnb",
                     "currencySymbol": null,
                     "isOfficial": true,
                     "productCustomerType": {
-                        "id": "eaZLzeOd",
+                        "id": "1lkVGZa6",
                         "productId": "yxl4wVaj",
                         "name": "?????"
                     }
@@ -1875,34 +1854,34 @@
     ],
     "productCustomerTypes": [
         {
-            "id": "rO7n00l6",
-            "productId": "eaZL1vOd",
+            "id": "blB7vxOR",
+            "productId": "Jpgy9vlq",
             "name": "API"
         },
         {
-            "id": "nlYx46az",
-            "productId": "eaZL1vOd",
+            "id": "WlqMy5lb",
+            "productId": "Jpgy9vlq",
             "name": "?????"
         },
         {
-            "id": "MaGE27OD",
-            "productId": "eaZL1vOd",
+            "id": "rOEEvmOY",
+            "productId": "Jpgy9vlq",
             "name": "???"
         },
         {
-            "id": "ylKdvQO8",
-            "productId": "eaZL1vOd",
+            "id": "1lonjAa7",
+            "productId": "Jpgy9vlq",
             "name": "?????"
         }
     ],
     "city": {
-        "id": "zblB1daR",
+        "id": "1dpdwzO7",
         "name": "Israel"
     },
     "productIncludedTags": [
         {
-            "id": "PYaywQOW",
-            "productId": "eaZL1vOd",
+            "id": "LbaQA3aA",
+            "productId": "Jpgy9vlq",
             "subTagId": "jLa3rjpz",
             "parentTagId": null,
             "subTagName": null
@@ -1910,8 +1889,8 @@
     ],
     "productExcludedTags": [
         {
-            "id": "oylKZKa8",
-            "productId": "eaZL1vOd",
+            "id": "0Gpb6Lpr",
+            "productId": "Jpgy9vlq",
             "subTagId": "4eO8gvlP",
             "parentTagId": null,
             "subTagName": null
@@ -1919,8 +1898,8 @@
     ],
     "productTags": [
         {
-            "id": "eO8W0zlP",
-            "productId": "eaZL1vOd",
+            "id": "blVmb2aw",
+            "productId": "Jpgy9vlq",
             "subTagId": "qeaZMepd",
             "parentTagId": null,
             "subTagName": null
@@ -1929,14 +1908,14 @@
     "productTranslations": null,
     "productVideos": [
         {
-            "id": "LbaQoeOA",
-            "productId": "eaZL1vOd",
+            "id": "0GpbqAOr",
+            "productId": "Jpgy9vlq",
             "path": "https://www.youtube.com/watch?v=u1yVCeXYya4&list=RDMMu1yVCeXYya4&start_radio=1"
         }
     ]
 }
 {
-    "id": "eaZL1vOd",
+    "id": "Jpgy9vlq",
     "name": "AutoTest",
     "productTypeId": null,
     "active": true,
@@ -1947,8 +1926,8 @@
     "latitude": 3245678.5467,
     "calendarColor": "blue",
     "address": "Bishkek",
-    "cityId": "zblB1daR",
-    "createdAt": "2021-06-16T04:25:26.658051",
+    "cityId": "1dpdwzO7",
+    "createdAt": "2021-06-16T11:24:07.363192",
     "productImages": [
         
     ],
@@ -1958,16 +1937,16 @@
     "productTypes": null,
     "productWorkingDates": [
         {
-            "id": "5rO7vBl6",
-            "productId": "eaZL1vOd",
+            "id": "4eO8P5OP",
+            "productId": "Jpgy9vlq",
             "fromDate": "2021-05-27",
             "toDate": "2022-12-31",
             "name": "1234567sdfgh#$#%^%&",
             "strictHours": false,
             "timeSlots": [
                 {
-                    "id": "elm3M3pn",
-                    "productWorkingDateId": "5rO7vBl6",
+                    "id": "Pleozzpv",
+                    "productWorkingDateId": "4eO8P5OP",
                     "dayOfWeek": "Monday",
                     "startTime": "09:00:00",
                     "endTime": "20:00:00",
@@ -1985,16 +1964,16 @@
     ],
     "productRegions": [
         {
-            "id": "jLa34qlz",
-            "productId": "eaZL1vOd",
+            "id": "qeaZb7ad",
+            "productId": "Jpgy9vlq",
             "regionId": "5bpJKaVE",
             "regionName": null
         }
     ],
     "productPrices": [
         {
-            "id": "LbaQQQaA",
-            "productId": "eaZL1vOd",
+            "id": "ozOPnYaj",
+            "productId": "Jpgy9vlq",
             "channelId": "5bpJKaVE",
             "fromDate": "2021-05-31T00:00:00",
             "toDate": "2022-12-31T00:00:00",
@@ -2007,15 +1986,15 @@
             "pricePerPerson": false,
             "productPriceTypes": [
                 {
-                    "id": "q1loEAp7",
-                    "productPriceId": "LbaQQQaA",
-                    "productCustomerTypeId": "eaZLzeOd",
+                    "id": "yxl4MPOj",
+                    "productPriceId": "ozOPnYaj",
+                    "productCustomerTypeId": "1lkVGZa6",
                     "amount": 57,
                     "currencyId": "Belm3pnb",
                     "currencySymbol": null,
                     "isOfficial": true,
                     "productCustomerType": {
-                        "id": "eaZLzeOd",
+                        "id": "1lkVGZa6",
                         "productId": "yxl4wVaj",
                         "name": "?????"
                     }
@@ -2026,34 +2005,34 @@
     ],
     "productCustomerTypes": [
         {
-            "id": "rO7n00l6",
-            "productId": "eaZL1vOd",
+            "id": "blB7vxOR",
+            "productId": "Jpgy9vlq",
             "name": "API"
         },
         {
-            "id": "nlYx46az",
-            "productId": "eaZL1vOd",
+            "id": "WlqMy5lb",
+            "productId": "Jpgy9vlq",
             "name": "?????"
         },
         {
-            "id": "MaGE27OD",
-            "productId": "eaZL1vOd",
+            "id": "rOEEvmOY",
+            "productId": "Jpgy9vlq",
             "name": "???"
         },
         {
-            "id": "ylKdvQO8",
-            "productId": "eaZL1vOd",
+            "id": "1lonjAa7",
+            "productId": "Jpgy9vlq",
             "name": "?????"
         }
     ],
     "city": {
-        "id": "zblB1daR",
+        "id": "1dpdwzO7",
         "name": "Israel"
     },
     "productIncludedTags": [
         {
-            "id": "PYaywQOW",
-            "productId": "eaZL1vOd",
+            "id": "LbaQA3aA",
+            "productId": "Jpgy9vlq",
             "subTagId": "jLa3rjpz",
             "parentTagId": null,
             "subTagName": null
@@ -2061,8 +2040,8 @@
     ],
     "productExcludedTags": [
         {
-            "id": "oylKZKa8",
-            "productId": "eaZL1vOd",
+            "id": "0Gpb6Lpr",
+            "productId": "Jpgy9vlq",
             "subTagId": "4eO8gvlP",
             "parentTagId": null,
             "subTagName": null
@@ -2070,8 +2049,8 @@
     ],
     "productTags": [
         {
-            "id": "eO8W0zlP",
-            "productId": "eaZL1vOd",
+            "id": "blVmb2aw",
+            "productId": "Jpgy9vlq",
             "subTagId": "qeaZMepd",
             "parentTagId": null,
             "subTagName": null
@@ -2080,8 +2059,8 @@
     "productTranslations": null,
     "productVideos": [
         {
-            "id": "LbaQoeOA",
-            "productId": "eaZL1vOd",
+            "id": "0GpbqAOr",
+            "productId": "Jpgy9vlq",
             "path": "https://www.youtube.com/watch?v=u1yVCeXYya4&list=RDMMu1yVCeXYya4&start_radio=1"
         }
     ]
@@ -2102,7 +2081,7 @@
     <failure message="expected:&lt;500&gt; but was:&lt;200&gt;" type="java.lang.AssertionError"><![CDATA[java.lang.AssertionError: expected:<500> but was:<200>
 ]]></failure>
     <system-out><![CDATA[{
-    "id": "rO7nX6l6",
+    "id": "Gpbzm5pr",
     "name": "AutoTest",
     "productTypeId": null,
     "active": true,
@@ -2113,8 +2092,8 @@
     "latitude": 3245678.5467,
     "calendarColor": "blue",
     "address": "",
-    "cityId": "7Wlq4Yab",
-    "createdAt": "2021-06-16T04:25:26.864282",
+    "cityId": "M5l1dRaW",
+    "createdAt": "2021-06-16T11:24:07.527571",
     "productImages": [
         
     ],
@@ -2124,16 +2103,16 @@
     "productTypes": null,
     "productWorkingDates": [
         {
-            "id": "JnlYQxlz",
-            "productId": "rO7nX6l6",
+            "id": "N4lrgdOd",
+            "productId": "Gpbzm5pr",
             "fromDate": "2021-05-27",
             "toDate": "2022-12-31",
             "name": "1234567sdfgh#$#%^%&",
             "strictHours": false,
             "timeSlots": [
                 {
-                    "id": "bpJRgKpV",
-                    "productWorkingDateId": "JnlYQxlz",
+                    "id": "ApRDQ9lY",
+                    "productWorkingDateId": "N4lrgdOd",
                     "dayOfWeek": "Monday",
                     "startTime": "09:00:00",
                     "endTime": "20:00:00",
@@ -2151,16 +2130,16 @@
     ],
     "productRegions": [
         {
-            "id": "4eO8x3OP",
-            "productId": "rO7nX6l6",
+            "id": "5rO7vBl6",
+            "productId": "Gpbzm5pr",
             "regionId": "5bpJKaVE",
             "regionName": null
         }
     ],
     "productPrices": [
         {
-            "id": "Belm7jpn",
-            "productId": "rO7nX6l6",
+            "id": "VblVn2lw",
+            "productId": "Gpbzm5pr",
             "channelId": "5bpJKaVE",
             "fromDate": "2021-05-31T00:00:00",
             "toDate": "2022-12-31T00:00:00",
@@ -2173,15 +2152,15 @@
             "pricePerPerson": false,
             "productPriceTypes": [
                 {
-                    "id": "LbaQWEOA",
-                    "productPriceId": "Belm7jpn",
-                    "productCustomerTypeId": "baQkRAOA",
+                    "id": "nGazmzpV",
+                    "productPriceId": "VblVn2lw",
+                    "productCustomerTypeId": "baQk9EOA",
                     "amount": 57,
                     "currencyId": "Belm3pnb",
                     "currencySymbol": null,
                     "isOfficial": true,
                     "productCustomerType": {
-                        "id": "baQkRAOA",
+                        "id": "baQk9EOA",
                         "productId": "yxl4wVaj",
                         "name": "?????"
                     }
@@ -2192,34 +2171,34 @@
     ],
     "productCustomerTypes": [
         {
-            "id": "elm3Pepn",
-            "productId": "rO7nX6l6",
+            "id": "elm3yKpn",
+            "productId": "Gpbzm5pr",
             "name": "API"
         },
         {
-            "id": "bpJREqpV",
-            "productId": "rO7nX6l6",
+            "id": "bpJRvApV",
+            "productId": "Gpbzm5pr",
             "name": "?????"
         },
         {
-            "id": "WaNXVBOd",
-            "productId": "rO7nX6l6",
+            "id": "WaNXNQOd",
+            "productId": "Gpbzm5pr",
             "name": "???"
         },
         {
-            "id": "2aAg9LOZ",
-            "productId": "rO7nX6l6",
+            "id": "2aAgvzOZ",
+            "productId": "Gpbzm5pr",
             "name": "?????"
         }
     ],
     "city": {
-        "id": "7Wlq4Yab",
+        "id": "M5l1dRaW",
         "name": "Israel"
     },
     "productIncludedTags": [
         {
-            "id": "D3pW8La4",
-            "productId": "rO7nX6l6",
+            "id": "BelmV9On",
+            "productId": "Gpbzm5pr",
             "subTagId": "jLa3rjpz",
             "parentTagId": null,
             "subTagName": null
@@ -2227,8 +2206,8 @@
     ],
     "productExcludedTags": [
         {
-            "id": "LbaQ12aA",
-            "productId": "rO7nX6l6",
+            "id": "dzpMjBa6",
+            "productId": "Gpbzm5pr",
             "subTagId": "4eO8gvlP",
             "parentTagId": null,
             "subTagName": null
@@ -2236,8 +2215,8 @@
     ],
     "productTags": [
         {
-            "id": "4lrnPmld",
-            "productId": "rO7nX6l6",
+            "id": "waD1ddl3",
+            "productId": "Gpbzm5pr",
             "subTagId": "qeaZMepd",
             "parentTagId": null,
             "subTagName": null
@@ -2246,14 +2225,14 @@
     "productTranslations": null,
     "productVideos": [
         {
-            "id": "Belmdqan",
-            "productId": "rO7nX6l6",
+            "id": "dzpME1p6",
+            "productId": "Gpbzm5pr",
             "path": "https://www.youtube.com/watch?v=u1yVCeXYya4&list=RDMMu1yVCeXYya4&start_radio=1"
         }
     ]
 }
 {
-    "id": "rO7nX6l6",
+    "id": "Gpbzm5pr",
     "name": "AutoTest",
     "productTypeId": null,
     "active": true,
@@ -2264,8 +2243,8 @@
     "latitude": 3245678.5467,
     "calendarColor": "blue",
     "address": "",
-    "cityId": "7Wlq4Yab",
-    "createdAt": "2021-06-16T04:25:26.864282",
+    "cityId": "M5l1dRaW",
+    "createdAt": "2021-06-16T11:24:07.527571",
     "productImages": [
         
     ],
@@ -2275,16 +2254,16 @@
     "productTypes": null,
     "productWorkingDates": [
         {
-            "id": "JnlYQxlz",
-            "productId": "rO7nX6l6",
+            "id": "N4lrgdOd",
+            "productId": "Gpbzm5pr",
             "fromDate": "2021-05-27",
             "toDate": "2022-12-31",
             "name": "1234567sdfgh#$#%^%&",
             "strictHours": false,
             "timeSlots": [
                 {
-                    "id": "bpJRgKpV",
-                    "productWorkingDateId": "JnlYQxlz",
+                    "id": "ApRDQ9lY",
+                    "productWorkingDateId": "N4lrgdOd",
                     "dayOfWeek": "Monday",
                     "startTime": "09:00:00",
                     "endTime": "20:00:00",
@@ -2302,16 +2281,16 @@
     ],
     "productRegions": [
         {
-            "id": "4eO8x3OP",
-            "productId": "rO7nX6l6",
+            "id": "5rO7vBl6",
+            "productId": "Gpbzm5pr",
             "regionId": "5bpJKaVE",
             "regionName": null
         }
     ],
     "productPrices": [
         {
-            "id": "Belm7jpn",
-            "productId": "rO7nX6l6",
+            "id": "VblVn2lw",
+            "productId": "Gpbzm5pr",
             "channelId": "5bpJKaVE",
             "fromDate": "2021-05-31T00:00:00",
             "toDate": "2022-12-31T00:00:00",
@@ -2324,15 +2303,15 @@
             "pricePerPerson": false,
             "productPriceTypes": [
                 {
-                    "id": "LbaQWEOA",
-                    "productPriceId": "Belm7jpn",
-                    "productCustomerTypeId": "baQkRAOA",
+                    "id": "nGazmzpV",
+                    "productPriceId": "VblVn2lw",
+                    "productCustomerTypeId": "baQk9EOA",
                     "amount": 57,
                     "currencyId": "Belm3pnb",
                     "currencySymbol": null,
                     "isOfficial": true,
                     "productCustomerType": {
-                        "id": "baQkRAOA",
+                        "id": "baQk9EOA",
                         "productId": "yxl4wVaj",
                         "name": "?????"
                     }
@@ -2343,34 +2322,34 @@
     ],
     "productCustomerTypes": [
         {
-            "id": "elm3Pepn",
-            "productId": "rO7nX6l6",
+            "id": "elm3yKpn",
+            "productId": "Gpbzm5pr",
             "name": "API"
         },
         {
-            "id": "bpJREqpV",
-            "productId": "rO7nX6l6",
+            "id": "bpJRvApV",
+            "productId": "Gpbzm5pr",
             "name": "?????"
         },
         {
-            "id": "WaNXVBOd",
-            "productId": "rO7nX6l6",
+            "id": "WaNXNQOd",
+            "productId": "Gpbzm5pr",
             "name": "???"
         },
         {
-            "id": "2aAg9LOZ",
-            "productId": "rO7nX6l6",
+            "id": "2aAgvzOZ",
+            "productId": "Gpbzm5pr",
             "name": "?????"
         }
     ],
     "city": {
-        "id": "7Wlq4Yab",
+        "id": "M5l1dRaW",
         "name": "Israel"
     },
     "productIncludedTags": [
         {
-            "id": "D3pW8La4",
-            "productId": "rO7nX6l6",
+            "id": "BelmV9On",
+            "productId": "Gpbzm5pr",
             "subTagId": "jLa3rjpz",
             "parentTagId": null,
             "subTagName": null
@@ -2378,8 +2357,8 @@
     ],
     "productExcludedTags": [
         {
-            "id": "LbaQ12aA",
-            "productId": "rO7nX6l6",
+            "id": "dzpMjBa6",
+            "productId": "Gpbzm5pr",
             "subTagId": "4eO8gvlP",
             "parentTagId": null,
             "subTagName": null
@@ -2387,8 +2366,8 @@
     ],
     "productTags": [
         {
-            "id": "4lrnPmld",
-            "productId": "rO7nX6l6",
+            "id": "waD1ddl3",
+            "productId": "Gpbzm5pr",
             "subTagId": "qeaZMepd",
             "parentTagId": null,
             "subTagName": null
@@ -2397,8 +2376,8 @@
     "productTranslations": null,
     "productVideos": [
         {
-            "id": "Belmdqan",
-            "productId": "rO7nX6l6",
+            "id": "dzpME1p6",
+            "productId": "Gpbzm5pr",
             "path": "https://www.youtube.com/watch?v=u1yVCeXYya4&list=RDMMu1yVCeXYya4&start_radio=1"
         }
     ]
@@ -2419,7 +2398,7 @@
     <failure message="expected:&lt;500&gt; but was:&lt;200&gt;" type="java.lang.AssertionError"><![CDATA[java.lang.AssertionError: expected:<500> but was:<200>
 ]]></failure>
     <system-out><![CDATA[{
-    "id": "nlYxvmaz",
+    "id": "zpM9JRp6",
     "name": "AutoTest",
     "productTypeId": null,
     "active": true,
@@ -2430,8 +2409,8 @@
     "latitude": 3245678.5467,
     "calendarColor": "blue",
     "address": null,
-    "cityId": "GrOEyMOY",
-    "createdAt": "2021-06-16T04:25:27.059777",
+    "cityId": "WYp6R8pK",
+    "createdAt": "2021-06-16T11:24:07.677194",
     "productImages": [
         
     ],
@@ -2441,16 +2420,16 @@
     "productTypes": null,
     "productWorkingDates": [
         {
-            "id": "kMaG6ypD",
-            "productId": "nlYxvmaz",
+            "id": "PdOnemlV",
+            "productId": "zpM9JRp6",
             "fromDate": "2021-05-27",
             "toDate": "2022-12-31",
             "name": "1234567sdfgh#$#%^%&",
             "strictHours": false,
             "timeSlots": [
                 {
-                    "id": "WaNX5DOd",
-                    "productWorkingDateId": "kMaG6ypD",
+                    "id": "7OxML2p6",
+                    "productWorkingDateId": "PdOnemlV",
                     "dayOfWeek": "Monday",
                     "startTime": "09:00:00",
                     "endTime": "20:00:00",
@@ -2468,16 +2447,16 @@
     ],
     "productRegions": [
         {
-            "id": "N4lrE9ad",
-            "productId": "nlYxvmaz",
+            "id": "JnlYQxlz",
+            "productId": "zpM9JRp6",
             "regionId": "5bpJKaVE",
             "regionName": null
         }
     ],
     "productPrices": [
         {
-            "id": "5bpJM9OV",
-            "productId": "nlYxvmaz",
+            "id": "4waDndO3",
+            "productId": "zpM9JRp6",
             "channelId": "5bpJKaVE",
             "fromDate": "2021-05-31T00:00:00",
             "toDate": "2022-12-31T00:00:00",
@@ -2490,15 +2469,15 @@
             "pricePerPerson": false,
             "productPriceTypes": [
                 {
-                    "id": "BelmEKln",
-                    "productPriceId": "5bpJM9OV",
-                    "productCustomerTypeId": "4aLLvZan",
+                    "id": "k8p0x0pJ",
+                    "productPriceId": "4waDndO3",
+                    "productCustomerTypeId": "4aLLmkan",
                     "amount": 57,
                     "currencyId": "Belm3pnb",
                     "currencySymbol": null,
                     "isOfficial": true,
                     "productCustomerType": {
-                        "id": "4aLLvZan",
+                        "id": "4aLLmkan",
                         "productId": "yxl4wVaj",
                         "name": "?????"
                     }
@@ -2509,34 +2488,34 @@
     ],
     "productCustomerTypes": [
         {
-            "id": "rO98vble",
-            "productId": "nlYxvmaz",
+            "id": "rO98dxle",
+            "productId": "zpM9JRp6",
             "name": "API"
         },
         {
-            "id": "eaZLzvOd",
-            "productId": "nlYxvmaz",
+            "id": "eaZLqbOd",
+            "productId": "zpM9JRp6",
             "name": "?????"
         },
         {
-            "id": "rO7n06l6",
-            "productId": "nlYxvmaz",
+            "id": "rO7nzvl6",
+            "productId": "zpM9JRp6",
             "name": "???"
         },
         {
-            "id": "nlYx4maz",
-            "productId": "nlYxvmaz",
+            "id": "nlYxBZaz",
+            "productId": "zpM9JRp6",
             "name": "?????"
         }
     ],
     "city": {
-        "id": "GrOEyMOY",
+        "id": "WYp6R8pK",
         "name": "Israel"
     },
     "productIncludedTags": [
         {
-            "id": "yxl4Xjlj",
-            "productId": "nlYxvmaz",
+            "id": "5bpJyoOV",
+            "productId": "zpM9JRp6",
             "subTagId": "jLa3rjpz",
             "parentTagId": null,
             "subTagName": null
@@ -2544,8 +2523,8 @@
     ],
     "productExcludedTags": [
         {
-            "id": "BelmrMOn",
-            "productId": "nlYxvmaz",
+            "id": "0ZOwdKpx",
+            "productId": "zpM9JRp6",
             "subTagId": "4eO8gvlP",
             "parentTagId": null,
             "subTagName": null
@@ -2553,8 +2532,8 @@
     ],
     "productTags": [
         {
-            "id": "dOnzbVOV",
-            "productId": "nlYxvmaz",
+            "id": "La38AElz",
+            "productId": "zpM9JRp6",
             "subTagId": "qeaZMepd",
             "parentTagId": null,
             "subTagName": null
@@ -2563,14 +2542,14 @@
     "productTranslations": null,
     "productVideos": [
         {
-            "id": "5bpJ27pV",
-            "productId": "nlYxvmaz",
+            "id": "0ZOwwvOx",
+            "productId": "zpM9JRp6",
             "path": "https://www.youtube.com/watch?v=u1yVCeXYya4&list=RDMMu1yVCeXYya4&start_radio=1"
         }
     ]
 }
 {
-    "id": "nlYxvmaz",
+    "id": "zpM9JRp6",
     "name": "AutoTest",
     "productTypeId": null,
     "active": true,
@@ -2581,8 +2560,8 @@
     "latitude": 3245678.5467,
     "calendarColor": "blue",
     "address": null,
-    "cityId": "GrOEyMOY",
-    "createdAt": "2021-06-16T04:25:27.059777",
+    "cityId": "WYp6R8pK",
+    "createdAt": "2021-06-16T11:24:07.677194",
     "productImages": [
         
     ],
@@ -2592,16 +2571,16 @@
     "productTypes": null,
     "productWorkingDates": [
         {
-            "id": "kMaG6ypD",
-            "productId": "nlYxvmaz",
+            "id": "PdOnemlV",
+            "productId": "zpM9JRp6",
             "fromDate": "2021-05-27",
             "toDate": "2022-12-31",
             "name": "1234567sdfgh#$#%^%&",
             "strictHours": false,
             "timeSlots": [
                 {
-                    "id": "WaNX5DOd",
-                    "productWorkingDateId": "kMaG6ypD",
+                    "id": "7OxML2p6",
+                    "productWorkingDateId": "PdOnemlV",
                     "dayOfWeek": "Monday",
                     "startTime": "09:00:00",
                     "endTime": "20:00:00",
@@ -2619,16 +2598,16 @@
     ],
     "productRegions": [
         {
-            "id": "N4lrE9ad",
-            "productId": "nlYxvmaz",
+            "id": "JnlYQxlz",
+            "productId": "zpM9JRp6",
             "regionId": "5bpJKaVE",
             "regionName": null
         }
     ],
     "productPrices": [
         {
-            "id": "5bpJM9OV",
-            "productId": "nlYxvmaz",
+            "id": "4waDndO3",
+            "productId": "zpM9JRp6",
             "channelId": "5bpJKaVE",
             "fromDate": "2021-05-31T00:00:00",
             "toDate": "2022-12-31T00:00:00",
@@ -2641,15 +2620,15 @@
             "pricePerPerson": false,
             "productPriceTypes": [
                 {
-                    "id": "BelmEKln",
-                    "productPriceId": "5bpJM9OV",
-                    "productCustomerTypeId": "4aLLvZan",
+                    "id": "k8p0x0pJ",
+                    "productPriceId": "4waDndO3",
+                    "productCustomerTypeId": "4aLLmkan",
                     "amount": 57,
                     "currencyId": "Belm3pnb",
                     "currencySymbol": null,
                     "isOfficial": true,
                     "productCustomerType": {
-                        "id": "4aLLvZan",
+                        "id": "4aLLmkan",
                         "productId": "yxl4wVaj",
                         "name": "?????"
                     }
@@ -2660,34 +2639,34 @@
     ],
     "productCustomerTypes": [
         {
-            "id": "rO98vble",
-            "productId": "nlYxvmaz",
+            "id": "rO98dxle",
+            "productId": "zpM9JRp6",
             "name": "API"
         },
         {
-            "id": "eaZLzvOd",
-            "productId": "nlYxvmaz",
+            "id": "eaZLqbOd",
+            "productId": "zpM9JRp6",
             "name": "?????"
         },
         {
-            "id": "rO7n06l6",
-            "productId": "nlYxvmaz",
+            "id": "rO7nzvl6",
+            "productId": "zpM9JRp6",
             "name": "???"
         },
         {
-            "id": "nlYx4maz",
-            "productId": "nlYxvmaz",
+            "id": "nlYxBZaz",
+            "productId": "zpM9JRp6",
             "name": "?????"
         }
     ],
     "city": {
-        "id": "GrOEyMOY",
+        "id": "WYp6R8pK",
         "name": "Israel"
     },
     "productIncludedTags": [
         {
-            "id": "yxl4Xjlj",
-            "productId": "nlYxvmaz",
+            "id": "5bpJyoOV",
+            "productId": "zpM9JRp6",
             "subTagId": "jLa3rjpz",
             "parentTagId": null,
             "subTagName": null
@@ -2695,8 +2674,8 @@
     ],
     "productExcludedTags": [
         {
-            "id": "BelmrMOn",
-            "productId": "nlYxvmaz",
+            "id": "0ZOwdKpx",
+            "productId": "zpM9JRp6",
             "subTagId": "4eO8gvlP",
             "parentTagId": null,
             "subTagName": null
@@ -2704,8 +2683,8 @@
     ],
     "productTags": [
         {
-            "id": "dOnzbVOV",
-            "productId": "nlYxvmaz",
+            "id": "La38AElz",
+            "productId": "zpM9JRp6",
             "subTagId": "qeaZMepd",
             "parentTagId": null,
             "subTagName": null
@@ -2714,8 +2693,8 @@
     "productTranslations": null,
     "productVideos": [
         {
-            "id": "5bpJ27pV",
-            "productId": "nlYxvmaz",
+            "id": "0ZOwwvOx",
+            "productId": "zpM9JRp6",
             "path": "https://www.youtube.com/watch?v=u1yVCeXYya4&list=RDMMu1yVCeXYya4&start_radio=1"
         }
     ]
@@ -2737,7 +2716,7 @@
     <failure message="expected:&lt;500&gt; but was:&lt;200&gt;" type="java.lang.AssertionError"><![CDATA[java.lang.AssertionError: expected:<500> but was:<200>
 ]]></failure>
     <system-out><![CDATA[{
-    "id": "MaGE7NOD",
+    "id": "ZOwLzDpx",
     "name": "AutoTest",
     "productTypeId": null,
     "active": true,
@@ -2748,8 +2727,8 @@
     "latitude": 3245678.5467,
     "calendarColor": "blue",
     "address": "Bishkek",
-    "cityId": "q1loyep7",
-    "createdAt": "2021-06-16T04:25:27.293571",
+    "cityId": "kwOXAopo",
+    "createdAt": "2021-06-16T11:24:07.891465",
     "productImages": [
         
     ],
@@ -2759,16 +2738,16 @@
     "productTypes": null,
     "productWorkingDates": [
         {
-            "id": "oylK4VO8",
-            "productId": "MaGE7NOD",
+            "id": "EjpjWdaM",
+            "productId": "ZOwLzDpx",
             "fromDate": "2021-05-27",
             "toDate": "2022-12-31",
             "name": "1234567sdfgh#$#%^%&",
             "strictHours": false,
             "timeSlots": [
                 {
-                    "id": "2aAgyGOZ",
-                    "productWorkingDateId": "oylK4VO8",
+                    "id": "dl2omVOX",
+                    "productWorkingDateId": "EjpjWdaM",
                     "dayOfWeek": "Monday",
                     "startTime": "09:00:00",
                     "endTime": "20:00:00",
@@ -2786,16 +2765,16 @@
     ],
     "productRegions": [
         {
-            "id": "PdOnEZlV",
-            "productId": "MaGE7NOD",
+            "id": "kMaG6ypD",
+            "productId": "ZOwLzDpx",
             "regionId": "5bpJKaVE",
             "regionName": null
         }
     ],
     "productPrices": [
         {
-            "id": "0WaNx8Od",
-            "productId": "MaGE7NOD",
+            "id": "jLa3REpz",
+            "productId": "ZOwLzDpx",
             "channelId": "5bpJKaVE",
             "fromDate": "2021-05-31T00:00:00",
             "toDate": "2022-12-31T00:00:00",
@@ -2808,15 +2787,15 @@
             "pricePerPerson": false,
             "productPriceTypes": [
                 {
-                    "id": "5bpJGAaV",
-                    "productPriceId": "0WaNx8Od",
-                    "productCustomerTypeId": "MaGE2NOD",
+                    "id": "KPledbav",
+                    "productPriceId": "jLa3REpz",
+                    "productCustomerTypeId": "MaGEvjOD",
                     "amount": 57,
                     "currencyId": "Belm3pnb",
                     "currencySymbol": null,
                     "isOfficial": true,
                     "productCustomerType": {
-                        "id": "MaGE2NOD",
+                        "id": "MaGEvjOD",
                         "productId": "yxl4wVaj",
                         "name": "?????"
                     }
@@ -2827,34 +2806,34 @@
     ],
     "productCustomerTypes": [
         {
-            "id": "ylKdv8O8",
-            "productId": "MaGE7NOD",
+            "id": "ylKdQ6O8",
+            "productId": "ZOwLzDpx",
             "name": "API"
         },
         {
-            "id": "dpd5mga7",
-            "productId": "MaGE7NOD",
+            "id": "dpd5Nka7",
+            "productId": "ZOwLzDpx",
             "name": "?????"
         },
         {
-            "id": "5l1AGmlW",
-            "productId": "MaGE7NOD",
+            "id": "5l1AvzlW",
+            "productId": "ZOwLzDpx",
             "name": "???"
         },
         {
-            "id": "Yp6g6GaK",
-            "productId": "MaGE7NOD",
+            "id": "Yp6gXdaK",
+            "productId": "ZOwLzDpx",
             "name": "?????"
         }
     ],
     "city": {
-        "id": "q1loyep7",
+        "id": "kwOXAopo",
         "name": "Israel"
     },
     "productIncludedTags": [
         {
-            "id": "nGazzbaV",
-            "productId": "MaGE7NOD",
+            "id": "0WaNmypd",
+            "productId": "ZOwLzDpx",
             "subTagId": "jLa3rjpz",
             "parentTagId": null,
             "subTagName": null
@@ -2862,8 +2841,8 @@
     ],
     "productExcludedTags": [
         {
-            "id": "5bpJ9jOV",
-            "productId": "MaGE7NOD",
+            "id": "bBl5XmaX",
+            "productId": "ZOwLzDpx",
             "subTagId": "4eO8gvlP",
             "parentTagId": null,
             "subTagName": null
@@ -2871,8 +2850,8 @@
     ],
     "productTags": [
         {
-            "id": "jpjeZ1OM",
-            "productId": "MaGE7NOD",
+            "id": "eO8WQzlP",
+            "productId": "ZOwLzDpx",
             "subTagId": "qeaZMepd",
             "parentTagId": null,
             "subTagName": null
@@ -2881,14 +2860,14 @@
     "productTranslations": null,
     "productVideos": [
         {
-            "id": "0WaNj0ad",
-            "productId": "MaGE7NOD",
+            "id": "bBl59AlX",
+            "productId": "ZOwLzDpx",
             "path": "https://www.youtube.com/watch?v=u1yVCeXYya4&list=RDMMu1yVCeXYya4&start_radio=1"
         }
     ]
 }
 {
-    "id": "MaGE7NOD",
+    "id": "ZOwLzDpx",
     "name": "AutoTest",
     "productTypeId": null,
     "active": true,
@@ -2899,8 +2878,8 @@
     "latitude": 3245678.5467,
     "calendarColor": "blue",
     "address": "Bishkek",
-    "cityId": "q1loyep7",
-    "createdAt": "2021-06-16T04:25:27.293571",
+    "cityId": "kwOXAopo",
+    "createdAt": "2021-06-16T11:24:07.891465",
     "productImages": [
         
     ],
@@ -2910,16 +2889,16 @@
     "productTypes": null,
     "productWorkingDates": [
         {
-            "id": "oylK4VO8",
-            "productId": "MaGE7NOD",
+            "id": "EjpjWdaM",
+            "productId": "ZOwLzDpx",
             "fromDate": "2021-05-27",
             "toDate": "2022-12-31",
             "name": "1234567sdfgh#$#%^%&",
             "strictHours": false,
             "timeSlots": [
                 {
-                    "id": "2aAgyGOZ",
-                    "productWorkingDateId": "oylK4VO8",
+                    "id": "dl2omVOX",
+                    "productWorkingDateId": "EjpjWdaM",
                     "dayOfWeek": "Monday",
                     "startTime": "09:00:00",
                     "endTime": "20:00:00",
@@ -2937,16 +2916,16 @@
     ],
     "productRegions": [
         {
-            "id": "PdOnEZlV",
-            "productId": "MaGE7NOD",
+            "id": "kMaG6ypD",
+            "productId": "ZOwLzDpx",
             "regionId": "5bpJKaVE",
             "regionName": null
         }
     ],
     "productPrices": [
         {
-            "id": "0WaNx8Od",
-            "productId": "MaGE7NOD",
+            "id": "jLa3REpz",
+            "productId": "ZOwLzDpx",
             "channelId": "5bpJKaVE",
             "fromDate": "2021-05-31T00:00:00",
             "toDate": "2022-12-31T00:00:00",
@@ -2959,15 +2938,15 @@
             "pricePerPerson": false,
             "productPriceTypes": [
                 {
-                    "id": "5bpJGAaV",
-                    "productPriceId": "0WaNx8Od",
-                    "productCustomerTypeId": "MaGE2NOD",
+                    "id": "KPledbav",
+                    "productPriceId": "jLa3REpz",
+                    "productCustomerTypeId": "MaGEvjOD",
                     "amount": 57,
                     "currencyId": "Belm3pnb",
                     "currencySymbol": null,
                     "isOfficial": true,
                     "productCustomerType": {
-                        "id": "MaGE2NOD",
+                        "id": "MaGEvjOD",
                         "productId": "yxl4wVaj",
                         "name": "?????"
                     }
@@ -2978,34 +2957,34 @@
     ],
     "productCustomerTypes": [
         {
-            "id": "ylKdv8O8",
-            "productId": "MaGE7NOD",
+            "id": "ylKdQ6O8",
+            "productId": "ZOwLzDpx",
             "name": "API"
         },
         {
-            "id": "dpd5mga7",
-            "productId": "MaGE7NOD",
+            "id": "dpd5Nka7",
+            "productId": "ZOwLzDpx",
             "name": "?????"
         },
         {
-            "id": "5l1AGmlW",
-            "productId": "MaGE7NOD",
+            "id": "5l1AvzlW",
+            "productId": "ZOwLzDpx",
             "name": "???"
         },
         {
-            "id": "Yp6g6GaK",
-            "productId": "MaGE7NOD",
+            "id": "Yp6gXdaK",
+            "productId": "ZOwLzDpx",
             "name": "?????"
         }
     ],
     "city": {
-        "id": "q1loyep7",
+        "id": "kwOXAopo",
         "name": "Israel"
     },
     "productIncludedTags": [
         {
-            "id": "nGazzbaV",
-            "productId": "MaGE7NOD",
+            "id": "0WaNmypd",
+            "productId": "ZOwLzDpx",
             "subTagId": "jLa3rjpz",
             "parentTagId": null,
             "subTagName": null
@@ -3013,8 +2992,8 @@
     ],
     "productExcludedTags": [
         {
-            "id": "5bpJ9jOV",
-            "productId": "MaGE7NOD",
+            "id": "bBl5XmaX",
+            "productId": "ZOwLzDpx",
             "subTagId": "4eO8gvlP",
             "parentTagId": null,
             "subTagName": null
@@ -3022,8 +3001,8 @@
     ],
     "productTags": [
         {
-            "id": "jpjeZ1OM",
-            "productId": "MaGE7NOD",
+            "id": "eO8WQzlP",
+            "productId": "ZOwLzDpx",
             "subTagId": "qeaZMepd",
             "parentTagId": null,
             "subTagName": null
@@ -3032,8 +3011,8 @@
     "productTranslations": null,
     "productVideos": [
         {
-            "id": "0WaNj0ad",
-            "productId": "MaGE7NOD",
+            "id": "bBl59AlX",
+            "productId": "ZOwLzDpx",
             "path": "https://www.youtube.com/watch?v=u1yVCeXYya4&list=RDMMu1yVCeXYya4&start_radio=1"
         }
     ]
@@ -3097,7 +3076,7 @@
     <failure message="expected:&lt;500&gt; but was:&lt;200&gt;" type="java.lang.AssertionError"><![CDATA[java.lang.AssertionError: expected:<500> but was:<200>
 ]]></failure>
     <system-out><![CDATA[{
-    "id": "ylKdg8O8",
+    "id": "Bl51P9lX",
     "name": "AutoTest",
     "productTypeId": null,
     "active": true,
@@ -3108,8 +3087,8 @@
     "latitude": 3245678.5467,
     "calendarColor": "blue",
     "address": "Bishkek",
-    "cityId": "LbaQwYOA",
-    "createdAt": "2021-06-16T04:25:28.945814",
+    "cityId": "PYayMraW",
+    "createdAt": "2021-06-16T11:24:09.188149",
     "productImages": [
         
     ],
@@ -3119,16 +3098,16 @@
     "productTypes": null,
     "productWorkingDates": [
         {
-            "id": "1dpdKYO7",
-            "productId": "ylKdg8O8",
+            "id": "r1lk4oO6",
+            "productId": "Bl51P9lX",
             "fromDate": "2022-12-31",
             "toDate": "2022-12-31",
             "name": "",
             "strictHours": false,
             "timeSlots": [
                 {
-                    "id": "4aLLMyan",
-                    "productWorkingDateId": "1dpdKYO7",
+                    "id": "Jpgyerlq",
+                    "productWorkingDateId": "r1lk4oO6",
                     "dayOfWeek": "Monday",
                     "startTime": "09:00:00",
                     "endTime": "20:00:00",
@@ -3146,16 +3125,16 @@
     ],
     "productRegions": [
         {
-            "id": "EjpjEDOM",
-            "productId": "ylKdg8O8",
+            "id": "oylK4VO8",
+            "productId": "Bl51P9lX",
             "regionId": "5bpJKaVE",
             "regionName": null
         }
     ],
     "productPrices": [
         {
-            "id": "52aA3XOZ",
-            "productId": "ylKdg8O8",
+            "id": "4eO88zOP",
+            "productId": "Bl51P9lX",
             "channelId": "5bpJKaVE",
             "fromDate": "2021-05-31T00:00:00",
             "toDate": "2022-12-31T00:00:00",
@@ -3168,15 +3147,15 @@
             "pricePerPerson": false,
             "productPriceTypes": [
                 {
-                    "id": "0WaN6Qad",
-                    "productPriceId": "52aA3XOZ",
-                    "productCustomerTypeId": "wOXzvGao",
+                    "id": "vApRgNaY",
+                    "productPriceId": "4eO88zOP",
+                    "productCustomerTypeId": "wOXzWnao",
                     "amount": 57,
                     "currencyId": "Belm3pnb",
                     "currencySymbol": null,
                     "isOfficial": true,
                     "productCustomerType": {
-                        "id": "wOXzvGao",
+                        "id": "wOXzWnao",
                         "productId": "yxl4wVaj",
                         "name": "?????"
                     }
@@ -3187,34 +3166,34 @@
     ],
     "productCustomerTypes": [
         {
-            "id": "YayqDzaW",
-            "productId": "ylKdg8O8",
+            "id": "YayqwYaW",
+            "productId": "Bl51P9lX",
             "name": "API"
         },
         {
-            "id": "3pWoMjp4",
-            "productId": "ylKdg8O8",
+            "id": "3pWo8Rp4",
+            "productId": "Bl51P9lX",
             "name": "?????"
         },
         {
-            "id": "xl4Wxoaj",
-            "productId": "ylKdg8O8",
+            "id": "xl4WXqaj",
+            "productId": "Bl51P9lX",
             "name": "???"
         },
         {
-            "id": "Gaz7DElV",
-            "productId": "ylKdg8O8",
+            "id": "Gaz7z5lV",
+            "productId": "Bl51P9lX",
             "name": "?????"
         }
     ],
     "city": {
-        "id": "LbaQwYOA",
+        "id": "PYayMraW",
         "name": "Israel"
     },
     "productIncludedTags": [
         {
-            "id": "k8p0PvpJ",
-            "productId": "ylKdg8O8",
+            "id": "52aAM3aZ",
+            "productId": "Bl51P9lX",
             "subTagId": "jLa3rjpz",
             "parentTagId": null,
             "subTagName": null
@@ -3222,8 +3201,8 @@
     ],
     "productExcludedTags": [
         {
-            "id": "0WaNGWld",
-            "productId": "ylKdg8O8",
+            "id": "YbpvKJaJ",
+            "productId": "Bl51P9lX",
             "subTagId": "4eO8gvlP",
             "parentTagId": null,
             "subTagName": null
@@ -3231,8 +3210,8 @@
     ],
     "productTags": [
         {
-            "id": "1lkv6wa6",
-            "productId": "ylKdg8O8",
+            "id": "4lrnjmld",
+            "productId": "Bl51P9lX",
             "subTagId": "qeaZMepd",
             "parentTagId": null,
             "subTagName": null
@@ -3241,14 +3220,14 @@
     "productTranslations": null,
     "productVideos": [
         {
-            "id": "52aAE9aZ",
-            "productId": "ylKdg8O8",
+            "id": "Ybpv37aJ",
+            "productId": "Bl51P9lX",
             "path": "https://www.youtube.com/watch?v=u1yVCeXYya4&list=RDMMu1yVCeXYya4&start_radio=1"
         }
     ]
 }
 {
-    "id": "ylKdg8O8",
+    "id": "Bl51P9lX",
     "name": "AutoTest",
     "productTypeId": null,
     "active": true,
@@ -3259,8 +3238,8 @@
     "latitude": 3245678.5467,
     "calendarColor": "blue",
     "address": "Bishkek",
-    "cityId": "LbaQwYOA",
-    "createdAt": "2021-06-16T04:25:28.945814",
+    "cityId": "PYayMraW",
+    "createdAt": "2021-06-16T11:24:09.188149",
     "productImages": [
         
     ],
@@ -3270,16 +3249,16 @@
     "productTypes": null,
     "productWorkingDates": [
         {
-            "id": "1dpdKYO7",
-            "productId": "ylKdg8O8",
+            "id": "r1lk4oO6",
+            "productId": "Bl51P9lX",
             "fromDate": "2022-12-31",
             "toDate": "2022-12-31",
             "name": "",
             "strictHours": false,
             "timeSlots": [
                 {
-                    "id": "4aLLMyan",
-                    "productWorkingDateId": "1dpdKYO7",
+                    "id": "Jpgyerlq",
+                    "productWorkingDateId": "r1lk4oO6",
                     "dayOfWeek": "Monday",
                     "startTime": "09:00:00",
                     "endTime": "20:00:00",
@@ -3297,16 +3276,16 @@
     ],
     "productRegions": [
         {
-            "id": "EjpjEDOM",
-            "productId": "ylKdg8O8",
+            "id": "oylK4VO8",
+            "productId": "Bl51P9lX",
             "regionId": "5bpJKaVE",
             "regionName": null
         }
     ],
     "productPrices": [
         {
-            "id": "52aA3XOZ",
-            "productId": "ylKdg8O8",
+            "id": "4eO88zOP",
+            "productId": "Bl51P9lX",
             "channelId": "5bpJKaVE",
             "fromDate": "2021-05-31T00:00:00",
             "toDate": "2022-12-31T00:00:00",
@@ -3319,15 +3298,15 @@
             "pricePerPerson": false,
             "productPriceTypes": [
                 {
-                    "id": "0WaN6Qad",
-                    "productPriceId": "52aA3XOZ",
-                    "productCustomerTypeId": "wOXzvGao",
+                    "id": "vApRgNaY",
+                    "productPriceId": "4eO88zOP",
+                    "productCustomerTypeId": "wOXzWnao",
                     "amount": 57,
                     "currencyId": "Belm3pnb",
                     "currencySymbol": null,
                     "isOfficial": true,
                     "productCustomerType": {
-                        "id": "wOXzvGao",
+                        "id": "wOXzWnao",
                         "productId": "yxl4wVaj",
                         "name": "?????"
                     }
@@ -3338,34 +3317,34 @@
     ],
     "productCustomerTypes": [
         {
-            "id": "YayqDzaW",
-            "productId": "ylKdg8O8",
+            "id": "YayqwYaW",
+            "productId": "Bl51P9lX",
             "name": "API"
         },
         {
-            "id": "3pWoMjp4",
-            "productId": "ylKdg8O8",
+            "id": "3pWo8Rp4",
+            "productId": "Bl51P9lX",
             "name": "?????"
         },
         {
-            "id": "xl4Wxoaj",
-            "productId": "ylKdg8O8",
+            "id": "xl4WXqaj",
+            "productId": "Bl51P9lX",
             "name": "???"
         },
         {
-            "id": "Gaz7DElV",
-            "productId": "ylKdg8O8",
+            "id": "Gaz7z5lV",
+            "productId": "Bl51P9lX",
             "name": "?????"
         }
     ],
     "city": {
-        "id": "LbaQwYOA",
+        "id": "PYayMraW",
         "name": "Israel"
     },
     "productIncludedTags": [
         {
-            "id": "k8p0PvpJ",
-            "productId": "ylKdg8O8",
+            "id": "52aAM3aZ",
+            "productId": "Bl51P9lX",
             "subTagId": "jLa3rjpz",
             "parentTagId": null,
             "subTagName": null
@@ -3373,8 +3352,8 @@
     ],
     "productExcludedTags": [
         {
-            "id": "0WaNGWld",
-            "productId": "ylKdg8O8",
+            "id": "YbpvKJaJ",
+            "productId": "Bl51P9lX",
             "subTagId": "4eO8gvlP",
             "parentTagId": null,
             "subTagName": null
@@ -3382,8 +3361,8 @@
     ],
     "productTags": [
         {
-            "id": "1lkv6wa6",
-            "productId": "ylKdg8O8",
+            "id": "4lrnjmld",
+            "productId": "Bl51P9lX",
             "subTagId": "qeaZMepd",
             "parentTagId": null,
             "subTagName": null
@@ -3392,8 +3371,8 @@
     "productTranslations": null,
     "productVideos": [
         {
-            "id": "52aAE9aZ",
-            "productId": "ylKdg8O8",
+            "id": "Ybpv37aJ",
+            "productId": "Bl51P9lX",
             "path": "https://www.youtube.com/watch?v=u1yVCeXYya4&list=RDMMu1yVCeXYya4&start_radio=1"
         }
     ]
@@ -3455,7 +3434,7 @@
     <failure message="expected:&lt;400&gt; but was:&lt;200&gt;" type="java.lang.AssertionError"><![CDATA[java.lang.AssertionError: expected:<400> but was:<200>
 ]]></failure>
     <system-out><![CDATA[{
-    "id": "elm3WKpn",
+    "id": "zOPeLLpj",
     "name": "AutoTest",
     "productTypeId": null,
     "active": true,
@@ -3466,8 +3445,8 @@
     "latitude": 3245678.5467,
     "calendarColor": "blue",
     "address": "Bishkek",
-    "cityId": "5bpJeeOV",
-    "createdAt": "2021-06-16T04:25:30.09715",
+    "cityId": "yxl447lj",
+    "createdAt": "2021-06-16T11:24:10.35576",
     "productImages": [
         
     ],
@@ -3477,16 +3456,16 @@
     "productTypes": null,
     "productWorkingDates": [
         {
-            "id": "WYp65nOK",
-            "productId": "elm3WKpn",
+            "id": "7Wlq2POb",
+            "productId": "zOPeLLpj",
             "fromDate": "2022-12-31",
             "toDate": "2022-12-31",
             "name": "1234",
             "strictHours": false,
             "timeSlots": [
                 {
-                    "id": "rO987Ble",
-                    "productWorkingDateId": "WYp65nOK",
+                    "id": "Gpbzy4pr",
+                    "productWorkingDateId": "7Wlq2POb",
                     "dayOfWeek": "Monday",
                     "startTime": "00:00:00",
                     "endTime": "20:00:00",
@@ -3504,16 +3483,16 @@
     ],
     "productRegions": [
         {
-            "id": "zblBJxlR",
-            "productId": "elm3WKpn",
+            "id": "M5l12VOW",
+            "productId": "zOPeLLpj",
             "regionId": "5bpJKaVE",
             "regionName": null
         }
     ],
     "productPrices": [
         {
-            "id": "QrO9y1Oe",
-            "productId": "elm3WKpn",
+            "id": "PdOn5VlV",
+            "productId": "zOPeLLpj",
             "channelId": "5bpJKaVE",
             "fromDate": "2021-05-31T00:00:00",
             "toDate": "2022-12-31T00:00:00",
@@ -3526,15 +3505,15 @@
             "pricePerPerson": false,
             "productPriceTypes": [
                 {
-                    "id": "52aAozOZ",
-                    "productPriceId": "QrO9y1Oe",
-                    "productCustomerTypeId": "JpgyArlq",
+                    "id": "q7OxPNO6",
+                    "productPriceId": "PdOn5VlV",
+                    "productCustomerTypeId": "Jpgy0vlq",
                     "amount": 57,
                     "currencyId": "Belm3pnb",
                     "currencySymbol": null,
                     "isOfficial": true,
                     "productCustomerType": {
-                        "id": "JpgyArlq",
+                        "id": "Jpgy0vlq",
                         "productId": "yxl4wVaj",
                         "name": "?????"
                     }
@@ -3545,34 +3524,34 @@
     ],
     "productCustomerTypes": [
         {
-            "id": "GpbzZ4pr",
-            "productId": "elm3WKpn",
+            "id": "GpbzV5pr",
+            "productId": "zOPeLLpj",
             "name": "API"
         },
         {
-            "id": "zpM9Kbp6",
-            "productId": "elm3WKpn",
+            "id": "zpM9QRp6",
+            "productId": "zOPeLLpj",
             "name": "?????"
         },
         {
-            "id": "ZOwLDZpx",
-            "productId": "elm3WKpn",
+            "id": "ZOwL9Dpx",
+            "productId": "zOPeLLpj",
             "name": "???"
         },
         {
-            "id": "Bl5165lX",
-            "productId": "elm3WKpn",
+            "id": "Bl51E9lX",
+            "productId": "zOPeLLpj",
             "name": "?????"
         }
     ],
     "city": {
-        "id": "5bpJeeOV",
+        "id": "yxl447lj",
         "name": "Israel"
     },
     "productIncludedTags": [
         {
-            "id": "vApRZJpY",
-            "productId": "elm3WKpn",
+            "id": "QrO9EoOe",
+            "productId": "zOPeLLpj",
             "subTagId": "jLa3rjpz",
             "parentTagId": null,
             "subTagName": null
@@ -3580,8 +3559,8 @@
     ],
     "productExcludedTags": [
         {
-            "id": "Q4aL7Ypn",
-            "productId": "elm3WKpn",
+            "id": "VblVJLlw",
+            "productId": "zOPeLLpj",
             "subTagId": "4eO8gvlP",
             "parentTagId": null,
             "subTagName": null
@@ -3589,8 +3568,8 @@
     ],
     "productTags": [
         {
-            "id": "Wlqb6GOb",
-            "productId": "elm3WKpn",
+            "id": "jpjeo1OM",
+            "productId": "zOPeLLpj",
             "subTagId": "qeaZMepd",
             "parentTagId": null,
             "subTagName": null
@@ -3599,14 +3578,14 @@
     "productTranslations": null,
     "productVideos": [
         {
-            "id": "QrO9meOe",
-            "productId": "elm3WKpn",
+            "id": "VblVbVlw",
+            "productId": "zOPeLLpj",
             "path": "https://www.youtube.com/watch?v=u1yVCeXYya4&list=RDMMu1yVCeXYya4&start_radio=1"
         }
     ]
 }
 {
-    "id": "elm3WKpn",
+    "id": "zOPeLLpj",
     "name": "AutoTest",
     "productTypeId": null,
     "active": true,
@@ -3617,8 +3596,8 @@
     "latitude": 3245678.5467,
     "calendarColor": "blue",
     "address": "Bishkek",
-    "cityId": "5bpJeeOV",
-    "createdAt": "2021-06-16T04:25:30.09715",
+    "cityId": "yxl447lj",
+    "createdAt": "2021-06-16T11:24:10.35576",
     "productImages": [
         
     ],
@@ -3628,16 +3607,16 @@
     "productTypes": null,
     "productWorkingDates": [
         {
-            "id": "WYp65nOK",
-            "productId": "elm3WKpn",
+            "id": "7Wlq2POb",
+            "productId": "zOPeLLpj",
             "fromDate": "2022-12-31",
             "toDate": "2022-12-31",
             "name": "1234",
             "strictHours": false,
             "timeSlots": [
                 {
-                    "id": "rO987Ble",
-                    "productWorkingDateId": "WYp65nOK",
+                    "id": "Gpbzy4pr",
+                    "productWorkingDateId": "7Wlq2POb",
                     "dayOfWeek": "Monday",
                     "startTime": "00:00:00",
                     "endTime": "20:00:00",
@@ -3655,16 +3634,16 @@
     ],
     "productRegions": [
         {
-            "id": "zblBJxlR",
-            "productId": "elm3WKpn",
+            "id": "M5l12VOW",
+            "productId": "zOPeLLpj",
             "regionId": "5bpJKaVE",
             "regionName": null
         }
     ],
     "productPrices": [
         {
-            "id": "QrO9y1Oe",
-            "productId": "elm3WKpn",
+            "id": "PdOn5VlV",
+            "productId": "zOPeLLpj",
             "channelId": "5bpJKaVE",
             "fromDate": "2021-05-31T00:00:00",
             "toDate": "2022-12-31T00:00:00",
@@ -3677,15 +3656,15 @@
             "pricePerPerson": false,
             "productPriceTypes": [
                 {
-                    "id": "52aAozOZ",
-                    "productPriceId": "QrO9y1Oe",
-                    "productCustomerTypeId": "JpgyArlq",
+                    "id": "q7OxPNO6",
+                    "productPriceId": "PdOn5VlV",
+                    "productCustomerTypeId": "Jpgy0vlq",
                     "amount": 57,
                     "currencyId": "Belm3pnb",
                     "currencySymbol": null,
                     "isOfficial": true,
                     "productCustomerType": {
-                        "id": "JpgyArlq",
+                        "id": "Jpgy0vlq",
                         "productId": "yxl4wVaj",
                         "name": "?????"
                     }
@@ -3696,34 +3675,34 @@
     ],
     "productCustomerTypes": [
         {
-            "id": "GpbzZ4pr",
-            "productId": "elm3WKpn",
+            "id": "GpbzV5pr",
+            "productId": "zOPeLLpj",
             "name": "API"
         },
         {
-            "id": "zpM9Kbp6",
-            "productId": "elm3WKpn",
+            "id": "zpM9QRp6",
+            "productId": "zOPeLLpj",
             "name": "?????"
         },
         {
-            "id": "ZOwLDZpx",
-            "productId": "elm3WKpn",
+            "id": "ZOwL9Dpx",
+            "productId": "zOPeLLpj",
             "name": "???"
         },
         {
-            "id": "Bl5165lX",
-            "productId": "elm3WKpn",
+            "id": "Bl51E9lX",
+            "productId": "zOPeLLpj",
             "name": "?????"
         }
     ],
     "city": {
-        "id": "5bpJeeOV",
+        "id": "yxl447lj",
         "name": "Israel"
     },
     "productIncludedTags": [
         {
-            "id": "vApRZJpY",
-            "productId": "elm3WKpn",
+            "id": "QrO9EoOe",
+            "productId": "zOPeLLpj",
             "subTagId": "jLa3rjpz",
             "parentTagId": null,
             "subTagName": null
@@ -3731,8 +3710,8 @@
     ],
     "productExcludedTags": [
         {
-            "id": "Q4aL7Ypn",
-            "productId": "elm3WKpn",
+            "id": "VblVJLlw",
+            "productId": "zOPeLLpj",
             "subTagId": "4eO8gvlP",
             "parentTagId": null,
             "subTagName": null
@@ -3740,8 +3719,8 @@
     ],
     "productTags": [
         {
-            "id": "Wlqb6GOb",
-            "productId": "elm3WKpn",
+            "id": "jpjeo1OM",
+            "productId": "zOPeLLpj",
             "subTagId": "qeaZMepd",
             "parentTagId": null,
             "subTagName": null
@@ -3750,8 +3729,8 @@
     "productTranslations": null,
     "productVideos": [
         {
-            "id": "QrO9meOe",
-            "productId": "elm3WKpn",
+            "id": "VblVbVlw",
+            "productId": "zOPeLLpj",
             "path": "https://www.youtube.com/watch?v=u1yVCeXYya4&list=RDMMu1yVCeXYya4&start_radio=1"
         }
     ]
@@ -3806,7 +3785,7 @@
     <failure message="expected:&lt;400&gt; but was:&lt;200&gt;" type="java.lang.AssertionError"><![CDATA[java.lang.AssertionError: expected:<400> but was:<200>
 ]]></failure>
     <system-out><![CDATA[{
-    "id": "bpJRDApV",
+    "id": "blVXWYpw",
     "name": "AutoTest",
     "productTypeId": null,
     "active": true,
@@ -3817,8 +3796,8 @@
     "latitude": 3245678.5467,
     "calendarColor": "blue",
     "address": "Bishkek",
-    "cityId": "0WaNgMld",
-    "createdAt": "2021-06-16T04:25:31.022239",
+    "cityId": "nGaz5WpV",
+    "createdAt": "2021-06-16T11:24:11.268371",
     "productImages": [
         
     ],
@@ -3828,16 +3807,16 @@
     "productTypes": null,
     "productWorkingDates": [
         {
-            "id": "kwOXPkOo",
-            "productId": "bpJRDApV",
+            "id": "GrOEdjlY",
+            "productId": "blVXWYpw",
             "fromDate": "2022-12-31",
             "toDate": "2022-12-31",
             "name": "1234",
             "strictHours": false,
             "timeSlots": [
                 {
-                    "id": "eaZLoeOd",
-                    "productWorkingDateId": "kwOXPkOo",
+                    "id": "zpM9wbp6",
+                    "productWorkingDateId": "GrOEdjlY",
                     "dayOfWeek": "Monday",
                     "startTime": "09:00:00",
                     "endTime": "00:00:00",
@@ -3855,16 +3834,16 @@
     ],
     "productRegions": [
         {
-            "id": "7WlqE5lb",
-            "productId": "bpJRDApV",
+            "id": "WYp65nOK",
+            "productId": "blVXWYpw",
             "regionId": "5bpJKaVE",
             "regionName": null
         }
     ],
     "productPrices": [
         {
-            "id": "qeaZYdpd",
-            "productId": "bpJRDApV",
+            "id": "Ejpj41lM",
+            "productId": "blVXWYpw",
             "channelId": "5bpJKaVE",
             "fromDate": "2021-05-31T00:00:00",
             "toDate": "2022-12-31T00:00:00",
@@ -3877,15 +3856,15 @@
             "pricePerPerson": false,
             "productPriceTypes": [
                 {
-                    "id": "Q4aLdkan",
-                    "productPriceId": "qeaZYdpd",
-                    "productCustomerTypeId": "bpvjDxpJ",
+                    "id": "Kdl2gBOX",
+                    "productPriceId": "Ejpj41lM",
+                    "productCustomerTypeId": "bpvjLqpJ",
                     "amount": 57,
                     "currencyId": "Belm3pnb",
                     "currencySymbol": null,
                     "isOfficial": true,
                     "productCustomerType": {
-                        "id": "bpvjDxpJ",
+                        "id": "bpvjLqpJ",
                         "productId": "yxl4wVaj",
                         "name": "?????"
                     }
@@ -3896,34 +3875,34 @@
     ],
     "productCustomerTypes": [
         {
-            "id": "zOPeWPpj",
-            "productId": "bpJRDApV",
+            "id": "zOPeNLpj",
+            "productId": "blVXWYpw",
             "name": "API"
         },
         {
-            "id": "blVXbEpw",
-            "productId": "bpJRDApV",
+            "id": "blVXYYpw",
+            "productId": "blVXWYpw",
             "name": "?????"
         },
         {
-            "id": "waD3d3p3",
-            "productId": "bpJRDApV",
+            "id": "waD3BEp3",
+            "productId": "blVXWYpw",
             "name": "???"
         },
         {
-            "id": "La3rA8pz",
-            "productId": "bpJRDApV",
+            "id": "La3r0qpz",
+            "productId": "blVXWYpw",
             "name": "?????"
         }
     ],
     "city": {
-        "id": "0WaNgMld",
+        "id": "nGaz5WpV",
         "name": "Israel"
     },
     "productIncludedTags": [
         {
-            "id": "q7Ox0vO6",
-            "productId": "bpJRDApV",
+            "id": "qeaZV9ad",
+            "productId": "blVXWYpw",
             "subTagId": "jLa3rjpz",
             "parentTagId": null,
             "subTagName": null
@@ -3931,8 +3910,8 @@
     ],
     "productExcludedTags": [
         {
-            "id": "QrO9oXae",
-            "productId": "bpJRDApV",
+            "id": "4waD8na3",
+            "productId": "blVXWYpw",
             "subTagId": "4eO8gvlP",
             "parentTagId": null,
             "subTagName": null
@@ -3940,8 +3919,8 @@
     ],
     "productTags": [
         {
-            "id": "rOEKb2aY",
-            "productId": "bpJRDApV",
+            "id": "1lkv3wa6",
+            "productId": "blVXWYpw",
             "subTagId": "qeaZMepd",
             "parentTagId": null,
             "subTagName": null
@@ -3950,14 +3929,14 @@
     "productTranslations": null,
     "productVideos": [
         {
-            "id": "qeaZBqad",
-            "productId": "bpJRDApV",
+            "id": "4waDdma3",
+            "productId": "blVXWYpw",
             "path": "https://www.youtube.com/watch?v=u1yVCeXYya4&list=RDMMu1yVCeXYya4&start_radio=1"
         }
     ]
 }
 {
-    "id": "bpJRDApV",
+    "id": "blVXWYpw",
     "name": "AutoTest",
     "productTypeId": null,
     "active": true,
@@ -3968,8 +3947,8 @@
     "latitude": 3245678.5467,
     "calendarColor": "blue",
     "address": "Bishkek",
-    "cityId": "0WaNgMld",
-    "createdAt": "2021-06-16T04:25:31.022239",
+    "cityId": "nGaz5WpV",
+    "createdAt": "2021-06-16T11:24:11.268371",
     "productImages": [
         
     ],
@@ -3979,16 +3958,16 @@
     "productTypes": null,
     "productWorkingDates": [
         {
-            "id": "kwOXPkOo",
-            "productId": "bpJRDApV",
+            "id": "GrOEdjlY",
+            "productId": "blVXWYpw",
             "fromDate": "2022-12-31",
             "toDate": "2022-12-31",
             "name": "1234",
             "strictHours": false,
             "timeSlots": [
                 {
-                    "id": "eaZLoeOd",
-                    "productWorkingDateId": "kwOXPkOo",
+                    "id": "zpM9wbp6",
+                    "productWorkingDateId": "GrOEdjlY",
                     "dayOfWeek": "Monday",
                     "startTime": "09:00:00",
                     "endTime": "00:00:00",
@@ -4006,16 +3985,16 @@
     ],
     "productRegions": [
         {
-            "id": "7WlqE5lb",
-            "productId": "bpJRDApV",
+            "id": "WYp65nOK",
+            "productId": "blVXWYpw",
             "regionId": "5bpJKaVE",
             "regionName": null
         }
     ],
     "productPrices": [
         {
-            "id": "qeaZYdpd",
-            "productId": "bpJRDApV",
+            "id": "Ejpj41lM",
+            "productId": "blVXWYpw",
             "channelId": "5bpJKaVE",
             "fromDate": "2021-05-31T00:00:00",
             "toDate": "2022-12-31T00:00:00",
@@ -4028,15 +4007,15 @@
             "pricePerPerson": false,
             "productPriceTypes": [
                 {
-                    "id": "Q4aLdkan",
-                    "productPriceId": "qeaZYdpd",
-                    "productCustomerTypeId": "bpvjDxpJ",
+                    "id": "Kdl2gBOX",
+                    "productPriceId": "Ejpj41lM",
+                    "productCustomerTypeId": "bpvjLqpJ",
                     "amount": 57,
                     "currencyId": "Belm3pnb",
                     "currencySymbol": null,
                     "isOfficial": true,
                     "productCustomerType": {
-                        "id": "bpvjDxpJ",
+                        "id": "bpvjLqpJ",
                         "productId": "yxl4wVaj",
                         "name": "?????"
                     }
@@ -4047,34 +4026,34 @@
     ],
     "productCustomerTypes": [
         {
-            "id": "zOPeWPpj",
-            "productId": "bpJRDApV",
+            "id": "zOPeNLpj",
+            "productId": "blVXWYpw",
             "name": "API"
         },
         {
-            "id": "blVXbEpw",
-            "productId": "bpJRDApV",
+            "id": "blVXYYpw",
+            "productId": "blVXWYpw",
             "name": "?????"
         },
         {
-            "id": "waD3d3p3",
-            "productId": "bpJRDApV",
+            "id": "waD3BEp3",
+            "productId": "blVXWYpw",
             "name": "???"
         },
         {
-            "id": "La3rA8pz",
-            "productId": "bpJRDApV",
+            "id": "La3r0qpz",
+            "productId": "blVXWYpw",
             "name": "?????"
         }
     ],
     "city": {
-        "id": "0WaNgMld",
+        "id": "nGaz5WpV",
         "name": "Israel"
     },
     "productIncludedTags": [
         {
-            "id": "q7Ox0vO6",
-            "productId": "bpJRDApV",
+            "id": "qeaZV9ad",
+            "productId": "blVXWYpw",
             "subTagId": "jLa3rjpz",
             "parentTagId": null,
             "subTagName": null
@@ -4082,8 +4061,8 @@
     ],
     "productExcludedTags": [
         {
-            "id": "QrO9oXae",
-            "productId": "bpJRDApV",
+            "id": "4waD8na3",
+            "productId": "blVXWYpw",
             "subTagId": "4eO8gvlP",
             "parentTagId": null,
             "subTagName": null
@@ -4091,8 +4070,8 @@
     ],
     "productTags": [
         {
-            "id": "rOEKb2aY",
-            "productId": "bpJRDApV",
+            "id": "1lkv3wa6",
+            "productId": "blVXWYpw",
             "subTagId": "qeaZMepd",
             "parentTagId": null,
             "subTagName": null
@@ -4101,8 +4080,8 @@
     "productTranslations": null,
     "productVideos": [
         {
-            "id": "qeaZBqad",
-            "productId": "bpJRDApV",
+            "id": "4waDdma3",
+            "productId": "blVXWYpw",
             "path": "https://www.youtube.com/watch?v=u1yVCeXYya4&list=RDMMu1yVCeXYya4&start_radio=1"
         }
     ]
@@ -4141,7 +4120,7 @@
     <failure message="expected:&lt;500&gt; but was:&lt;200&gt;" type="java.lang.AssertionError"><![CDATA[java.lang.AssertionError: expected:<500> but was:<200>
 ]]></failure>
     <system-out><![CDATA[{
-    "id": "WaNXEQOd",
+    "id": "waD3vEp3",
     "name": "AutoTest",
     "productTypeId": null,
     "active": true,
@@ -4152,8 +4131,8 @@
     "latitude": 3245678.5467,
     "calendarColor": "blue",
     "address": "Bishkek",
-    "cityId": "52aAmraZ",
-    "createdAt": "2021-06-16T04:25:31.574615",
+    "cityId": "k8p0GJOJ",
+    "createdAt": "2021-06-16T11:24:11.864363",
     "productImages": [
         
     ],
@@ -4163,16 +4142,16 @@
     "productTypes": null,
     "productWorkingDates": [
         {
-            "id": "PYayQDaW",
-            "productId": "WaNXEQOd",
+            "id": "q1loRXa7",
+            "productId": "waD3vEp3",
             "fromDate": "2022-12-31",
             "toDate": "2022-12-31",
             "name": "1234",
             "strictHours": false,
             "timeSlots": [
                 {
-                    "id": "rO7n90l6",
-                    "productWorkingDateId": "PYayQDaW",
+                    "id": "ZOwLAZpx",
+                    "productWorkingDateId": "q1loRXa7",
                     "dayOfWeek": "None",
                     "startTime": "09:00:00",
                     "endTime": "20:00:00",
@@ -4190,16 +4169,16 @@
     ],
     "productRegions": [
         {
-            "id": "GrOELmlY",
-            "productId": "WaNXEQOd",
+            "id": "kwOXPkOo",
+            "productId": "waD3vEp3",
             "regionId": "5bpJKaVE",
             "regionName": null
         }
     ],
     "productPrices": [
         {
-            "id": "5rO76Yl6",
-            "productId": "WaNXEQOd",
+            "id": "r1lkzwa6",
+            "productId": "waD3vEp3",
             "channelId": "5bpJKaVE",
             "fromDate": "2021-05-31T00:00:00",
             "toDate": "2022-12-31T00:00:00",
@@ -4212,15 +4191,15 @@
             "pricePerPerson": false,
             "productPriceTypes": [
                 {
-                    "id": "QrO92xpe",
-                    "productPriceId": "5rO76Yl6",
-                    "productCustomerTypeId": "eO8gQrlP",
+                    "id": "BJpg6QOq",
+                    "productPriceId": "r1lkzwa6",
+                    "productCustomerTypeId": "eO8gE3lP",
                     "amount": 57,
                     "currencyId": "Belm3pnb",
                     "currencySymbol": null,
                     "isOfficial": true,
                     "productCustomerType": {
-                        "id": "eO8gQrlP",
+                        "id": "eO8gE3lP",
                         "productId": "yxl4wVaj",
                         "name": "?????"
                     }
@@ -4231,34 +4210,34 @@
     ],
     "productCustomerTypes": [
         {
-            "id": "4lrWjqOd",
-            "productId": "WaNXEQOd",
+            "id": "4lrWm9Od",
+            "productId": "waD3vEp3",
             "name": "API"
         },
         {
-            "id": "dOnn3qOV",
-            "productId": "WaNXEQOd",
+            "id": "dOnnRZOV",
+            "productId": "waD3vEp3",
             "name": "?????"
         },
         {
-            "id": "jpjPonlM",
-            "productId": "WaNXEQOd",
+            "id": "jpjP0DlM",
+            "productId": "waD3vEp3",
             "name": "???"
         },
         {
-            "id": "1lkV3ya6",
-            "productId": "WaNXEQOd",
+            "id": "1lkV0Za6",
+            "productId": "waD3vEp3",
             "name": "?????"
         }
     ],
     "city": {
-        "id": "52aAmraZ",
+        "id": "k8p0GJOJ",
         "name": "Israel"
     },
     "productIncludedTags": [
         {
-            "id": "Kdl2P4pX",
-            "productId": "WaNXEQOd",
+            "id": "5rO7ELa6",
+            "productId": "waD3vEp3",
             "subTagId": "jLa3rjpz",
             "parentTagId": null,
             "subTagName": null
@@ -4266,8 +4245,8 @@
     ],
     "productExcludedTags": [
         {
-            "id": "qeaZrQad",
-            "productId": "WaNXEQOd",
+            "id": "jLa31wOz",
+            "productId": "waD3vEp3",
             "subTagId": "4eO8gvlP",
             "parentTagId": null,
             "subTagName": null
@@ -4275,8 +4254,8 @@
     ],
     "productTags": [
         {
-            "id": "1loz6Ka7",
-            "productId": "WaNXEQOd",
+            "id": "blBEn9aR",
+            "productId": "waD3vEp3",
             "subTagId": "qeaZMepd",
             "parentTagId": null,
             "subTagName": null
@@ -4285,14 +4264,14 @@
     "productTranslations": null,
     "productVideos": [
         {
-            "id": "5rO77EO6",
-            "productId": "WaNXEQOd",
+            "id": "jLa3AYOz",
+            "productId": "waD3vEp3",
             "path": "https://www.youtube.com/watch?v=u1yVCeXYya4&list=RDMMu1yVCeXYya4&start_radio=1"
         }
     ]
 }
 {
-    "id": "WaNXEQOd",
+    "id": "waD3vEp3",
     "name": "AutoTest",
     "productTypeId": null,
     "active": true,
@@ -4303,8 +4282,8 @@
     "latitude": 3245678.5467,
     "calendarColor": "blue",
     "address": "Bishkek",
-    "cityId": "52aAmraZ",
-    "createdAt": "2021-06-16T04:25:31.574615",
+    "cityId": "k8p0GJOJ",
+    "createdAt": "2021-06-16T11:24:11.864363",
     "productImages": [
         
     ],
@@ -4314,16 +4293,16 @@
     "productTypes": null,
     "productWorkingDates": [
         {
-            "id": "PYayQDaW",
-            "productId": "WaNXEQOd",
+            "id": "q1loRXa7",
+            "productId": "waD3vEp3",
             "fromDate": "2022-12-31",
             "toDate": "2022-12-31",
             "name": "1234",
             "strictHours": false,
             "timeSlots": [
                 {
-                    "id": "rO7n90l6",
-                    "productWorkingDateId": "PYayQDaW",
+                    "id": "ZOwLAZpx",
+                    "productWorkingDateId": "q1loRXa7",
                     "dayOfWeek": "None",
                     "startTime": "09:00:00",
                     "endTime": "20:00:00",
@@ -4341,16 +4320,16 @@
     ],
     "productRegions": [
         {
-            "id": "GrOELmlY",
-            "productId": "WaNXEQOd",
+            "id": "kwOXPkOo",
+            "productId": "waD3vEp3",
             "regionId": "5bpJKaVE",
             "regionName": null
         }
     ],
     "productPrices": [
         {
-            "id": "5rO76Yl6",
-            "productId": "WaNXEQOd",
+            "id": "r1lkzwa6",
+            "productId": "waD3vEp3",
             "channelId": "5bpJKaVE",
             "fromDate": "2021-05-31T00:00:00",
             "toDate": "2022-12-31T00:00:00",
@@ -4363,15 +4342,15 @@
             "pricePerPerson": false,
             "productPriceTypes": [
                 {
-                    "id": "QrO92xpe",
-                    "productPriceId": "5rO76Yl6",
-                    "productCustomerTypeId": "eO8gQrlP",
+                    "id": "BJpg6QOq",
+                    "productPriceId": "r1lkzwa6",
+                    "productCustomerTypeId": "eO8gE3lP",
                     "amount": 57,
                     "currencyId": "Belm3pnb",
                     "currencySymbol": null,
                     "isOfficial": true,
                     "productCustomerType": {
-                        "id": "eO8gQrlP",
+                        "id": "eO8gE3lP",
                         "productId": "yxl4wVaj",
                         "name": "?????"
                     }
@@ -4382,34 +4361,34 @@
     ],
     "productCustomerTypes": [
         {
-            "id": "4lrWjqOd",
-            "productId": "WaNXEQOd",
+            "id": "4lrWm9Od",
+            "productId": "waD3vEp3",
             "name": "API"
         },
         {
-            "id": "dOnn3qOV",
-            "productId": "WaNXEQOd",
+            "id": "dOnnRZOV",
+            "productId": "waD3vEp3",
             "name": "?????"
         },
         {
-            "id": "jpjPonlM",
-            "productId": "WaNXEQOd",
+            "id": "jpjP0DlM",
+            "productId": "waD3vEp3",
             "name": "???"
         },
         {
-            "id": "1lkV3ya6",
-            "productId": "WaNXEQOd",
+            "id": "1lkV0Za6",
+            "productId": "waD3vEp3",
             "name": "?????"
         }
     ],
     "city": {
-        "id": "52aAmraZ",
+        "id": "k8p0GJOJ",
         "name": "Israel"
     },
     "productIncludedTags": [
         {
-            "id": "Kdl2P4pX",
-            "productId": "WaNXEQOd",
+            "id": "5rO7ELa6",
+            "productId": "waD3vEp3",
             "subTagId": "jLa3rjpz",
             "parentTagId": null,
             "subTagName": null
@@ -4417,8 +4396,8 @@
     ],
     "productExcludedTags": [
         {
-            "id": "qeaZrQad",
-            "productId": "WaNXEQOd",
+            "id": "jLa31wOz",
+            "productId": "waD3vEp3",
             "subTagId": "4eO8gvlP",
             "parentTagId": null,
             "subTagName": null
@@ -4426,8 +4405,8 @@
     ],
     "productTags": [
         {
-            "id": "1loz6Ka7",
-            "productId": "WaNXEQOd",
+            "id": "blBEn9aR",
+            "productId": "waD3vEp3",
             "subTagId": "qeaZMepd",
             "parentTagId": null,
             "subTagName": null
@@ -4436,8 +4415,8 @@
     "productTranslations": null,
     "productVideos": [
         {
-            "id": "5rO77EO6",
-            "productId": "WaNXEQOd",
+            "id": "jLa3AYOz",
+            "productId": "waD3vEp3",
             "path": "https://www.youtube.com/watch?v=u1yVCeXYya4&list=RDMMu1yVCeXYya4&start_radio=1"
         }
     ]
@@ -4460,7 +4439,7 @@
     <failure message="expected:&lt;500&gt; but was:&lt;200&gt;" type="java.lang.AssertionError"><![CDATA[java.lang.AssertionError: expected:<500> but was:<200>
 ]]></failure>
     <system-out><![CDATA[{
-    "id": "2aAgJzOZ",
+    "id": "La3rXqpz",
     "name": "AutoTest",
     "productTypeId": null,
     "active": true,
@@ -4471,8 +4450,8 @@
     "latitude": 3245678.5467,
     "calendarColor": "blue",
     "address": "Bishkek",
-    "cityId": "Q4aLxLan",
-    "createdAt": "2021-06-16T04:25:31.784872",
+    "cityId": "KPlevjOv",
+    "createdAt": "2021-06-16T11:24:12.198306",
     "productImages": [
         
     ],
@@ -4482,16 +4461,16 @@
     "productTypes": null,
     "productWorkingDates": [
         {
-            "id": "D3pWvdO4",
-            "productId": "2aAgJzOZ",
+            "id": "LbaQ2MlA",
+            "productId": "La3rXqpz",
             "fromDate": "2022-12-31",
             "toDate": "2022-12-31",
             "name": "1234",
             "strictHours": false,
             "timeSlots": [
                 {
-                    "id": "nlYxZ6az",
-                    "productWorkingDateId": "D3pWvdO4",
+                    "id": "Bl51A5lX",
+                    "productWorkingDateId": "LbaQ2MlA",
                     "dayOfWeek": "None",
                     "startTime": "09:00:00",
                     "endTime": "20:00:00",
@@ -4509,16 +4488,16 @@
     ],
     "productRegions": [
         {
-            "id": "q1loEAp7",
-            "productId": "2aAgJzOZ",
+            "id": "PYayQDaW",
+            "productId": "La3rXqpz",
             "regionId": "5bpJKaVE",
             "regionName": null
         }
     ],
     "productPrices": [
         {
-            "id": "JnlY7kpz",
-            "productId": "2aAgJzOZ",
+            "id": "zblBb9lR",
+            "productId": "La3rXqpz",
             "channelId": "5bpJKaVE",
             "fromDate": "2021-05-31T00:00:00",
             "toDate": "2022-12-31T00:00:00",
@@ -4531,15 +4510,15 @@
             "pricePerPerson": false,
             "productPriceTypes": [
                 {
-                    "id": "qeaZbbad",
-                    "productPriceId": "JnlY7kpz",
-                    "productCustomerTypeId": "blB7nZOR",
+                    "id": "0GpbYwOr",
+                    "productPriceId": "zblBb9lR",
+                    "productCustomerTypeId": "blB7DxOR",
                     "amount": 57,
                     "currencyId": "Belm3pnb",
                     "currencySymbol": null,
                     "isOfficial": true,
                     "productCustomerType": {
-                        "id": "blB7nZOR",
+                        "id": "blB7DxOR",
                         "productId": "yxl4wVaj",
                         "name": "?????"
                     }
@@ -4550,34 +4529,34 @@
     ],
     "productCustomerTypes": [
         {
-            "id": "WlqM33lb",
-            "productId": "2aAgJzOZ",
+            "id": "WlqMQ5lb",
+            "productId": "La3rXqpz",
             "name": "API"
         },
         {
-            "id": "rOEE19OY",
-            "productId": "2aAgJzOZ",
+            "id": "rOEE6mOY",
+            "productId": "La3rXqpz",
             "name": "?????"
         },
         {
-            "id": "1lon3ja7",
-            "productId": "2aAgJzOZ",
+            "id": "1lon0Aa7",
+            "productId": "La3rXqpz",
             "name": "???"
         },
         {
-            "id": "baQkoAOA",
-            "productId": "2aAgJzOZ",
+            "id": "baQkAEOA",
+            "productId": "La3rXqpz",
             "name": "?????"
         }
     ],
     "city": {
-        "id": "Q4aLxLan",
+        "id": "KPlevjOv",
         "name": "Israel"
     },
     "productIncludedTags": [
         {
-            "id": "BJpg9jlq",
-            "productId": "2aAgJzOZ",
+            "id": "JnlYVyOz",
+            "productId": "La3rXqpz",
             "subTagId": "jLa3rjpz",
             "parentTagId": null,
             "subTagName": null
@@ -4585,8 +4564,8 @@
     ],
     "productExcludedTags": [
         {
-            "id": "5rO7wxO6",
-            "productId": "2aAgJzOZ",
+            "id": "4eO844OP",
+            "productId": "La3rXqpz",
             "subTagId": "4eO8gvlP",
             "parentTagId": null,
             "subTagName": null
@@ -4594,8 +4573,8 @@
     ],
     "productTags": [
         {
-            "id": "baQrRQlA",
-            "productId": "2aAgJzOZ",
+            "id": "Wlqb3GOb",
+            "productId": "La3rXqpz",
             "subTagId": "qeaZMepd",
             "parentTagId": null,
             "subTagName": null
@@ -4604,14 +4583,14 @@
     "productTranslations": null,
     "productVideos": [
         {
-            "id": "JnlY6oOz",
-            "productId": "2aAgJzOZ",
+            "id": "4eO8QLpP",
+            "productId": "La3rXqpz",
             "path": "https://www.youtube.com/watch?v=u1yVCeXYya4&list=RDMMu1yVCeXYya4&start_radio=1"
         }
     ]
 }
 {
-    "id": "2aAgJzOZ",
+    "id": "La3rXqpz",
     "name": "AutoTest",
     "productTypeId": null,
     "active": true,
@@ -4622,8 +4601,8 @@
     "latitude": 3245678.5467,
     "calendarColor": "blue",
     "address": "Bishkek",
-    "cityId": "Q4aLxLan",
-    "createdAt": "2021-06-16T04:25:31.784872",
+    "cityId": "KPlevjOv",
+    "createdAt": "2021-06-16T11:24:12.198306",
     "productImages": [
         
     ],
@@ -4633,16 +4612,16 @@
     "productTypes": null,
     "productWorkingDates": [
         {
-            "id": "D3pWvdO4",
-            "productId": "2aAgJzOZ",
+            "id": "LbaQ2MlA",
+            "productId": "La3rXqpz",
             "fromDate": "2022-12-31",
             "toDate": "2022-12-31",
             "name": "1234",
             "strictHours": false,
             "timeSlots": [
                 {
-                    "id": "nlYxZ6az",
-                    "productWorkingDateId": "D3pWvdO4",
+                    "id": "Bl51A5lX",
+                    "productWorkingDateId": "LbaQ2MlA",
                     "dayOfWeek": "None",
                     "startTime": "09:00:00",
                     "endTime": "20:00:00",
@@ -4660,16 +4639,16 @@
     ],
     "productRegions": [
         {
-            "id": "q1loEAp7",
-            "productId": "2aAgJzOZ",
+            "id": "PYayQDaW",
+            "productId": "La3rXqpz",
             "regionId": "5bpJKaVE",
             "regionName": null
         }
     ],
     "productPrices": [
         {
-            "id": "JnlY7kpz",
-            "productId": "2aAgJzOZ",
+            "id": "zblBb9lR",
+            "productId": "La3rXqpz",
             "channelId": "5bpJKaVE",
             "fromDate": "2021-05-31T00:00:00",
             "toDate": "2022-12-31T00:00:00",
@@ -4682,15 +4661,15 @@
             "pricePerPerson": false,
             "productPriceTypes": [
                 {
-                    "id": "qeaZbbad",
-                    "productPriceId": "JnlY7kpz",
-                    "productCustomerTypeId": "blB7nZOR",
+                    "id": "0GpbYwOr",
+                    "productPriceId": "zblBb9lR",
+                    "productCustomerTypeId": "blB7DxOR",
                     "amount": 57,
                     "currencyId": "Belm3pnb",
                     "currencySymbol": null,
                     "isOfficial": true,
                     "productCustomerType": {
-                        "id": "blB7nZOR",
+                        "id": "blB7DxOR",
                         "productId": "yxl4wVaj",
                         "name": "?????"
                     }
@@ -4701,34 +4680,34 @@
     ],
     "productCustomerTypes": [
         {
-            "id": "WlqM33lb",
-            "productId": "2aAgJzOZ",
+            "id": "WlqMQ5lb",
+            "productId": "La3rXqpz",
             "name": "API"
         },
         {
-            "id": "rOEE19OY",
-            "productId": "2aAgJzOZ",
+            "id": "rOEE6mOY",
+            "productId": "La3rXqpz",
             "name": "?????"
         },
         {
-            "id": "1lon3ja7",
-            "productId": "2aAgJzOZ",
+            "id": "1lon0Aa7",
+            "productId": "La3rXqpz",
             "name": "???"
         },
         {
-            "id": "baQkoAOA",
-            "productId": "2aAgJzOZ",
+            "id": "baQkAEOA",
+            "productId": "La3rXqpz",
             "name": "?????"
         }
     ],
     "city": {
-        "id": "Q4aLxLan",
+        "id": "KPlevjOv",
         "name": "Israel"
     },
     "productIncludedTags": [
         {
-            "id": "BJpg9jlq",
-            "productId": "2aAgJzOZ",
+            "id": "JnlYVyOz",
+            "productId": "La3rXqpz",
             "subTagId": "jLa3rjpz",
             "parentTagId": null,
             "subTagName": null
@@ -4736,8 +4715,8 @@
     ],
     "productExcludedTags": [
         {
-            "id": "5rO7wxO6",
-            "productId": "2aAgJzOZ",
+            "id": "4eO844OP",
+            "productId": "La3rXqpz",
             "subTagId": "4eO8gvlP",
             "parentTagId": null,
             "subTagName": null
@@ -4745,8 +4724,8 @@
     ],
     "productTags": [
         {
-            "id": "baQrRQlA",
-            "productId": "2aAgJzOZ",
+            "id": "Wlqb3GOb",
+            "productId": "La3rXqpz",
             "subTagId": "qeaZMepd",
             "parentTagId": null,
             "subTagName": null
@@ -4755,8 +4734,8 @@
     "productTranslations": null,
     "productVideos": [
         {
-            "id": "JnlY6oOz",
-            "productId": "2aAgJzOZ",
+            "id": "4eO8QLpP",
+            "productId": "La3rXqpz",
             "path": "https://www.youtube.com/watch?v=u1yVCeXYya4&list=RDMMu1yVCeXYya4&start_radio=1"
         }
     ]
@@ -4803,7 +4782,7 @@
     <failure message="expected:&lt;400&gt; but was:&lt;200&gt;" type="java.lang.AssertionError"><![CDATA[java.lang.AssertionError: expected:<400> but was:<200>
 ]]></failure>
     <system-out><![CDATA[{
-    "id": "4aLLDkan",
+    "id": "eO8gz3lP",
     "name": "AutoTest",
     "productTypeId": null,
     "active": true,
@@ -4814,8 +4793,8 @@
     "latitude": 3245678.5467,
     "calendarColor": "blue",
     "address": "Bishkek",
-    "cityId": "QrO9wrae",
-    "createdAt": "2021-06-16T04:25:32.511567",
+    "cityId": "vApR8klY",
+    "createdAt": "2021-06-16T11:24:12.895175",
     "productImages": [
         
     ],
@@ -4825,16 +4804,16 @@
     "productTypes": null,
     "productWorkingDates": [
         {
-            "id": "yxl4MPOj",
-            "productId": "4aLLDkan",
+            "id": "Belm0Lan",
+            "productId": "eO8gz3lP",
             "fromDate": "2022-12-31",
             "toDate": "2022-12-31",
             "name": "1234",
             "strictHours": false,
             "timeSlots": [
                 {
-                    "id": "MaGER7OD",
-                    "productWorkingDateId": "yxl4MPOj",
+                    "id": "bpvjNxpJ",
+                    "productWorkingDateId": "Belm0Lan",
                     "dayOfWeek": "Monday",
                     "startTime": "09:00:00",
                     "endTime": "20:00:00",
@@ -4852,16 +4831,16 @@
     ],
     "productRegions": [
         {
-            "id": "LbaQWEOA",
-            "productId": "4aLLDkan",
+            "id": "D3pWvdO4",
+            "productId": "eO8gz3lP",
             "regionId": "5bpJKaVE",
             "regionName": null
         }
     ],
     "productPrices": [
         {
-            "id": "kMaGwPaD",
-            "productId": "4aLLDkan",
+            "id": "7Wlq5Glb",
+            "productId": "eO8gz3lP",
             "channelId": "5bpJKaVE",
             "fromDate": "2021-05-31T00:00:00",
             "toDate": "2022-12-31T00:00:00",
@@ -4874,15 +4853,15 @@
             "pricePerPerson": false,
             "productPriceTypes": [
                 {
-                    "id": "5rO7Rvl6",
-                    "productPriceId": "kMaGwPaD",
-                    "productCustomerTypeId": "elm3depn",
+                    "id": "dzpM0XO6",
+                    "productPriceId": "7Wlq5Glb",
+                    "productCustomerTypeId": "elm3VKpn",
                     "amount": 57,
                     "currencyId": "Belm3pnb",
                     "currencySymbol": null,
                     "isOfficial": true,
                     "productCustomerType": {
-                        "id": "elm3depn",
+                        "id": "elm3VKpn",
                         "productId": "yxl4wVaj",
                         "name": "?????"
                     }
@@ -4893,34 +4872,34 @@
     ],
     "productCustomerTypes": [
         {
-            "id": "bpJR2qpV",
-            "productId": "4aLLDkan",
+            "id": "bpJRyApV",
+            "productId": "eO8gz3lP",
             "name": "API"
         },
         {
-            "id": "WaNXjBOd",
-            "productId": "4aLLDkan",
+            "id": "WaNXmQOd",
+            "productId": "eO8gz3lP",
             "name": "?????"
         },
         {
-            "id": "2aAgELOZ",
-            "productId": "4aLLDkan",
+            "id": "2aAgMzOZ",
+            "productId": "eO8gz3lP",
             "name": "???"
         },
         {
-            "id": "4aLL2Zan",
-            "productId": "4aLLDkan",
+            "id": "4aLL4kan",
+            "productId": "eO8gz3lP",
             "name": "?????"
         }
     ],
     "city": {
-        "id": "QrO9wrae",
+        "id": "vApR8klY",
         "name": "Israel"
     },
     "productIncludedTags": [
         {
-            "id": "0GpbmNOr",
-            "productId": "4aLLDkan",
+            "id": "kMaGXmlD",
+            "productId": "eO8gz3lP",
             "subTagId": "jLa3rjpz",
             "parentTagId": null,
             "subTagName": null
@@ -4928,8 +4907,8 @@
     ],
     "productExcludedTags": [
         {
-            "id": "JnlYe2lz",
-            "productId": "4aLLDkan",
+            "id": "N4lrZDld",
+            "productId": "eO8gz3lP",
             "subTagId": "4eO8gvlP",
             "parentTagId": null,
             "subTagName": null
@@ -4937,8 +4916,8 @@
     ],
     "productTags": [
         {
-            "id": "elmvPjOn",
-            "productId": "4aLLDkan",
+            "id": "rOEK12aY",
+            "productId": "eO8gz3lP",
             "subTagId": "qeaZMepd",
             "parentTagId": null,
             "subTagName": null
@@ -4947,14 +4926,14 @@
     "productTranslations": null,
     "productVideos": [
         {
-            "id": "kMaGdqlD",
-            "productId": "4aLLDkan",
+            "id": "N4lrjJld",
+            "productId": "eO8gz3lP",
             "path": "https://www.youtube.com/watch?v=u1yVCeXYya4&list=RDMMu1yVCeXYya4&start_radio=1"
         }
     ]
 }
 {
-    "id": "4aLLDkan",
+    "id": "eO8gz3lP",
     "name": "AutoTest",
     "productTypeId": null,
     "active": true,
@@ -4965,8 +4944,8 @@
     "latitude": 3245678.5467,
     "calendarColor": "blue",
     "address": "Bishkek",
-    "cityId": "QrO9wrae",
-    "createdAt": "2021-06-16T04:25:32.511567",
+    "cityId": "vApR8klY",
+    "createdAt": "2021-06-16T11:24:12.895175",
     "productImages": [
         
     ],
@@ -4976,16 +4955,16 @@
     "productTypes": null,
     "productWorkingDates": [
         {
-            "id": "yxl4MPOj",
-            "productId": "4aLLDkan",
+            "id": "Belm0Lan",
+            "productId": "eO8gz3lP",
             "fromDate": "2022-12-31",
             "toDate": "2022-12-31",
             "name": "1234",
             "strictHours": false,
             "timeSlots": [
                 {
-                    "id": "MaGER7OD",
-                    "productWorkingDateId": "yxl4MPOj",
+                    "id": "bpvjNxpJ",
+                    "productWorkingDateId": "Belm0Lan",
                     "dayOfWeek": "Monday",
                     "startTime": "09:00:00",
                     "endTime": "20:00:00",
@@ -5003,16 +4982,16 @@
     ],
     "productRegions": [
         {
-            "id": "LbaQWEOA",
-            "productId": "4aLLDkan",
+            "id": "D3pWvdO4",
+            "productId": "eO8gz3lP",
             "regionId": "5bpJKaVE",
             "regionName": null
         }
     ],
     "productPrices": [
         {
-            "id": "kMaGwPaD",
-            "productId": "4aLLDkan",
+            "id": "7Wlq5Glb",
+            "productId": "eO8gz3lP",
             "channelId": "5bpJKaVE",
             "fromDate": "2021-05-31T00:00:00",
             "toDate": "2022-12-31T00:00:00",
@@ -5025,15 +5004,15 @@
             "pricePerPerson": false,
             "productPriceTypes": [
                 {
-                    "id": "5rO7Rvl6",
-                    "productPriceId": "kMaGwPaD",
-                    "productCustomerTypeId": "elm3depn",
+                    "id": "dzpM0XO6",
+                    "productPriceId": "7Wlq5Glb",
+                    "productCustomerTypeId": "elm3VKpn",
                     "amount": 57,
                     "currencyId": "Belm3pnb",
                     "currencySymbol": null,
                     "isOfficial": true,
                     "productCustomerType": {
-                        "id": "elm3depn",
+                        "id": "elm3VKpn",
                         "productId": "yxl4wVaj",
                         "name": "?????"
                     }
@@ -5044,34 +5023,34 @@
     ],
     "productCustomerTypes": [
         {
-            "id": "bpJR2qpV",
-            "productId": "4aLLDkan",
+            "id": "bpJRyApV",
+            "productId": "eO8gz3lP",
             "name": "API"
         },
         {
-            "id": "WaNXjBOd",
-            "productId": "4aLLDkan",
+            "id": "WaNXmQOd",
+            "productId": "eO8gz3lP",
             "name": "?????"
         },
         {
-            "id": "2aAgELOZ",
-            "productId": "4aLLDkan",
+            "id": "2aAgMzOZ",
+            "productId": "eO8gz3lP",
             "name": "???"
         },
         {
-            "id": "4aLL2Zan",
-            "productId": "4aLLDkan",
+            "id": "4aLL4kan",
+            "productId": "eO8gz3lP",
             "name": "?????"
         }
     ],
     "city": {
-        "id": "QrO9wrae",
+        "id": "vApR8klY",
         "name": "Israel"
     },
     "productIncludedTags": [
         {
-            "id": "0GpbmNOr",
-            "productId": "4aLLDkan",
+            "id": "kMaGXmlD",
+            "productId": "eO8gz3lP",
             "subTagId": "jLa3rjpz",
             "parentTagId": null,
             "subTagName": null
@@ -5079,8 +5058,8 @@
     ],
     "productExcludedTags": [
         {
-            "id": "JnlYe2lz",
-            "productId": "4aLLDkan",
+            "id": "N4lrZDld",
+            "productId": "eO8gz3lP",
             "subTagId": "4eO8gvlP",
             "parentTagId": null,
             "subTagName": null
@@ -5088,8 +5067,8 @@
     ],
     "productTags": [
         {
-            "id": "elmvPjOn",
-            "productId": "4aLLDkan",
+            "id": "rOEK12aY",
+            "productId": "eO8gz3lP",
             "subTagId": "qeaZMepd",
             "parentTagId": null,
             "subTagName": null
@@ -5098,8 +5077,8 @@
     "productTranslations": null,
     "productVideos": [
         {
-            "id": "kMaGdqlD",
-            "productId": "4aLLDkan",
+            "id": "N4lrjJld",
+            "productId": "eO8gz3lP",
             "path": "https://www.youtube.com/watch?v=u1yVCeXYya4&list=RDMMu1yVCeXYya4&start_radio=1"
         }
     ]
@@ -5156,7 +5135,7 @@
     <failure message="expected:&lt;400&gt; but was:&lt;200&gt;" type="java.lang.AssertionError"><![CDATA[java.lang.AssertionError: expected:<400> but was:<200>
 ]]></failure>
     <system-out><![CDATA[{
-    "id": "rO98exle",
+    "id": "4lrWb9Od",
     "name": "AutoTest",
     "productTypeId": null,
     "active": true,
@@ -5167,8 +5146,8 @@
     "latitude": 3245678.5467,
     "calendarColor": "blue",
     "address": "Bishkek",
-    "cityId": "qeaZ7Rld",
-    "createdAt": "2021-06-16T04:25:33.478343",
+    "cityId": "q7OxgEl6",
+    "createdAt": "2021-06-16T11:24:13.893668",
     "productImages": [
         
     ],
@@ -5178,16 +5157,16 @@
     "productTypes": null,
     "productWorkingDates": [
         {
-            "id": "nGazmzpV",
-            "productId": "rO98exle",
+            "id": "5bpJWVaV",
+            "productId": "4lrWb9Od",
             "fromDate": "2022-12-31",
             "toDate": "2022-12-31",
             "name": "1234",
             "strictHours": false,
             "timeSlots": [
                 {
-                    "id": "ylKdbQO8",
-                    "productWorkingDateId": "nGazmzpV",
+                    "id": "zOPeoPpj",
+                    "productWorkingDateId": "5bpJWVaV",
                     "dayOfWeek": "Monday",
                     "startTime": "09:00:00",
                     "endTime": "20:00:00",
@@ -5205,16 +5184,16 @@
     ],
     "productRegions": [
         {
-            "id": "BelmEKln",
-            "productId": "rO98exle",
+            "id": "yxl4MPOj",
+            "productId": "4lrWb9Od",
             "regionId": "5bpJKaVE",
             "regionName": null
         }
     ],
     "productPrices": [
         {
-            "id": "oylKxKO8",
-            "productId": "rO98exle",
+            "id": "GrOEB2pY",
+            "productId": "4lrWb9Od",
             "channelId": "LbaQGOAx",
             "fromDate": "0001-01-01T00:00:00",
             "toDate": "2022-12-31T00:00:00",
@@ -5227,15 +5206,15 @@
             "pricePerPerson": false,
             "productPriceTypes": [
                 {
-                    "id": "JnlYgZpz",
-                    "productPriceId": "oylKxKO8",
-                    "productCustomerTypeId": "rO98mble",
+                    "id": "0ZOwv4lx",
+                    "productPriceId": "GrOEB2pY",
+                    "productCustomerTypeId": "rO98Exle",
                     "amount": 57,
                     "currencyId": "Belm3pnb",
                     "currencySymbol": null,
                     "isOfficial": true,
                     "productCustomerType": {
-                        "id": "rO98mble",
+                        "id": "rO98Exle",
                         "productId": "yxl4wVaj",
                         "name": "?????"
                     }
@@ -5246,34 +5225,34 @@
     ],
     "productCustomerTypes": [
         {
-            "id": "eaZLBvOd",
-            "productId": "rO98exle",
+            "id": "eaZLVbOd",
+            "productId": "4lrWb9Od",
             "name": "API"
         },
         {
-            "id": "rO7n76l6",
-            "productId": "rO98exle",
+            "id": "rO7nEvl6",
+            "productId": "4lrWb9Od",
             "name": "?????"
         },
         {
-            "id": "nlYx6maz",
-            "productId": "rO98exle",
+            "id": "nlYxVZaz",
+            "productId": "4lrWb9Od",
             "name": "???"
         },
         {
-            "id": "MaGEdNOD",
-            "productId": "rO98exle",
+            "id": "MaGEXjOD",
+            "productId": "4lrWb9Od",
             "name": "?????"
         }
     ],
     "city": {
-        "id": "qeaZ7Rld",
+        "id": "q7OxgEl6",
         "name": "Israel"
     },
     "productIncludedTags": [
         {
-            "id": "dzpMJga6",
-            "productId": "rO98exle",
+            "id": "oylK05O8",
+            "productId": "4lrWb9Od",
             "subTagId": "jLa3rjpz",
             "parentTagId": null,
             "subTagName": null
@@ -5281,8 +5260,8 @@
     ],
     "productExcludedTags": [
         {
-            "id": "kMaGN4pD",
-            "productId": "rO98exle",
+            "id": "PdOnNdOV",
+            "productId": "4lrWb9Od",
             "subTagId": "4eO8gvlP",
             "parentTagId": null,
             "subTagName": null
@@ -5290,8 +5269,8 @@
     ],
     "productTags": [
         {
-            "id": "bpJKE9aV",
-            "productId": "rO98exle",
+            "id": "1loz3Ka7",
+            "productId": "4lrWb9Od",
             "subTagId": "qeaZMepd",
             "parentTagId": null,
             "subTagName": null
@@ -5300,14 +5279,14 @@
     "productTranslations": null,
     "productVideos": [
         {
-            "id": "oylKMBp8",
-            "productId": "rO98exle",
+            "id": "PdOn3ApV",
+            "productId": "4lrWb9Od",
             "path": "https://www.youtube.com/watch?v=u1yVCeXYya4&list=RDMMu1yVCeXYya4&start_radio=1"
         }
     ]
 }
 {
-    "id": "rO98exle",
+    "id": "4lrWb9Od",
     "name": "AutoTest",
     "productTypeId": null,
     "active": true,
@@ -5318,8 +5297,8 @@
     "latitude": 3245678.5467,
     "calendarColor": "blue",
     "address": "Bishkek",
-    "cityId": "qeaZ7Rld",
-    "createdAt": "2021-06-16T04:25:33.478343",
+    "cityId": "q7OxgEl6",
+    "createdAt": "2021-06-16T11:24:13.893668",
     "productImages": [
         
     ],
@@ -5329,16 +5308,16 @@
     "productTypes": null,
     "productWorkingDates": [
         {
-            "id": "nGazmzpV",
-            "productId": "rO98exle",
+            "id": "5bpJWVaV",
+            "productId": "4lrWb9Od",
             "fromDate": "2022-12-31",
             "toDate": "2022-12-31",
             "name": "1234",
             "strictHours": false,
             "timeSlots": [
                 {
-                    "id": "ylKdbQO8",
-                    "productWorkingDateId": "nGazmzpV",
+                    "id": "zOPeoPpj",
+                    "productWorkingDateId": "5bpJWVaV",
                     "dayOfWeek": "Monday",
                     "startTime": "09:00:00",
                     "endTime": "20:00:00",
@@ -5356,16 +5335,16 @@
     ],
     "productRegions": [
         {
-            "id": "BelmEKln",
-            "productId": "rO98exle",
+            "id": "yxl4MPOj",
+            "productId": "4lrWb9Od",
             "regionId": "5bpJKaVE",
             "regionName": null
         }
     ],
     "productPrices": [
         {
-            "id": "oylKxKO8",
-            "productId": "rO98exle",
+            "id": "GrOEB2pY",
+            "productId": "4lrWb9Od",
             "channelId": "LbaQGOAx",
             "fromDate": "0001-01-01T00:00:00",
             "toDate": "2022-12-31T00:00:00",
@@ -5378,15 +5357,15 @@
             "pricePerPerson": false,
             "productPriceTypes": [
                 {
-                    "id": "JnlYgZpz",
-                    "productPriceId": "oylKxKO8",
-                    "productCustomerTypeId": "rO98mble",
+                    "id": "0ZOwv4lx",
+                    "productPriceId": "GrOEB2pY",
+                    "productCustomerTypeId": "rO98Exle",
                     "amount": 57,
                     "currencyId": "Belm3pnb",
                     "currencySymbol": null,
                     "isOfficial": true,
                     "productCustomerType": {
-                        "id": "rO98mble",
+                        "id": "rO98Exle",
                         "productId": "yxl4wVaj",
                         "name": "?????"
                     }
@@ -5397,34 +5376,34 @@
     ],
     "productCustomerTypes": [
         {
-            "id": "eaZLBvOd",
-            "productId": "rO98exle",
+            "id": "eaZLVbOd",
+            "productId": "4lrWb9Od",
             "name": "API"
         },
         {
-            "id": "rO7n76l6",
-            "productId": "rO98exle",
+            "id": "rO7nEvl6",
+            "productId": "4lrWb9Od",
             "name": "?????"
         },
         {
-            "id": "nlYx6maz",
-            "productId": "rO98exle",
+            "id": "nlYxVZaz",
+            "productId": "4lrWb9Od",
             "name": "???"
         },
         {
-            "id": "MaGEdNOD",
-            "productId": "rO98exle",
+            "id": "MaGEXjOD",
+            "productId": "4lrWb9Od",
             "name": "?????"
         }
     ],
     "city": {
-        "id": "qeaZ7Rld",
+        "id": "q7OxgEl6",
         "name": "Israel"
     },
     "productIncludedTags": [
         {
-            "id": "dzpMJga6",
-            "productId": "rO98exle",
+            "id": "oylK05O8",
+            "productId": "4lrWb9Od",
             "subTagId": "jLa3rjpz",
             "parentTagId": null,
             "subTagName": null
@@ -5432,8 +5411,8 @@
     ],
     "productExcludedTags": [
         {
-            "id": "kMaGN4pD",
-            "productId": "rO98exle",
+            "id": "PdOnNdOV",
+            "productId": "4lrWb9Od",
             "subTagId": "4eO8gvlP",
             "parentTagId": null,
             "subTagName": null
@@ -5441,8 +5420,8 @@
     ],
     "productTags": [
         {
-            "id": "bpJKE9aV",
-            "productId": "rO98exle",
+            "id": "1loz3Ka7",
+            "productId": "4lrWb9Od",
             "subTagId": "qeaZMepd",
             "parentTagId": null,
             "subTagName": null
@@ -5451,8 +5430,8 @@
     "productTranslations": null,
     "productVideos": [
         {
-            "id": "oylKMBp8",
-            "productId": "rO98exle",
+            "id": "PdOn3ApV",
+            "productId": "4lrWb9Od",
             "path": "https://www.youtube.com/watch?v=u1yVCeXYya4&list=RDMMu1yVCeXYya4&start_radio=1"
         }
     ]
@@ -5489,13 +5468,13 @@
   <testcase name="Scenario: provider enters a data in productPrices with special char  toDate field" classname="Scenario: provider enters a data in productPrices with special char  toDate field" time="0"/>
   <testcase name="Given product is set with the following fields" classname="Scenario: provider enters a data in productPrices with empty  title field" time="0"/>
   <testcase name="Given productVideos is set with the following fields" classname="Scenario: provider enters a data in productPrices with empty  title field" time="0"/>
-  <testcase name="Given productPrices is set with the following fields" classname="Scenario: provider enters a data in productPrices with empty  title field" time="0.015"/>
+  <testcase name="Given productPrices is set with the following fields" classname="Scenario: provider enters a data in productPrices with empty  title field" time="0"/>
   <testcase name="Given provider creates a new product" classname="Scenario: provider enters a data in productPrices with empty  title field" time="0"/>
   <testcase name="Then verify status code is 400" classname="Scenario: provider enters a data in productPrices with empty  title field" time="0">
     <failure message="expected:&lt;400&gt; but was:&lt;200&gt;" type="java.lang.AssertionError"><![CDATA[java.lang.AssertionError: expected:<400> but was:<200>
 ]]></failure>
     <system-out><![CDATA[{
-    "id": "rO7nXvl6",
+    "id": "jpjPYDlM",
     "name": "AutoTest",
     "productTypeId": null,
     "active": true,
@@ -5506,8 +5485,8 @@
     "latitude": 3245678.5467,
     "calendarColor": "blue",
     "address": "Bishkek",
-    "cityId": "JnlY9blz",
-    "createdAt": "2021-06-16T04:25:34.439384",
+    "cityId": "BJpg3epq",
+    "createdAt": "2021-06-16T11:24:14.747598",
     "productImages": [
         
     ],
@@ -5517,16 +5496,16 @@
     "productTypes": null,
     "productWorkingDates": [
         {
-            "id": "k8p0x0pJ",
-            "productId": "rO7nXvl6",
+            "id": "0WaNeopd",
+            "productId": "jpjPYDlM",
             "fromDate": "2022-12-31",
             "toDate": "2022-12-31",
             "name": "1234",
             "strictHours": false,
             "timeSlots": [
                 {
-                    "id": "baQkVAOA",
-                    "productWorkingDateId": "k8p0x0pJ",
+                    "id": "blVXGEpw",
+                    "productWorkingDateId": "0WaNeopd",
                     "dayOfWeek": "Monday",
                     "startTime": "09:00:00",
                     "endTime": "20:00:00",
@@ -5544,16 +5523,16 @@
     ],
     "productRegions": [
         {
-            "id": "5bpJGAaV",
-            "productId": "rO7nXvl6",
+            "id": "nGazmzpV",
+            "productId": "jpjPYDlM",
             "regionId": "5bpJKaVE",
             "regionName": null
         }
     ],
     "productPrices": [
         {
-            "id": "M5l17QpW",
-            "productId": "rO7nXvl6",
+            "id": "LbaQnQlA",
+            "productId": "jpjPYDlM",
             "channelId": "LbaQGOAx",
             "fromDate": "2021-05-31T00:00:00",
             "toDate": "2022-12-31T00:00:00",
@@ -5566,15 +5545,15 @@
             "pricePerPerson": false,
             "productPriceTypes": [
                 {
-                    "id": "kMaGZjpD",
-                    "productPriceId": "M5l17QpW",
-                    "productCustomerTypeId": "Yayq3zaW",
+                    "id": "bBl5wRpX",
+                    "productPriceId": "LbaQnQlA",
+                    "productCustomerTypeId": "2aAgMDOZ",
                     "amount": 57,
                     "currencyId": "Belm3pnb",
                     "currencySymbol": null,
                     "isOfficial": true,
                     "productCustomerType": {
-                        "id": "Yayq3zaW",
+                        "id": "2aAgMDOZ",
                         "productId": "yxl4wVaj",
                         "name": "?????"
                     }
@@ -5585,34 +5564,34 @@
     ],
     "productCustomerTypes": [
         {
-            "id": "3pWodjp4",
-            "productId": "rO7nXvl6",
+            "id": "4aLL4Kan",
+            "productId": "jpjPYDlM",
             "name": "API"
         },
         {
-            "id": "xl4WLoaj",
-            "productId": "rO7nXvl6",
+            "id": "rO98EAle",
+            "productId": "jpjPYDlM",
             "name": "?????"
         },
         {
-            "id": "Gaz7KElV",
-            "productId": "rO7nXvl6",
+            "id": "eaZLV7Od",
+            "productId": "jpjPYDlM",
             "name": "???"
         },
         {
-            "id": "8p0NmxlJ",
-            "productId": "rO7nXvl6",
+            "id": "rO7nyBl6",
+            "productId": "jpjPYDlM",
             "name": "?????"
         }
     ],
     "city": {
-        "id": "JnlY9blz",
+        "id": "BJpg3epq",
         "name": "Israel"
     },
     "productIncludedTags": [
         {
-            "id": "bBl5E1lX",
-            "productId": "rO7nXvl6",
+            "id": "M5l10MaW",
+            "productId": "jpjPYDlM",
             "subTagId": "jLa3rjpz",
             "parentTagId": null,
             "subTagName": null
@@ -5620,8 +5599,8 @@
     ],
     "productExcludedTags": [
         {
-            "id": "1dpdyva7",
-            "productId": "rO7nXvl6",
+            "id": "r1lkQJp6",
+            "productId": "jpjPYDlM",
             "subTagId": "4eO8gvlP",
             "parentTagId": null,
             "subTagName": null
@@ -5629,8 +5608,8 @@
     ],
     "productTags": [
         {
-            "id": "WaNdV8Od",
-            "productId": "rO7nXvl6",
+            "id": "baQroQlA",
+            "productId": "jpjPYDlM",
             "subTagId": "qeaZMepd",
             "parentTagId": null,
             "subTagName": null
@@ -5639,14 +5618,14 @@
     "productTranslations": null,
     "productVideos": [
         {
-            "id": "1dpdx7p7",
-            "productId": "rO7nXvl6",
+            "id": "EjpjoKaM",
+            "productId": "jpjPYDlM",
             "path": "https://www.youtube.com/watch?v=u1yVCeXYya4&list=RDMMu1yVCeXYya4&start_radio=1"
         }
     ]
 }
 {
-    "id": "rO7nXvl6",
+    "id": "jpjPYDlM",
     "name": "AutoTest",
     "productTypeId": null,
     "active": true,
@@ -5657,8 +5636,8 @@
     "latitude": 3245678.5467,
     "calendarColor": "blue",
     "address": "Bishkek",
-    "cityId": "JnlY9blz",
-    "createdAt": "2021-06-16T04:25:34.439384",
+    "cityId": "BJpg3epq",
+    "createdAt": "2021-06-16T11:24:14.747598",
     "productImages": [
         
     ],
@@ -5668,16 +5647,16 @@
     "productTypes": null,
     "productWorkingDates": [
         {
-            "id": "k8p0x0pJ",
-            "productId": "rO7nXvl6",
+            "id": "0WaNeopd",
+            "productId": "jpjPYDlM",
             "fromDate": "2022-12-31",
             "toDate": "2022-12-31",
             "name": "1234",
             "strictHours": false,
             "timeSlots": [
                 {
-                    "id": "baQkVAOA",
-                    "productWorkingDateId": "k8p0x0pJ",
+                    "id": "blVXGEpw",
+                    "productWorkingDateId": "0WaNeopd",
                     "dayOfWeek": "Monday",
                     "startTime": "09:00:00",
                     "endTime": "20:00:00",
@@ -5695,16 +5674,16 @@
     ],
     "productRegions": [
         {
-            "id": "5bpJGAaV",
-            "productId": "rO7nXvl6",
+            "id": "nGazmzpV",
+            "productId": "jpjPYDlM",
             "regionId": "5bpJKaVE",
             "regionName": null
         }
     ],
     "productPrices": [
         {
-            "id": "M5l17QpW",
-            "productId": "rO7nXvl6",
+            "id": "LbaQnQlA",
+            "productId": "jpjPYDlM",
             "channelId": "LbaQGOAx",
             "fromDate": "2021-05-31T00:00:00",
             "toDate": "2022-12-31T00:00:00",
@@ -5717,15 +5696,15 @@
             "pricePerPerson": false,
             "productPriceTypes": [
                 {
-                    "id": "kMaGZjpD",
-                    "productPriceId": "M5l17QpW",
-                    "productCustomerTypeId": "Yayq3zaW",
+                    "id": "bBl5wRpX",
+                    "productPriceId": "LbaQnQlA",
+                    "productCustomerTypeId": "2aAgMDOZ",
                     "amount": 57,
                     "currencyId": "Belm3pnb",
                     "currencySymbol": null,
                     "isOfficial": true,
                     "productCustomerType": {
-                        "id": "Yayq3zaW",
+                        "id": "2aAgMDOZ",
                         "productId": "yxl4wVaj",
                         "name": "?????"
                     }
@@ -5736,34 +5715,34 @@
     ],
     "productCustomerTypes": [
         {
-            "id": "3pWodjp4",
-            "productId": "rO7nXvl6",
+            "id": "4aLL4Kan",
+            "productId": "jpjPYDlM",
             "name": "API"
         },
         {
-            "id": "xl4WLoaj",
-            "productId": "rO7nXvl6",
+            "id": "rO98EAle",
+            "productId": "jpjPYDlM",
             "name": "?????"
         },
         {
-            "id": "Gaz7KElV",
-            "productId": "rO7nXvl6",
+            "id": "eaZLV7Od",
+            "productId": "jpjPYDlM",
             "name": "???"
         },
         {
-            "id": "8p0NmxlJ",
-            "productId": "rO7nXvl6",
+            "id": "rO7nyBl6",
+            "productId": "jpjPYDlM",
             "name": "?????"
         }
     ],
     "city": {
-        "id": "JnlY9blz",
+        "id": "BJpg3epq",
         "name": "Israel"
     },
     "productIncludedTags": [
         {
-            "id": "bBl5E1lX",
-            "productId": "rO7nXvl6",
+            "id": "M5l10MaW",
+            "productId": "jpjPYDlM",
             "subTagId": "jLa3rjpz",
             "parentTagId": null,
             "subTagName": null
@@ -5771,8 +5750,8 @@
     ],
     "productExcludedTags": [
         {
-            "id": "1dpdyva7",
-            "productId": "rO7nXvl6",
+            "id": "r1lkQJp6",
+            "productId": "jpjPYDlM",
             "subTagId": "4eO8gvlP",
             "parentTagId": null,
             "subTagName": null
@@ -5780,8 +5759,8 @@
     ],
     "productTags": [
         {
-            "id": "WaNdV8Od",
-            "productId": "rO7nXvl6",
+            "id": "baQroQlA",
+            "productId": "jpjPYDlM",
             "subTagId": "qeaZMepd",
             "parentTagId": null,
             "subTagName": null
@@ -5790,8 +5769,8 @@
     "productTranslations": null,
     "productVideos": [
         {
-            "id": "1dpdx7p7",
-            "productId": "rO7nXvl6",
+            "id": "EjpjoKaM",
+            "productId": "jpjPYDlM",
             "path": "https://www.youtube.com/watch?v=u1yVCeXYya4&list=RDMMu1yVCeXYya4&start_radio=1"
         }
     ]
@@ -5813,7 +5792,7 @@
     <failure message="expected:&lt;400&gt; but was:&lt;200&gt;" type="java.lang.AssertionError"><![CDATA[java.lang.AssertionError: expected:<400> but was:<200>
 ]]></failure>
     <system-out><![CDATA[{
-    "id": "nlYxvZaz",
+    "id": "1lkVGZa6",
     "name": "AutoTest",
     "productTypeId": null,
     "active": true,
@@ -5824,8 +5803,8 @@
     "latitude": 3245678.5467,
     "calendarColor": "blue",
     "address": "Bishkek",
-    "cityId": "kMaG1DOD",
-    "createdAt": "2021-06-16T04:25:34.661962",
+    "cityId": "0Gpb2Rpr",
+    "createdAt": "2021-06-16T11:24:14.958635",
     "productImages": [
         
     ],
@@ -5835,16 +5814,16 @@
     "productTypes": null,
     "productWorkingDates": [
         {
-            "id": "KPledbav",
-            "productId": "nlYxvZaz",
+            "id": "52aA7DOZ",
+            "productId": "1lkVGZa6",
             "fromDate": "2022-12-31",
             "toDate": "2022-12-31",
             "name": "1234",
             "strictHours": false,
             "timeSlots": [
                 {
-                    "id": "elm3Mepn",
-                    "productWorkingDateId": "KPledbav",
+                    "id": "waD3j3p3",
+                    "productWorkingDateId": "52aA7DOZ",
                     "dayOfWeek": "Monday",
                     "startTime": "09:00:00",
                     "endTime": "20:00:00",
@@ -5862,16 +5841,16 @@
     ],
     "productRegions": [
         {
-            "id": "0WaN6Qad",
-            "productId": "nlYxvZaz",
+            "id": "k8p0x0pJ",
+            "productId": "1lkVGZa6",
             "regionId": "5bpJKaVE",
             "regionName": null
         }
     ],
     "productPrices": [
         {
-            "id": "WYp61jOK",
-            "productId": "nlYxvZaz",
+            "id": "BelmjjOn",
+            "productId": "1lkVGZa6",
             "channelId": "LbaQGOAx",
             "fromDate": "2021-05-31T00:00:00",
             "toDate": "2022-12-31T00:00:00",
@@ -5884,15 +5863,15 @@
             "pricePerPerson": false,
             "productPriceTypes": [
                 {
-                    "id": "oylKK6l8",
-                    "productPriceId": "WYp61jOK",
-                    "productCustomerTypeId": "PleoVzpv",
+                    "id": "Ybpv5BOJ",
+                    "productPriceId": "BelmjjOn",
+                    "productCustomerTypeId": "nlYxoxaz",
                     "amount": 57,
                     "currencyId": "Belm3pnb",
                     "currencySymbol": null,
                     "isOfficial": true,
                     "productCustomerType": {
-                        "id": "PleoVzpv",
+                        "id": "nlYxoxaz",
                         "productId": "yxl4wVaj",
                         "name": "?????"
                     }
@@ -5903,34 +5882,34 @@
     ],
     "productCustomerTypes": [
         {
-            "id": "ApRD29lY",
-            "productId": "nlYxvZaz",
+            "id": "MaGEbyOD",
+            "productId": "1lkVGZa6",
             "name": "API"
         },
         {
-            "id": "7OxMq2p6",
-            "productId": "nlYxvZaz",
+            "id": "ylKd3VO8",
+            "productId": "1lkVGZa6",
             "name": "?????"
         },
         {
-            "id": "dl2oNVOX",
-            "productId": "nlYxvZaz",
+            "id": "dpd5BYa7",
+            "productId": "1lkVGZa6",
             "name": "???"
         },
         {
-            "id": "Jpgydrlq",
-            "productId": "nlYxvZaz",
+            "id": "5l1ArVlW",
+            "productId": "1lkVGZa6",
             "name": "?????"
         }
     ],
     "city": {
-        "id": "kMaG1DOD",
+        "id": "0Gpb2Rpr",
         "name": "Israel"
     },
     "productIncludedTags": [
         {
-            "id": "YbpvLAlJ",
-            "productId": "nlYxvZaz",
+            "id": "WYp6E0OK",
+            "productId": "1lkVGZa6",
             "subTagId": "jLa3rjpz",
             "parentTagId": null,
             "subTagName": null
@@ -5938,8 +5917,8 @@
     ],
     "productExcludedTags": [
         {
-            "id": "M5l1KApW",
-            "productId": "nlYxvZaz",
+            "id": "zblB80pR",
+            "productId": "1lkVGZa6",
             "subTagId": "4eO8gvlP",
             "parentTagId": null,
             "subTagName": null
@@ -5947,8 +5926,8 @@
     ],
     "productTags": [
         {
-            "id": "2aAY9XaZ",
-            "productId": "nlYxvZaz",
+            "id": "elmvdjOn",
+            "productId": "1lkVGZa6",
             "subTagId": "qeaZMepd",
             "parentTagId": null,
             "subTagName": null
@@ -5957,14 +5936,14 @@
     "productTranslations": null,
     "productVideos": [
         {
-            "id": "M5l1J6OW",
-            "productId": "nlYxvZaz",
+            "id": "r1lk3El6",
+            "productId": "1lkVGZa6",
             "path": "https://www.youtube.com/watch?v=u1yVCeXYya4&list=RDMMu1yVCeXYya4&start_radio=1"
         }
     ]
 }
 {
-    "id": "nlYxvZaz",
+    "id": "1lkVGZa6",
     "name": "AutoTest",
     "productTypeId": null,
     "active": true,
@@ -5975,8 +5954,8 @@
     "latitude": 3245678.5467,
     "calendarColor": "blue",
     "address": "Bishkek",
-    "cityId": "kMaG1DOD",
-    "createdAt": "2021-06-16T04:25:34.661962",
+    "cityId": "0Gpb2Rpr",
+    "createdAt": "2021-06-16T11:24:14.958635",
     "productImages": [
         
     ],
@@ -5986,16 +5965,16 @@
     "productTypes": null,
     "productWorkingDates": [
         {
-            "id": "KPledbav",
-            "productId": "nlYxvZaz",
+            "id": "52aA7DOZ",
+            "productId": "1lkVGZa6",
             "fromDate": "2022-12-31",
             "toDate": "2022-12-31",
             "name": "1234",
             "strictHours": false,
             "timeSlots": [
                 {
-                    "id": "elm3Mepn",
-                    "productWorkingDateId": "KPledbav",
+                    "id": "waD3j3p3",
+                    "productWorkingDateId": "52aA7DOZ",
                     "dayOfWeek": "Monday",
                     "startTime": "09:00:00",
                     "endTime": "20:00:00",
@@ -6013,16 +5992,16 @@
     ],
     "productRegions": [
         {
-            "id": "0WaN6Qad",
-            "productId": "nlYxvZaz",
+            "id": "k8p0x0pJ",
+            "productId": "1lkVGZa6",
             "regionId": "5bpJKaVE",
             "regionName": null
         }
     ],
     "productPrices": [
         {
-            "id": "WYp61jOK",
-            "productId": "nlYxvZaz",
+            "id": "BelmjjOn",
+            "productId": "1lkVGZa6",
             "channelId": "LbaQGOAx",
             "fromDate": "2021-05-31T00:00:00",
             "toDate": "2022-12-31T00:00:00",
@@ -6035,15 +6014,15 @@
             "pricePerPerson": false,
             "productPriceTypes": [
                 {
-                    "id": "oylKK6l8",
-                    "productPriceId": "WYp61jOK",
-                    "productCustomerTypeId": "PleoVzpv",
+                    "id": "Ybpv5BOJ",
+                    "productPriceId": "BelmjjOn",
+                    "productCustomerTypeId": "nlYxoxaz",
                     "amount": 57,
                     "currencyId": "Belm3pnb",
                     "currencySymbol": null,
                     "isOfficial": true,
                     "productCustomerType": {
-                        "id": "PleoVzpv",
+                        "id": "nlYxoxaz",
                         "productId": "yxl4wVaj",
                         "name": "?????"
                     }
@@ -6054,34 +6033,34 @@
     ],
     "productCustomerTypes": [
         {
-            "id": "ApRD29lY",
-            "productId": "nlYxvZaz",
+            "id": "MaGEbyOD",
+            "productId": "1lkVGZa6",
             "name": "API"
         },
         {
-            "id": "7OxMq2p6",
-            "productId": "nlYxvZaz",
+            "id": "ylKd3VO8",
+            "productId": "1lkVGZa6",
             "name": "?????"
         },
         {
-            "id": "dl2oNVOX",
-            "productId": "nlYxvZaz",
+            "id": "dpd5BYa7",
+            "productId": "1lkVGZa6",
             "name": "???"
         },
         {
-            "id": "Jpgydrlq",
-            "productId": "nlYxvZaz",
+            "id": "5l1ArVlW",
+            "productId": "1lkVGZa6",
             "name": "?????"
         }
     ],
     "city": {
-        "id": "kMaG1DOD",
+        "id": "0Gpb2Rpr",
         "name": "Israel"
     },
     "productIncludedTags": [
         {
-            "id": "YbpvLAlJ",
-            "productId": "nlYxvZaz",
+            "id": "WYp6E0OK",
+            "productId": "1lkVGZa6",
             "subTagId": "jLa3rjpz",
             "parentTagId": null,
             "subTagName": null
@@ -6089,8 +6068,8 @@
     ],
     "productExcludedTags": [
         {
-            "id": "M5l1KApW",
-            "productId": "nlYxvZaz",
+            "id": "zblB80pR",
+            "productId": "1lkVGZa6",
             "subTagId": "4eO8gvlP",
             "parentTagId": null,
             "subTagName": null
@@ -6098,8 +6077,8 @@
     ],
     "productTags": [
         {
-            "id": "2aAY9XaZ",
-            "productId": "nlYxvZaz",
+            "id": "elmvdjOn",
+            "productId": "1lkVGZa6",
             "subTagId": "qeaZMepd",
             "parentTagId": null,
             "subTagName": null
@@ -6108,8 +6087,8 @@
     "productTranslations": null,
     "productVideos": [
         {
-            "id": "M5l1J6OW",
-            "productId": "nlYxvZaz",
+            "id": "r1lk3El6",
+            "productId": "1lkVGZa6",
             "path": "https://www.youtube.com/watch?v=u1yVCeXYya4&list=RDMMu1yVCeXYya4&start_radio=1"
         }
     ]

@@ -1,4 +1,4 @@
-@providerCreatesProductWithOutSomeFields @smoke @regression
+@smoke @providerCreatesProductWithOutSomeFields @regression
 Feature: Creating new Product with Negative Scenarios
 
   @creatingProductWithTheSameDataOver

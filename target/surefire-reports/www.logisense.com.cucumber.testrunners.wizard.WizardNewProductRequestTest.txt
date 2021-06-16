@@ -1,17 +1,11 @@
 -------------------------------------------------------------------------------
 Test set: www.logisense.com.cucumber.testrunners.wizard.WizardNewProductRequestTest
 -------------------------------------------------------------------------------
-Tests run: 395, Failures: 46, Errors: 0, Skipped: 18, Time elapsed: 47.944 s <<< FAILURE! - in www.logisense.com.cucumber.testrunners.wizard.WizardNewProductRequestTest
-Given verify that timeSlots is set with following fields(Scenario: verify that timeSlots has been created)  Time elapsed: 0 s  <<< FAILURE!
-java.lang.AssertionError: failure of quantity  expected: java.lang.String<67> but was: java.lang.Integer<67>
-
-Scenario: verify that timeSlots has been created  Time elapsed: 0 s  <<< FAILURE!
-java.lang.AssertionError: failure of quantity  expected: java.lang.String<67> but was: java.lang.Integer<67>
-
-Given verify that productRegions is set with following fields(Scenario: verify that productRegions have been created)  Time elapsed: 0 s  <<< FAILURE!
+Tests run: 395, Failures: 44, Errors: 0, Skipped: 18, Time elapsed: 43.21 s <<< FAILURE! - in www.logisense.com.cucumber.testrunners.wizard.WizardNewProductRequestTest
+Given verify that productRegions is set with following fields(Scenario: verify that productRegions have been created)  Time elapsed: 0.008 s  <<< FAILURE!
 java.lang.AssertionError: failure of regionName  expected:<Eilat> but was:<null>
 
-Scenario: verify that productRegions have been created  Time elapsed: 0 s  <<< FAILURE!
+Scenario: verify that productRegions have been created  Time elapsed: 0.008 s  <<< FAILURE!
 java.lang.AssertionError: failure of regionName  expected:<Eilat> but was:<null>
 
 Given verify that productIncludedTags is set with following fields(Scenario: verify that productIncludedTags have been created)  Time elapsed: 0 s  <<< FAILURE!
