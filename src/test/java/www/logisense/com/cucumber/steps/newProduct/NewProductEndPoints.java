@@ -30,4 +30,20 @@ public class NewProductEndPoints {
         return response;
     }
 
+    public static Response createProductWorkingDates(String userJson,Cookies cookies) {
+
+        Response response =  given()
+                .contentType(ContentType.JSON)
+                .accept(ContentType.JSON)
+                .body(userJson)
+                .when()
+                .cookies(cookies)
+                .request(String.valueOf(RestHttpRequest.HttpMethods.POST), "/api/product-working-date");
+
+        return response;
+    }
+
+
+
+
 }

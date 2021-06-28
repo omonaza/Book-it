@@ -108,7 +108,7 @@ public class WizardProductNegativeSteps {
         String newProd = ObjectConverter.convertObjectToJson(productRequest);
         RestHttpRequest.addHeaders();
 
-        CommonData.response = RestHttpRequest
+        commonData.response = RestHttpRequest
                 .requestSpecification
                 .body(newProd)
                 .when()

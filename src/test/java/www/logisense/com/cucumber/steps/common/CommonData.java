@@ -1,6 +1,8 @@
 package www.logisense.com.cucumber.steps.common;
 
 import io.restassured.response.Response;
+import www.logisense.com.pogos.wizardNewProduct.ProductRequest;
+import www.logisense.com.pogos.wizardNewProduct.ProductWorkingDates;
 
 
 /*
@@ -12,5 +14,6 @@ public class CommonData {
     public static Response response;
 
 }
+
 
 

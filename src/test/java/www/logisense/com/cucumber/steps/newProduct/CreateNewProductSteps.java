@@ -15,7 +15,6 @@ import www.logisense.com.cucumber.steps.common.CommonData;
 import www.logisense.com.pogos.wizardNewProduct.*;
 import www.logisense.com.utility.ObjectConverter;
 import www.logisense.com.utility.PropertiesReader;
-import www.logisense.com.utility.RestHttpRequest;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -29,11 +28,11 @@ public class CreateNewProductSteps {
     public CreateNewProductSteps(CommonData commonData) {
         this.commonData = commonData;
 
+
     }
 
 
-
-   private Cookies cookies;
+    private Cookies cookies;
 
     private static Logger logger;
 
@@ -49,8 +48,6 @@ public class CreateNewProductSteps {
         logger = LogManager.getLogger();
         logger.traceEntry("Enter the Application");
         logger.info("-------Start running scenario--------");
-
-        RestAssured.baseURI = PropertiesReader.getPropertiesValue("Book_It_BaseURL");
 
         String token = PropertiesReader.getPropertiesValue("Token");
 
@@ -333,7 +330,7 @@ public class CreateNewProductSteps {
 
         String newProd = ObjectConverter.convertObjectToJson(productRequest);
 
-        CommonData.response = NewProductEndPoints.createProduct(newProd,cookies);
+        commonData.response = NewProductEndPoints.createProduct(newProd, cookies);
 
 
     }
@@ -343,7 +340,7 @@ public class CreateNewProductSteps {
     @Then("^verify that new product is set with following fields$")
     public void verifyThatNewProductIsSetWithFollowingFields(List<Map<String, String>> expectedProduct) {
 
-        ProductRequest productRequest = ObjectConverter.convertJsonToObject(CommonData.response.body().asString(), ProductRequest.class);
+        ProductRequest productRequest = ObjectConverter.convertJsonToObject(commonData.response.body().asString(), ProductRequest.class);
 
         Assert.assertEquals("failure of name ", expectedProduct.get(0).get("name"), productRequest.getName());
         Assert.assertEquals("failure of isActive ", Boolean.parseBoolean(expectedProduct.get(0).get("active")), productRequest.isActive());
@@ -383,7 +380,7 @@ public class CreateNewProductSteps {
     @Given("^verify that ProductWorkingDates is set with following fields$")
     public void verifyThatProductWorkingDatesIsSetWithFollowingFields(List<Map<String, String>> expectedProductWorkingDates) {
 
-        ProductRequest actualProd = ObjectConverter.convertJsonToObject(CommonData.response.body().asString(), ProductRequest.class);
+        ProductRequest actualProd = ObjectConverter.convertJsonToObject(commonData.response.body().asString(), ProductRequest.class);
 
         Assert.assertEquals("failure of fromDate ", expectedProductWorkingDates.get(0).get("fromDate"),
                 actualProd.getProductWorkingDates().get(0).getFromDate());
@@ -408,7 +405,7 @@ public class CreateNewProductSteps {
     @Given("^verify that timeSlots is set with following fields$")
     public void verifyThatTimeSlotsIsSetWithFollowingFields(List<Map<String, String>> expectedTimeSlots) {
 
-        ProductRequest actualProd = ObjectConverter.convertJsonToObject(CommonData.response.body().asString(), ProductRequest.class);
+        ProductRequest actualProd = ObjectConverter.convertJsonToObject(commonData.response.body().asString(), ProductRequest.class);
 
         Assert.assertEquals("failure of active ", Boolean.parseBoolean(expectedTimeSlots.get(0).get("active")),
                 actualProd.getProductWorkingDates().get(0).getTimeSlots().get(0).isActive());
@@ -435,7 +432,7 @@ public class CreateNewProductSteps {
 
     @Given("^verify that productRegions is set with following fields$")
     public void verifyThatProductRegionsIsSetWithFollowingFields(List<Map<String, String>> expectedProductRegions) {
-        ProductRequest actualProd = ObjectConverter.convertJsonToObject(CommonData.response.body().asString(), ProductRequest.class);
+        ProductRequest actualProd = ObjectConverter.convertJsonToObject(commonData.response.body().asString(), ProductRequest.class);
 
         Assert.assertEquals("failure of regionName ", expectedProductRegions.get(0).get("regionName"),
                 actualProd.getProductRegions().get(0).getRegionName());
@@ -444,7 +441,7 @@ public class CreateNewProductSteps {
 
     @Given("^verify that productPrices is set with following field$")
     public void verifyThatProductPricesIsSetWithFollowingField(List<Map<String, String>> expectedProductPrices) {
-        ProductRequest actualProd = ObjectConverter.convertJsonToObject(CommonData.response.body().asString(), ProductRequest.class);
+        ProductRequest actualProd = ObjectConverter.convertJsonToObject(commonData.response.body().asString(), ProductRequest.class);
 
         Assert.assertEquals("failure of fromDate", expectedProductPrices.get(0).get("fromDate"),
                 actualProd.getProductPrices().get(0).getFromDate());
@@ -479,7 +476,7 @@ public class CreateNewProductSteps {
 
     @Given("^verify that productPriceTypes is set with following fields$")
     public void verifyThatProductPriceTypesIsSetWithFollowingFields(List<Map<String, String>> expectedProductPriceTypes) {
-        ProductRequest actualProd = ObjectConverter.convertJsonToObject(CommonData.response.body().asString(), ProductRequest.class);
+        ProductRequest actualProd = ObjectConverter.convertJsonToObject(commonData.response.body().asString(), ProductRequest.class);
 
         Assert.assertEquals("failure of amount ", Integer.valueOf(expectedProductPriceTypes.get(0).get("amount")),
                 actualProd.getProductPrices().get(0).getProductPriceTypes().get(0).getAmount());
@@ -491,7 +488,7 @@ public class CreateNewProductSteps {
 
     @Given("^verify that productCustomerType is set with following fields$")
     public void verifyThatProductCustomerTypeIsSetWithFollowingFields(List<Map<String, String>> expectedProductCustomerType) {
-        ProductRequest actualProd = ObjectConverter.convertJsonToObject(CommonData.response.body().asString(), ProductRequest.class);
+        ProductRequest actualProd = ObjectConverter.convertJsonToObject(commonData.response.body().asString(), ProductRequest.class);
 
         Assert.assertEquals("failure of name ", expectedProductCustomerType.get(0).get("name"),
                 actualProd.getProductPrices().get(0).getProductPriceTypes().get(0).getProductCustomerType().getName());
@@ -500,7 +497,7 @@ public class CreateNewProductSteps {
 
     @Given("^verify that productCustomerTypes is set with following fields$")
     public void verifyThatProductCustomerTypesIsSetWithFollowingFields(List<Map<String, String>> expectedProductCustomerTypes) {
-        ProductRequest actualProd = ObjectConverter.convertJsonToObject(CommonData.response.body().asString(), ProductRequest.class);
+        ProductRequest actualProd = ObjectConverter.convertJsonToObject(commonData.response.body().asString(), ProductRequest.class);
 
         Assert.assertEquals("failure of name ", expectedProductCustomerTypes.get(0).get("name"),
                 actualProd.getProductCustomerTypes().get(0).getName());
@@ -510,7 +507,7 @@ public class CreateNewProductSteps {
 
     @Given("^verify that city is set with following fields$")
     public void verifyThatCityIsSetWithFollowingFields(List<Map<String, String>> expectedCity) {
-        ProductRequest actualProd = ObjectConverter.convertJsonToObject(CommonData.response.body().asString(), ProductRequest.class);
+        ProductRequest actualProd = ObjectConverter.convertJsonToObject(commonData.response.body().asString(), ProductRequest.class);
 
         Assert.assertEquals("failure of name ", expectedCity.get(0).get("name"),
                 actualProd.getCity().getName());
@@ -519,7 +516,7 @@ public class CreateNewProductSteps {
 
     @Given("^verify that productIncludedTags is set with following fields$")
     public void verifyThatProductIncludedTagsIsSetWithFollowingFields(List<Map<String, String>> expectedProductIncludedTags) {
-        ProductRequest actualProd = ObjectConverter.convertJsonToObject(CommonData.response.body().asString(), ProductRequest.class);
+        ProductRequest actualProd = ObjectConverter.convertJsonToObject(commonData.response.body().asString(), ProductRequest.class);
 
         Assert.assertEquals("failure of subTagName ", expectedProductIncludedTags.get(0).get("subTagName"),
                 actualProd.getProductIncludedTags().get(0).getSubTagName());
@@ -528,7 +525,7 @@ public class CreateNewProductSteps {
 
     @Given("^verify that productExcludedTags is set with following fields$")
     public void verifyThatProductExcludedTagsIsSetWithFollowingFields(List<Map<String, String>> expectedProductExcludedTags) {
-        ProductRequest actualProd = ObjectConverter.convertJsonToObject(CommonData.response.body().asString(), ProductRequest.class);
+        ProductRequest actualProd = ObjectConverter.convertJsonToObject(commonData.response.body().asString(), ProductRequest.class);
 
         Assert.assertEquals("failure of subTagName ", expectedProductExcludedTags.get(0).get("subTagName"),
                 actualProd.getProductExcludedTags().get(0).getSubTagName());
@@ -536,7 +533,7 @@ public class CreateNewProductSteps {
 
     @Given("^verify that productTags is set with following fields$")
     public void verifyThatProductTagsIsSetWithFollowingFields(List<Map<String, String>> expectedProductTags) {
-        ProductRequest actualProd = ObjectConverter.convertJsonToObject(CommonData.response.body().asString(), ProductRequest.class);
+        ProductRequest actualProd = ObjectConverter.convertJsonToObject(commonData.response.body().asString(), ProductRequest.class);
 
         Assert.assertEquals("failure of subTagName ", expectedProductTags.get(0).get("subTagName"), actualProd.getProductTags().get(0).getSubTagName());
 
@@ -545,7 +542,7 @@ public class CreateNewProductSteps {
 
     @Given("^verify that productVideos is set with following fields$")
     public void verifyThatProductVideosIsSetWithFollowingFields(List<Map<String, String>> expectedProductVideos) {
-        ProductRequest actualProd = ObjectConverter.convertJsonToObject(CommonData.response.body().asString(), ProductRequest.class);
+        ProductRequest actualProd = ObjectConverter.convertJsonToObject(commonData.response.body().asString(), ProductRequest.class);
 
         Assert.assertEquals("failure of path ", expectedProductVideos.get(0).get("path"),
                 actualProd.getProductVideos().get(0).getPath());

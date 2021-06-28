@@ -1,4 +1,4 @@
-  @productPriceNegativeTesting @smoke @regression
+@smoke @productPriceNegativeTesting @regression
 Feature: productPrices is being tested with negative scenarios
 
   Background:
@@ -85,6 +85,13 @@ Feature: productPrices is being tested with negative scenarios
     Given provider creates a new product
     Then verify status code is 400
     Then verify the title is "One or more validation errors occurred."
+
+
+
+
+
+
+
 
 
 

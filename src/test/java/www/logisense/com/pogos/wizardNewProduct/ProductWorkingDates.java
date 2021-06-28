@@ -8,6 +8,7 @@ import java.util.List;
 @Data
 
 public class ProductWorkingDates {
+    private String productId;
     private String fromDate;
     private String toDate;
     private String name;

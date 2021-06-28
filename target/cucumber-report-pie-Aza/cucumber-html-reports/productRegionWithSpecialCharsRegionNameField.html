@@ -42,7 +42,7 @@ $(document).ready(function() {
 
 
   
-<title>Cucumber-JVM Reports  - Tag: @productWorkingDatesWithMissingFromDateField</title>
+<title>Cucumber-JVM Reports  - Tag: @productRegionWithSpecialCharsRegionNameField</title>
 
 </head>
 <body>
@@ -122,18 +122,18 @@ $(document).ready(function() {
 
         <tbody>
         <tr>
-          <td class="tagname">@productWorkingDatesWithMissingFromDateField</td>
-                    <td  class="passed"    >1</td>
-          <td >0</td>
+          <td class="tagname">@productRegionWithSpecialCharsRegionNameField</td>
+                    <td >0</td>
+          <td  class="failed"    >1</td>
           <td class="total">1</td>
-          <td      class="passed"    >4</td>
-          <td >0</td>
-          <td >0</td>
+          <td      class="passed"    >2</td>
+          <td      class="failed"    >1</td>
+          <td     class="skipped"   >1</td>
           <td >0</td>
           <td >0</td>
           <td class="total">4</td>
-          <td class="duration" data-value="93662600">093ms</td>
-          <td class="passed">Passed</td>
+          <td class="duration" data-value="99237900">099ms</td>
+          <td class="failed">Failed</td>
         </tr>
         </tbody>
 
@@ -152,20 +152,20 @@ $(document).ready(function() {
                   
 <div class="element">
       <div class="indention">
-      <a href="features-wizard-wizardNewProductTypes-WorkingDatesNegative-feature.html">View Feature</a> <i>productTypes and productWorkingDates are being tested with negative scenarios</i>
+      <a href="features-wizard-wizardProductRegionsNegative-feature.html">View Feature</a> <i>productRegions is being tested with negative scenarios</i>
     </div>
   
   
 <div class="tags indention">
-       <a href="productWorkingDatesWithMissingFromDateField.html">@productWorkingDatesWithMissingFromDateField</a>
+       <a href="productRegionWithSpecialCharsRegionNameField.html">@productRegionWithSpecialCharsRegionNameField</a>
   </div>
 
 
-    <span data-toggle="collapse" class=" collapsed  collapsable-control" data-target="#element-1">
+    <span data-toggle="collapse" class=" collapsable-control" data-target="#element-1">
     
-<div class="brief passed">
+<div class="brief failed">
   <span class="keyword indention">Scenario</span>
-  <span class="name">provider enters a data in ProductWorkingDates with missing fromDate field</span>
+  <span class="name">provider enters a data in productRegions with special chars  regionName field</span>
   
 
        <i class="chevron fa fa-fw"></i>
@@ -174,7 +174,7 @@ $(document).ready(function() {
   </span>
   <div class="description indention"></div>
 
-  <div id="element-1" class="collapse collapsable-details ">
+  <div id="element-1" class="collapse collapsable-details  in ">
     
   <div class="inner-level hooks-before">
         <div data-toggle="collapse" class=" collapsed  collapsable-control" data-target="#before-2">
@@ -210,7 +210,7 @@ $(document).ready(function() {
             <span class="keyword indention">Before</span>
                           <span class="location name">CreateNewProductSteps.setUp()</span>
                         
-  <span class="lead-duration duration">051ms</span>
+  <span class="lead-duration duration">057ms</span>
 
           </div>
 
@@ -225,7 +225,7 @@ $(document).ready(function() {
             <span class="keyword indention">Before</span>
                           <span class="location name">ValidationProductWorkingDatesSteps.setUp()</span>
                         
-  <span class="lead-duration duration">052ms</span>
+  <span class="lead-duration duration">086ms</span>
 
           </div>
 
@@ -240,7 +240,7 @@ $(document).ready(function() {
             <span class="keyword indention">Before</span>
                           <span class="location name">WizardProductNegativeSteps.setUp()</span>
                         
-  <span class="lead-duration duration">055ms</span>
+  <span class="lead-duration duration">059ms</span>
 
           </div>
 
@@ -256,9 +256,9 @@ $(document).ready(function() {
 
     
 <div class="steps inner-level">
-    <div data-toggle="collapse" class=" collapsed  collapsable-control" data-target="#steps-3">
+    <div data-toggle="collapse" class=" collapsable-control" data-target="#steps-3">
     
-<div class="brief passed">
+<div class="brief failed">
   <span class="keyword indention">Steps</span>
   <span class="name"></span>
   
@@ -268,12 +268,12 @@ $(document).ready(function() {
 
   </div>
 
-  <div id="steps-3" class="inner-level collapse collapsable-details ">
+  <div id="steps-3" class="inner-level collapse collapsable-details  in ">
           <div class="step">
         
 <div class="brief passed">
   <span class="keyword indention">Given</span>
-  <span class="name">productWorkingDates is set with following fields</span>
+  <span class="name">productRegions is set with the following fields</span>
   
   <span class="lead-duration duration">000ms</span>
 
@@ -284,20 +284,14 @@ $(document).ready(function() {
 
                   <table class="step-arguments">
                           <tr>
-                                  <td>toDate</td>
-                                  <td>name</td>
-                                  <td>strictHours</td>
-                                  <td>deletedAt</td>
-                                  <td>maxUsedTicketsQuantity</td>
-                                  <td>errorCode</td>
+                                  <td>productId</td>
+                                  <td>regionId</td>
+                                  <td>regionName</td>
                               </tr>
                           <tr>
-                                  <td>2022-12-31</td>
-                                  <td>1234567sdfgh#$#%^%&</td>
-                                  <td>false</td>
-                                  <td>null</td>
-                                  <td>0</td>
-                                  <td>0</td>
+                                  <td>PYayPjpW</td>
+                                  <td>5bpJKaVE</td>
+                                  <td>@#$%^</td>
                               </tr>
                       </table>
         
@@ -314,7 +308,7 @@ $(document).ready(function() {
   <span class="keyword indention">Given</span>
   <span class="name">provider creates a new product</span>
   
-  <span class="lead-duration duration">066ms</span>
+  <span class="lead-duration duration">096ms</span>
 
   </div>
 
@@ -331,15 +325,34 @@ $(document).ready(function() {
       </div>
           <div class="step">
         
-<div class="brief passed">
+<div class="brief failed">
   <span class="keyword indention">Then</span>
-  <span class="name">verify status code is 500</span>
+  <span class="name">verify status code is 400</span>
   
-  <span class="lead-duration duration">001ms</span>
+  <span class="lead-duration duration">003ms</span>
 
   </div>
 
         
+
+  <div class="inner-level">
+    <div class="message indention">
+      <div data-toggle="collapse" class="collapsable-control" data-target="#msg-4">
+          <a>Error message</a>
+      </div>
+      <div id="msg-4" class="collapse collapsable-details">
+        <pre>java.lang.AssertionError: expected:<400> but was:<200>
+	at org.junit.Assert.fail(Assert.java:88)
+	at org.junit.Assert.failNotEquals(Assert.java:743)
+	at org.junit.Assert.assertEquals(Assert.java:118)
+	at org.junit.Assert.assertEquals(Assert.java:555)
+	at org.junit.Assert.assertEquals(Assert.java:542)
+	at www.logisense.com.cucumber.steps.common.CommonSteps.verify_status_code_is(CommonSteps.java:31)
+	at ✽.Then verify status code is 400(features/wizard/wizardProductRegionsNegative.feature:37)
+</pre>
+      </div>
+    </div>
+  </div>
 
 
         
@@ -352,11 +365,11 @@ $(document).ready(function() {
       </div>
           <div class="step">
         
-<div class="brief passed">
+<div class="brief skipped">
   <span class="keyword indention">Then</span>
-  <span class="name">verify the title is "Internal Server Error"</span>
+  <span class="name">verify the title is "One or more validation errors occurred."</span>
   
-  <span class="lead-duration duration">025ms</span>
+  <span class="lead-duration duration">000ms</span>
 
   </div>
 
@@ -377,7 +390,7 @@ $(document).ready(function() {
 
     
   <div class="inner-level hooks-after">
-        <div data-toggle="collapse" class=" collapsed  collapsable-control" data-target="#after-4">
+        <div data-toggle="collapse" class=" collapsed  collapsable-control" data-target="#after-5">
       
 <div class="brief passed">
   <span class="keyword indention">Hooks</span>
@@ -389,7 +402,7 @@ $(document).ready(function() {
 
     </div>
 
-    <div id="after-4" class="inner-level collapse collapsable-details ">
+    <div id="after-5" class="inner-level collapse collapsable-details ">
               <div class="hook">
           <div class="brief passed">
             <span class="keyword indention">After</span>

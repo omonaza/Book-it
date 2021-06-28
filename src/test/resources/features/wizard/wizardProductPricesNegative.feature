@@ -88,3 +88,10 @@ Feature: productPrices is being tested with negative scenarios
 
 
 
+
+
+
+
+
+
+

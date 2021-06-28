@@ -10,6 +10,7 @@ www\logisense\com\pogos\wizardNewProduct\ProductCustomerType.class
 www\logisense\com\pogos\wizardNewProduct\ProductWorkingDates.class
 www\logisense\com\pogos\wizardNewProduct\ProductTags.class
 www\logisense\com\pogos\wizardNewProduct\TimeSlots.class
+www\logisense\com\cucumber\steps\newProduct\ValidationProductWorkingDatesSteps.class
 www\logisense\com\cucumber\steps\authentication\Log_In_Authorization.class
 www\logisense\com\cucumber\steps\newProduct\NewProductEndPoints.class
 www\logisense\com\cucumber\steps\newProduct\WizardProductNegativeSteps.class

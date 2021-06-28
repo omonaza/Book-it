@@ -1,4 +1,5 @@
 C:\Users\azaos\IdeaProjects\Book_It_LogiSense\src\test\java\www\logisense\com\cucumber\steps\newProduct\CreateNewProductSteps.java
+C:\Users\azaos\IdeaProjects\Book_It_LogiSense\src\test\java\www\logisense\com\cucumber\steps\newProduct\ValidationProductWorkingDatesSteps.java
 C:\Users\azaos\IdeaProjects\Book_It_LogiSense\src\test\java\www\logisense\com\pogos\wizardNewProduct\ProductCustomerType.java
 C:\Users\azaos\IdeaProjects\Book_It_LogiSense\src\test\java\www\logisense\com\utility\ObjectConverter.java
 C:\Users\azaos\IdeaProjects\Book_It_LogiSense\src\test\java\www\logisense\com\pogos\wizardNewProduct\ProductExcludedTags.java
@@ -6,7 +7,6 @@ C:\Users\azaos\IdeaProjects\Book_It_LogiSense\src\test\java\www\logisense\com\cu
 C:\Users\azaos\IdeaProjects\Book_It_LogiSense\src\test\java\www\logisense\com\pogos\wizardNewProduct\ProductPrices.java
 C:\Users\azaos\IdeaProjects\Book_It_LogiSense\src\test\java\www\logisense\com\pogos\wizardNewProduct\ProductTypes.java
 C:\Users\azaos\IdeaProjects\Book_It_LogiSense\src\test\java\www\logisense\com\pogos\wizardNewProduct\ProductIncludedTags.java
-C:\Users\azaos\IdeaProjects\Book_It_LogiSense\src\test\java\www\logisense\com\cucumber\steps\common\CommonCookies.java
 C:\Users\azaos\IdeaProjects\Book_It_LogiSense\src\test\java\www\logisense\com\cucumber\testrunners\wizard\AuthorizationTest.java
 C:\Users\azaos\IdeaProjects\Book_It_LogiSense\src\test\java\www\logisense\com\pogos\wizardNewProduct\ProductWorkingDates.java
 C:\Users\azaos\IdeaProjects\Book_It_LogiSense\src\test\java\www\logisense\com\pogos\wizardNewProduct\ProductCustomerTypes.java

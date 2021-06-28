@@ -1,7 +1,7 @@
 -------------------------------------------------------------------------------
 Test set: www.logisense.com.cucumber.testrunners.wizard.WizardNewProductRequestTest
 -------------------------------------------------------------------------------
-Tests run: 395, Failures: 44, Errors: 0, Skipped: 18, Time elapsed: 43.21 s <<< FAILURE! - in www.logisense.com.cucumber.testrunners.wizard.WizardNewProductRequestTest
+Tests run: 416, Failures: 50, Errors: 0, Skipped: 21, Time elapsed: 71.368 s <<< FAILURE! - in www.logisense.com.cucumber.testrunners.wizard.WizardNewProductRequestTest
 Given verify that productRegions is set with following fields(Scenario: verify that productRegions have been created)  Time elapsed: 0.008 s  <<< FAILURE!
 java.lang.AssertionError: failure of regionName  expected:<Eilat> but was:<null>
 
@@ -41,7 +41,7 @@ java.lang.AssertionError: expected:<400> but was:<200>
 Then verify status code is 500(Scenario: Provider creates a new product with missing shortDescription field)  Time elapsed: 0 s  <<< FAILURE!
 java.lang.AssertionError: expected:<500> but was:<200>
 
-Scenario: Provider creates a new product with missing shortDescription field  Time elapsed: 0 s  <<< FAILURE!
+Scenario: Provider creates a new product with missing shortDescription field  Time elapsed: 0.008 s  <<< FAILURE!
 java.lang.AssertionError: expected:<500> but was:<200>
 
 Then verify status code is 500(Scenario: Provider creates a new product with missing fullDescription field)  Time elapsed: 0 s  <<< FAILURE!
@@ -132,5 +132,23 @@ Then verify status code is 400(Scenario: provider enters a data in productPrices
 java.lang.AssertionError: expected:<400> but was:<200>
 
 Scenario: provider enters a data in productPrices with missing  title field  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: expected:<400> but was:<200>
+
+Then verify status code is 400(Scenario: provider enters a data in productRegions with empty  regionName field)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: expected:<400> but was:<200>
+
+Scenario: provider enters a data in productRegions with empty  regionName field  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: expected:<400> but was:<200>
+
+Then verify status code is 400(Scenario: provider enters a data in productRegions with missing  regionName field)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: expected:<400> but was:<200>
+
+Scenario: provider enters a data in productRegions with missing  regionName field  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: expected:<400> but was:<200>
+
+Then verify status code is 400(Scenario: provider enters a data in productRegions with special chars  regionName field)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: expected:<400> but was:<200>
+
+Scenario: provider enters a data in productRegions with special chars  regionName field  Time elapsed: 0 s  <<< FAILURE!
 java.lang.AssertionError: expected:<400> but was:<200>
 

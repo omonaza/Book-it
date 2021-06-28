@@ -1,4 +1,4 @@
-@providerCreatesProductTypesWithOutSomeFields @smoke @regression
+@smoke @providerCreatesProductTypesWithOutSomeFields  @regression
 Feature: productTypes and productWorkingDates are being tested with negative scenarios
 
 

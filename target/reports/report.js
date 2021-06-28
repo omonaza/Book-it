@@ -21,15 +21,19 @@ formatter.feature({
   ]
 });
 formatter.before({
-  "duration": 2065803800,
+  "duration": 6083849700,
   "status": "passed"
 });
 formatter.before({
-  "duration": 6429038100,
+  "duration": 25599634000,
   "status": "passed"
 });
 formatter.before({
-  "duration": 71797900,
+  "duration": 123167400,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 95301100,
   "status": "passed"
 });
 formatter.scenario({
@@ -79,23 +83,27 @@ formatter.match({
   "location": "CreateNewProductSteps.productIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 269012700,
+  "duration": 843818800,
   "status": "passed"
 });
 formatter.after({
-  "duration": 103800,
+  "duration": 118700,
   "status": "passed"
 });
 formatter.before({
-  "duration": 99300,
+  "duration": 96600,
   "status": "passed"
 });
 formatter.before({
-  "duration": 88549100,
+  "duration": 100059000,
   "status": "passed"
 });
 formatter.before({
-  "duration": 67270700,
+  "duration": 70267800,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 66945900,
   "status": "passed"
 });
 formatter.scenario({
@@ -131,23 +139,27 @@ formatter.match({
   "location": "CreateNewProductSteps.productTypesIsSetWithFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 1715500,
+  "duration": 1676500,
   "status": "passed"
 });
 formatter.after({
-  "duration": 49500,
+  "duration": 70700,
   "status": "passed"
 });
 formatter.before({
-  "duration": 98400,
+  "duration": 92400,
   "status": "passed"
 });
 formatter.before({
-  "duration": 87053000,
+  "duration": 85840200,
   "status": "passed"
 });
 formatter.before({
-  "duration": 74104300,
+  "duration": 85076700,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 58396100,
   "status": "passed"
 });
 formatter.scenario({
@@ -193,23 +205,27 @@ formatter.match({
   "location": "CreateNewProductSteps.productWorkingDatesIsSetWithFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 344400,
+  "duration": 340000,
   "status": "passed"
 });
 formatter.after({
-  "duration": 47900,
+  "duration": 60900,
   "status": "passed"
 });
 formatter.before({
-  "duration": 77600,
+  "duration": 104900,
   "status": "passed"
 });
 formatter.before({
-  "duration": 60021800,
+  "duration": 79362100,
   "status": "passed"
 });
 formatter.before({
-  "duration": 61718600,
+  "duration": 67858900,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 62918300,
   "status": "passed"
 });
 formatter.scenario({
@@ -255,23 +271,27 @@ formatter.match({
   "location": "CreateNewProductSteps.productTimeSlotsIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 2048800,
+  "duration": 2237400,
   "status": "passed"
 });
 formatter.after({
-  "duration": 654900,
+  "duration": 52100,
   "status": "passed"
 });
 formatter.before({
-  "duration": 114900,
+  "duration": 118500,
   "status": "passed"
 });
 formatter.before({
-  "duration": 63556100,
+  "duration": 171550900,
   "status": "passed"
 });
 formatter.before({
-  "duration": 62049900,
+  "duration": 69769300,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 74645800,
   "status": "passed"
 });
 formatter.scenario({
@@ -309,23 +329,27 @@ formatter.match({
   "location": "CreateNewProductSteps.productRegionsIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 1842100,
+  "duration": 4795200,
   "status": "passed"
 });
 formatter.after({
-  "duration": 59000,
+  "duration": 50400,
   "status": "passed"
 });
 formatter.before({
-  "duration": 152300,
+  "duration": 116900,
   "status": "passed"
 });
 formatter.before({
-  "duration": 67012500,
+  "duration": 92796200,
   "status": "passed"
 });
 formatter.before({
-  "duration": 107157600,
+  "duration": 57133300,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 53398100,
   "status": "passed"
 });
 formatter.scenario({
@@ -381,23 +405,27 @@ formatter.match({
   "location": "CreateNewProductSteps.productPricesIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 305300,
+  "duration": 300100,
   "status": "passed"
 });
 formatter.after({
-  "duration": 59700,
+  "duration": 434600,
   "status": "passed"
 });
 formatter.before({
-  "duration": 119200,
+  "duration": 83200,
   "status": "passed"
 });
 formatter.before({
-  "duration": 70130800,
+  "duration": 74520300,
   "status": "passed"
 });
 formatter.before({
-  "duration": 230485400,
+  "duration": 47819400,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 64332300,
   "status": "passed"
 });
 formatter.scenario({
@@ -441,23 +469,27 @@ formatter.match({
   "location": "CreateNewProductSteps.productPriceTypesIsSetWithTheFollowingDates(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 299000,
+  "duration": 368600,
   "status": "passed"
 });
 formatter.after({
-  "duration": 58300,
+  "duration": 49200,
   "status": "passed"
 });
 formatter.before({
-  "duration": 118800,
+  "duration": 100200,
   "status": "passed"
 });
 formatter.before({
-  "duration": 52493500,
+  "duration": 53500300,
   "status": "passed"
 });
 formatter.before({
-  "duration": 83048300,
+  "duration": 50224400,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 43751400,
   "status": "passed"
 });
 formatter.scenario({
@@ -493,23 +525,27 @@ formatter.match({
   "location": "CreateNewProductSteps.productCustomerTypeIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 1638600,
+  "duration": 1602500,
   "status": "passed"
 });
 formatter.after({
-  "duration": 57400,
+  "duration": 64400,
   "status": "passed"
 });
 formatter.before({
-  "duration": 105300,
+  "duration": 76100,
   "status": "passed"
 });
 formatter.before({
-  "duration": 60361500,
+  "duration": 54876300,
   "status": "passed"
 });
 formatter.before({
-  "duration": 52323800,
+  "duration": 54022800,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 45977100,
   "status": "passed"
 });
 formatter.scenario({
@@ -543,23 +579,27 @@ formatter.match({
   "location": "CreateNewProductSteps.productCustomerTypesIsSetWithFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 1657600,
+  "duration": 1628400,
   "status": "passed"
 });
 formatter.after({
-  "duration": 45300,
+  "duration": 50500,
   "status": "passed"
 });
 formatter.before({
-  "duration": 80100,
+  "duration": 62600,
   "status": "passed"
 });
 formatter.before({
-  "duration": 60006500,
+  "duration": 75660300,
   "status": "passed"
 });
 formatter.before({
-  "duration": 70506400,
+  "duration": 45103800,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 70994700,
   "status": "passed"
 });
 formatter.scenario({
@@ -595,23 +635,27 @@ formatter.match({
   "location": "CreateNewProductSteps.cityIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 1519600,
+  "duration": 1674800,
   "status": "passed"
 });
 formatter.after({
-  "duration": 46500,
+  "duration": 45900,
   "status": "passed"
 });
 formatter.before({
-  "duration": 95300,
+  "duration": 94200,
   "status": "passed"
 });
 formatter.before({
-  "duration": 55100400,
+  "duration": 49555100,
   "status": "passed"
 });
 formatter.before({
-  "duration": 54531100,
+  "duration": 45440000,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 48572200,
   "status": "passed"
 });
 formatter.scenario({
@@ -647,23 +691,27 @@ formatter.match({
   "location": "CreateNewProductSteps.productIncludedTagsIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 1660100,
+  "duration": 1536700,
   "status": "passed"
 });
 formatter.after({
-  "duration": 46400,
+  "duration": 50600,
   "status": "passed"
 });
 formatter.before({
-  "duration": 74000,
+  "duration": 89500,
   "status": "passed"
 });
 formatter.before({
-  "duration": 48204500,
+  "duration": 53886200,
   "status": "passed"
 });
 formatter.before({
-  "duration": 46594900,
+  "duration": 42206600,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 54668700,
   "status": "passed"
 });
 formatter.scenario({
@@ -703,23 +751,27 @@ formatter.match({
   "location": "CreateNewProductSteps.productExcludedTagsIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 1636200,
+  "duration": 1523100,
   "status": "passed"
 });
 formatter.after({
-  "duration": 52500,
+  "duration": 41400,
   "status": "passed"
 });
 formatter.before({
-  "duration": 104800,
+  "duration": 72300,
   "status": "passed"
 });
 formatter.before({
-  "duration": 54412100,
+  "duration": 80548900,
   "status": "passed"
 });
 formatter.before({
-  "duration": 49567200,
+  "duration": 44967200,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 59490400,
   "status": "passed"
 });
 formatter.scenario({
@@ -759,23 +811,27 @@ formatter.match({
   "location": "CreateNewProductSteps.productTagsIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 1979600,
+  "duration": 1613800,
   "status": "passed"
 });
 formatter.after({
-  "duration": 43700,
+  "duration": 51000,
   "status": "passed"
 });
 formatter.before({
-  "duration": 95800,
+  "duration": 119800,
   "status": "passed"
 });
 formatter.before({
-  "duration": 70730800,
+  "duration": 57348000,
   "status": "passed"
 });
 formatter.before({
-  "duration": 53122200,
+  "duration": 47935800,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 77634700,
   "status": "passed"
 });
 formatter.scenario({
@@ -809,23 +865,27 @@ formatter.match({
   "location": "CreateNewProductSteps.productVideosIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 3450700,
+  "duration": 3105300,
   "status": "passed"
 });
 formatter.after({
-  "duration": 41900,
+  "duration": 47500,
   "status": "passed"
 });
 formatter.before({
-  "duration": 123200,
+  "duration": 77600,
   "status": "passed"
 });
 formatter.before({
-  "duration": 86757900,
+  "duration": 79633600,
   "status": "passed"
 });
 formatter.before({
-  "duration": 50831500,
+  "duration": 47664500,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 60649800,
   "status": "passed"
 });
 formatter.scenario({
@@ -850,7 +910,7 @@ formatter.match({
   "location": "CreateNewProductSteps.providerCreatesANewProduct()"
 });
 formatter.result({
-  "duration": 496027600,
+  "duration": 496081000,
   "status": "passed"
 });
 formatter.match({
@@ -863,23 +923,27 @@ formatter.match({
   "location": "CommonSteps.verify_status_code_is(int)"
 });
 formatter.result({
-  "duration": 179372900,
+  "duration": 185557300,
   "status": "passed"
 });
 formatter.after({
-  "duration": 43700,
+  "duration": 47900,
   "status": "passed"
 });
 formatter.before({
-  "duration": 1040700,
+  "duration": 700000,
   "status": "passed"
 });
 formatter.before({
-  "duration": 74237600,
+  "duration": 69039100,
   "status": "passed"
 });
 formatter.before({
-  "duration": 56818900,
+  "duration": 58327000,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 72793800,
   "status": "passed"
 });
 formatter.scenario({
@@ -943,23 +1007,27 @@ formatter.match({
   "location": "CreateNewProductSteps.verifyThatNewProductIsSetWithFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 8678800,
+  "duration": 4806300,
   "status": "passed"
 });
 formatter.after({
-  "duration": 430600,
+  "duration": 632400,
   "status": "passed"
 });
 formatter.before({
-  "duration": 72900,
+  "duration": 107700,
   "status": "passed"
 });
 formatter.before({
-  "duration": 66202800,
+  "duration": 59054300,
   "status": "passed"
 });
 formatter.before({
-  "duration": 64558100,
+  "duration": 48509000,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 69297300,
   "status": "passed"
 });
 formatter.scenario({
@@ -1023,23 +1091,27 @@ formatter.match({
   "location": "CreateNewProductSteps.verifyThatProductWorkingDatesIsSetWithFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 1268200,
+  "duration": 1313500,
   "status": "passed"
 });
 formatter.after({
-  "duration": 56900,
+  "duration": 55000,
   "status": "passed"
 });
 formatter.before({
-  "duration": 136000,
+  "duration": 69600,
   "status": "passed"
 });
 formatter.before({
-  "duration": 65411100,
+  "duration": 47031400,
   "status": "passed"
 });
 formatter.before({
-  "duration": 54749800,
+  "duration": 45714900,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 54861400,
   "status": "passed"
 });
 formatter.scenario({
@@ -1085,23 +1157,27 @@ formatter.match({
   "location": "CreateNewProductSteps.verifyThatTimeSlotsIsSetWithFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 1229100,
+  "duration": 1437600,
   "status": "passed"
 });
 formatter.after({
-  "duration": 43100,
+  "duration": 41000,
   "status": "passed"
 });
 formatter.before({
-  "duration": 72000,
+  "duration": 69000,
   "status": "passed"
 });
 formatter.before({
-  "duration": 57132200,
+  "duration": 45236500,
   "status": "passed"
 });
 formatter.before({
-  "duration": 53602100,
+  "duration": 60324100,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 58252300,
   "status": "passed"
 });
 formatter.scenario({
@@ -1139,24 +1215,28 @@ formatter.match({
   "location": "CreateNewProductSteps.verifyThatProductRegionsIsSetWithFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 2702000,
-  "error_message": "java.lang.AssertionError: failure of regionName  expected:\u003cEilat\u003e but was:\u003cnull\u003e\r\n\tat org.junit.Assert.fail(Assert.java:88)\r\n\tat org.junit.Assert.failNotEquals(Assert.java:743)\r\n\tat org.junit.Assert.assertEquals(Assert.java:118)\r\n\tat www.logisense.com.cucumber.steps.newProduct.CreateNewProductSteps.verifyThatProductRegionsIsSetWithFollowingFields(CreateNewProductSteps.java:440)\r\n\tat ✽.Given verify that productRegions is set with following fields(features/wizard/wizardNewProduct.feature:112)\r\n",
+  "duration": 2977200,
+  "error_message": "java.lang.AssertionError: failure of regionName  expected:\u003cEilat\u003e but was:\u003cnull\u003e\r\n\tat org.junit.Assert.fail(Assert.java:88)\r\n\tat org.junit.Assert.failNotEquals(Assert.java:743)\r\n\tat org.junit.Assert.assertEquals(Assert.java:118)\r\n\tat www.logisense.com.cucumber.steps.newProduct.CreateNewProductSteps.verifyThatProductRegionsIsSetWithFollowingFields(CreateNewProductSteps.java:437)\r\n\tat ✽.Given verify that productRegions is set with following fields(features/wizard/wizardNewProduct.feature:112)\r\n",
   "status": "failed"
 });
 formatter.after({
-  "duration": 39800,
+  "duration": 42800,
   "status": "passed"
 });
 formatter.before({
-  "duration": 113400,
+  "duration": 72100,
   "status": "passed"
 });
 formatter.before({
-  "duration": 63524300,
+  "duration": 50104000,
   "status": "passed"
 });
 formatter.before({
-  "duration": 54966700,
+  "duration": 43038100,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 48168200,
   "status": "passed"
 });
 formatter.scenario({
@@ -1212,23 +1292,27 @@ formatter.match({
   "location": "CreateNewProductSteps.verifyThatProductPricesIsSetWithFollowingField(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 1015800,
+  "duration": 1371900,
   "status": "passed"
 });
 formatter.after({
-  "duration": 44700,
+  "duration": 41800,
   "status": "passed"
 });
 formatter.before({
-  "duration": 76000,
+  "duration": 62200,
   "status": "passed"
 });
 formatter.before({
-  "duration": 63961100,
+  "duration": 44572200,
   "status": "passed"
 });
 formatter.before({
-  "duration": 59056700,
+  "duration": 45215300,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 52407200,
   "status": "passed"
 });
 formatter.scenario({
@@ -1272,23 +1356,27 @@ formatter.match({
   "location": "CreateNewProductSteps.verifyThatProductPriceTypesIsSetWithFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 3049700,
+  "duration": 1215300,
   "status": "passed"
 });
 formatter.after({
-  "duration": 41000,
+  "duration": 38700,
   "status": "passed"
 });
 formatter.before({
-  "duration": 136600,
+  "duration": 80700,
   "status": "passed"
 });
 formatter.before({
-  "duration": 158253100,
+  "duration": 50853500,
   "status": "passed"
 });
 formatter.before({
-  "duration": 76588400,
+  "duration": 46685600,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 32482800,
   "status": "passed"
 });
 formatter.scenario({
@@ -1324,23 +1412,27 @@ formatter.match({
   "location": "CreateNewProductSteps.verifyThatProductCustomerTypeIsSetWithFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 1638800,
+  "duration": 1111100,
   "status": "passed"
 });
 formatter.after({
-  "duration": 86600,
+  "duration": 34300,
   "status": "passed"
 });
 formatter.before({
-  "duration": 78500,
+  "duration": 61000,
   "status": "passed"
 });
 formatter.before({
-  "duration": 58822800,
+  "duration": 37859300,
   "status": "passed"
 });
 formatter.before({
-  "duration": 55518700,
+  "duration": 59712900,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 46843700,
   "status": "passed"
 });
 formatter.scenario({
@@ -1374,23 +1466,27 @@ formatter.match({
   "location": "CreateNewProductSteps.verifyThatProductCustomerTypesIsSetWithFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 891600,
+  "duration": 803700,
   "status": "passed"
 });
 formatter.after({
-  "duration": 40600,
+  "duration": 39500,
   "status": "passed"
 });
 formatter.before({
-  "duration": 98500,
+  "duration": 66200,
   "status": "passed"
 });
 formatter.before({
-  "duration": 82393400,
+  "duration": 56954800,
   "status": "passed"
 });
 formatter.before({
-  "duration": 140877300,
+  "duration": 43093200,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 43370000,
   "status": "passed"
 });
 formatter.scenario({
@@ -1426,23 +1522,27 @@ formatter.match({
   "location": "CreateNewProductSteps.verifyThatCityIsSetWithFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 804200,
+  "duration": 863900,
   "status": "passed"
 });
 formatter.after({
-  "duration": 36600,
+  "duration": 29700,
   "status": "passed"
 });
 formatter.before({
-  "duration": 60100,
+  "duration": 77600,
   "status": "passed"
 });
 formatter.before({
-  "duration": 91750300,
+  "duration": 48302700,
   "status": "passed"
 });
 formatter.before({
-  "duration": 53915500,
+  "duration": 43734400,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 44073900,
   "status": "passed"
 });
 formatter.scenario({
@@ -1478,24 +1578,28 @@ formatter.match({
   "location": "CreateNewProductSteps.verifyThatProductIncludedTagsIsSetWithFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 1166000,
-  "error_message": "java.lang.AssertionError: failure of subTagName  expected:\u003cWiFi\u003e but was:\u003cnull\u003e\r\n\tat org.junit.Assert.fail(Assert.java:88)\r\n\tat org.junit.Assert.failNotEquals(Assert.java:743)\r\n\tat org.junit.Assert.assertEquals(Assert.java:118)\r\n\tat www.logisense.com.cucumber.steps.newProduct.CreateNewProductSteps.verifyThatProductIncludedTagsIsSetWithFollowingFields(CreateNewProductSteps.java:524)\r\n\tat ✽.Given verify that productIncludedTags is set with following fields(features/wizard/wizardNewProduct.feature:143)\r\n",
+  "duration": 4933700,
+  "error_message": "java.lang.AssertionError: failure of subTagName  expected:\u003cWiFi\u003e but was:\u003cnull\u003e\r\n\tat org.junit.Assert.fail(Assert.java:88)\r\n\tat org.junit.Assert.failNotEquals(Assert.java:743)\r\n\tat org.junit.Assert.assertEquals(Assert.java:118)\r\n\tat www.logisense.com.cucumber.steps.newProduct.CreateNewProductSteps.verifyThatProductIncludedTagsIsSetWithFollowingFields(CreateNewProductSteps.java:521)\r\n\tat ✽.Given verify that productIncludedTags is set with following fields(features/wizard/wizardNewProduct.feature:143)\r\n",
   "status": "failed"
 });
 formatter.after({
-  "duration": 49000,
+  "duration": 26600,
   "status": "passed"
 });
 formatter.before({
-  "duration": 70600,
+  "duration": 52900,
   "status": "passed"
 });
 formatter.before({
-  "duration": 77538800,
+  "duration": 47653900,
   "status": "passed"
 });
 formatter.before({
-  "duration": 60161800,
+  "duration": 79426700,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 46891600,
   "status": "passed"
 });
 formatter.scenario({
@@ -1535,24 +1639,28 @@ formatter.match({
   "location": "CreateNewProductSteps.verifyThatProductExcludedTagsIsSetWithFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 1374200,
-  "error_message": "java.lang.AssertionError: failure of subTagName  expected:\u003cFood\u003e but was:\u003cnull\u003e\r\n\tat org.junit.Assert.fail(Assert.java:88)\r\n\tat org.junit.Assert.failNotEquals(Assert.java:743)\r\n\tat org.junit.Assert.assertEquals(Assert.java:118)\r\n\tat www.logisense.com.cucumber.steps.newProduct.CreateNewProductSteps.verifyThatProductExcludedTagsIsSetWithFollowingFields(CreateNewProductSteps.java:533)\r\n\tat ✽.Given verify that productExcludedTags is set with following fields(features/wizard/wizardNewProduct.feature:148)\r\n",
+  "duration": 2971200,
+  "error_message": "java.lang.AssertionError: failure of subTagName  expected:\u003cFood\u003e but was:\u003cnull\u003e\r\n\tat org.junit.Assert.fail(Assert.java:88)\r\n\tat org.junit.Assert.failNotEquals(Assert.java:743)\r\n\tat org.junit.Assert.assertEquals(Assert.java:118)\r\n\tat www.logisense.com.cucumber.steps.newProduct.CreateNewProductSteps.verifyThatProductExcludedTagsIsSetWithFollowingFields(CreateNewProductSteps.java:530)\r\n\tat ✽.Given verify that productExcludedTags is set with following fields(features/wizard/wizardNewProduct.feature:148)\r\n",
   "status": "failed"
 });
 formatter.after({
-  "duration": 56900,
+  "duration": 38800,
   "status": "passed"
 });
 formatter.before({
-  "duration": 80200,
+  "duration": 72900,
   "status": "passed"
 });
 formatter.before({
-  "duration": 54297900,
+  "duration": 55532500,
   "status": "passed"
 });
 formatter.before({
-  "duration": 54214200,
+  "duration": 44070200,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 45788200,
   "status": "passed"
 });
 formatter.scenario({
@@ -1592,24 +1700,28 @@ formatter.match({
   "location": "CreateNewProductSteps.verifyThatProductTagsIsSetWithFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 1047200,
-  "error_message": "java.lang.AssertionError: failure of subTagName  expected:\u003cExtreme\u003e but was:\u003cnull\u003e\r\n\tat org.junit.Assert.fail(Assert.java:88)\r\n\tat org.junit.Assert.failNotEquals(Assert.java:743)\r\n\tat org.junit.Assert.assertEquals(Assert.java:118)\r\n\tat www.logisense.com.cucumber.steps.newProduct.CreateNewProductSteps.verifyThatProductTagsIsSetWithFollowingFields(CreateNewProductSteps.java:541)\r\n\tat ✽.Given verify that productTags is set with following fields(features/wizard/wizardNewProduct.feature:153)\r\n",
+  "duration": 2880400,
+  "error_message": "java.lang.AssertionError: failure of subTagName  expected:\u003cExtreme\u003e but was:\u003cnull\u003e\r\n\tat org.junit.Assert.fail(Assert.java:88)\r\n\tat org.junit.Assert.failNotEquals(Assert.java:743)\r\n\tat org.junit.Assert.assertEquals(Assert.java:118)\r\n\tat www.logisense.com.cucumber.steps.newProduct.CreateNewProductSteps.verifyThatProductTagsIsSetWithFollowingFields(CreateNewProductSteps.java:538)\r\n\tat ✽.Given verify that productTags is set with following fields(features/wizard/wizardNewProduct.feature:153)\r\n",
   "status": "failed"
 });
 formatter.after({
-  "duration": 39000,
+  "duration": 30000,
   "status": "passed"
 });
 formatter.before({
-  "duration": 58900,
+  "duration": 52400,
   "status": "passed"
 });
 formatter.before({
-  "duration": 49353700,
+  "duration": 69625900,
   "status": "passed"
 });
 formatter.before({
-  "duration": 46336200,
+  "duration": 55194100,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 77487500,
   "status": "passed"
 });
 formatter.scenario({
@@ -1643,11 +1755,11 @@ formatter.match({
   "location": "CreateNewProductSteps.verifyThatProductVideosIsSetWithFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 782400,
+  "duration": 905400,
   "status": "passed"
 });
 formatter.after({
-  "duration": 37100,
+  "duration": 40100,
   "status": "passed"
 });
 formatter.uri("features/wizard/wizardNewProductNegative.feature");
@@ -1660,11 +1772,11 @@ formatter.feature({
   "tags": [
     {
       "line": 1,
-      "name": "@providerCreatesProductWithOutSomeFields"
+      "name": "@smoke"
     },
     {
       "line": 1,
-      "name": "@smoke"
+      "name": "@providerCreatesProductWithOutSomeFields"
     },
     {
       "line": 1,
@@ -1673,15 +1785,19 @@ formatter.feature({
   ]
 });
 formatter.before({
-  "duration": 70400,
+  "duration": 68900,
   "status": "passed"
 });
 formatter.before({
-  "duration": 42192400,
+  "duration": 114900000,
   "status": "passed"
 });
 formatter.before({
-  "duration": 40503400,
+  "duration": 42452000,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 43241200,
   "status": "passed"
 });
 formatter.scenario({
@@ -1771,21 +1887,21 @@ formatter.match({
   "location": "CreateNewProductSteps.productIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 232200,
+  "duration": 188400,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.productVideosIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 1659000,
+  "duration": 837700,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.providerCreatesANewProduct()"
 });
 formatter.result({
-  "duration": 84565700,
+  "duration": 111260300,
   "status": "passed"
 });
 formatter.match({
@@ -1798,8 +1914,8 @@ formatter.match({
   "location": "CommonSteps.verify_status_code_is(int)"
 });
 formatter.result({
-  "duration": 11381800,
-  "error_message": "java.lang.AssertionError: expected:\u003c500\u003e but was:\u003c200\u003e\r\n\tat org.junit.Assert.fail(Assert.java:88)\r\n\tat org.junit.Assert.failNotEquals(Assert.java:743)\r\n\tat org.junit.Assert.assertEquals(Assert.java:118)\r\n\tat org.junit.Assert.assertEquals(Assert.java:555)\r\n\tat org.junit.Assert.assertEquals(Assert.java:542)\r\n\tat www.logisense.com.cucumber.steps.common.CommonSteps.verify_status_code_is(CommonSteps.java:19)\r\n\tat ✽.Then verify status code is 500(features/wizard/wizardNewProductNegative.feature:13)\r\n",
+  "duration": 22502000,
+  "error_message": "java.lang.AssertionError: expected:\u003c500\u003e but was:\u003c200\u003e\r\n\tat org.junit.Assert.fail(Assert.java:88)\r\n\tat org.junit.Assert.failNotEquals(Assert.java:743)\r\n\tat org.junit.Assert.assertEquals(Assert.java:118)\r\n\tat org.junit.Assert.assertEquals(Assert.java:555)\r\n\tat org.junit.Assert.assertEquals(Assert.java:542)\r\n\tat www.logisense.com.cucumber.steps.common.CommonSteps.verify_status_code_is(CommonSteps.java:31)\r\n\tat ✽.Then verify status code is 500(features/wizard/wizardNewProductNegative.feature:13)\r\n",
   "status": "failed"
 });
 formatter.match({
@@ -1815,19 +1931,23 @@ formatter.result({
   "status": "skipped"
 });
 formatter.after({
-  "duration": 34300,
+  "duration": 34100,
   "status": "passed"
 });
 formatter.before({
-  "duration": 66600,
+  "duration": 77600,
   "status": "passed"
 });
 formatter.before({
-  "duration": 47876000,
+  "duration": 55658300,
   "status": "passed"
 });
 formatter.before({
-  "duration": 40696100,
+  "duration": 78803200,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 51073600,
   "status": "passed"
 });
 formatter.scenario({
@@ -1915,21 +2035,21 @@ formatter.match({
   "location": "CreateNewProductSteps.productIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 197300,
+  "duration": 187800,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.productVideosIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 805300,
+  "duration": 6544600,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.providerCreatesANewProduct()"
 });
 formatter.result({
-  "duration": 167002100,
+  "duration": 321338700,
   "status": "passed"
 });
 formatter.match({
@@ -1942,7 +2062,7 @@ formatter.match({
   "location": "CommonSteps.verify_status_code_is(int)"
 });
 formatter.result({
-  "duration": 1199200,
+  "duration": 876300,
   "status": "passed"
 });
 formatter.match({
@@ -1955,23 +2075,27 @@ formatter.match({
   "location": "CommonSteps.verifyTheTitleIs(String)"
 });
 formatter.result({
-  "duration": 2431039200,
+  "duration": 2083040300,
   "status": "passed"
 });
 formatter.after({
-  "duration": 55900,
+  "duration": 92800,
   "status": "passed"
 });
 formatter.before({
-  "duration": 60000,
+  "duration": 61700,
   "status": "passed"
 });
 formatter.before({
-  "duration": 51597200,
+  "duration": 81705300,
   "status": "passed"
 });
 formatter.before({
-  "duration": 41176700,
+  "duration": 51145800,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 45098000,
   "status": "passed"
 });
 formatter.scenario({
@@ -2061,21 +2185,21 @@ formatter.match({
   "location": "CreateNewProductSteps.productIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 158100,
+  "duration": 179800,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.productVideosIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 815000,
+  "duration": 916800,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.providerCreatesANewProduct()"
 });
 formatter.result({
-  "duration": 253266700,
+  "duration": 97420300,
   "status": "passed"
 });
 formatter.match({
@@ -2088,8 +2212,8 @@ formatter.match({
   "location": "CommonSteps.verify_status_code_is(int)"
 });
 formatter.result({
-  "duration": 7179300,
-  "error_message": "java.lang.AssertionError: expected:\u003c400\u003e but was:\u003c200\u003e\r\n\tat org.junit.Assert.fail(Assert.java:88)\r\n\tat org.junit.Assert.failNotEquals(Assert.java:743)\r\n\tat org.junit.Assert.assertEquals(Assert.java:118)\r\n\tat org.junit.Assert.assertEquals(Assert.java:555)\r\n\tat org.junit.Assert.assertEquals(Assert.java:542)\r\n\tat www.logisense.com.cucumber.steps.common.CommonSteps.verify_status_code_is(CommonSteps.java:19)\r\n\tat ✽.Then verify status code is 400(features/wizard/wizardNewProductNegative.feature:39)\r\n",
+  "duration": 8252800,
+  "error_message": "java.lang.AssertionError: expected:\u003c400\u003e but was:\u003c200\u003e\r\n\tat org.junit.Assert.fail(Assert.java:88)\r\n\tat org.junit.Assert.failNotEquals(Assert.java:743)\r\n\tat org.junit.Assert.assertEquals(Assert.java:118)\r\n\tat org.junit.Assert.assertEquals(Assert.java:555)\r\n\tat org.junit.Assert.assertEquals(Assert.java:542)\r\n\tat www.logisense.com.cucumber.steps.common.CommonSteps.verify_status_code_is(CommonSteps.java:31)\r\n\tat ✽.Then verify status code is 400(features/wizard/wizardNewProductNegative.feature:39)\r\n",
   "status": "failed"
 });
 formatter.match({
@@ -2105,19 +2229,23 @@ formatter.result({
   "status": "skipped"
 });
 formatter.after({
-  "duration": 34200,
+  "duration": 39300,
   "status": "passed"
 });
 formatter.before({
-  "duration": 81700,
+  "duration": 80300,
   "status": "passed"
 });
 formatter.before({
-  "duration": 49230300,
+  "duration": 41225600,
   "status": "passed"
 });
 formatter.before({
-  "duration": 38953800,
+  "duration": 46959900,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 50749700,
   "status": "passed"
 });
 formatter.scenario({
@@ -2205,21 +2333,21 @@ formatter.match({
   "location": "CreateNewProductSteps.productIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 149800,
+  "duration": 152100,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.productVideosIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 612800,
+  "duration": 642700,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.providerCreatesANewProduct()"
 });
 formatter.result({
-  "duration": 116324300,
+  "duration": 124687800,
   "status": "passed"
 });
 formatter.match({
@@ -2232,8 +2360,8 @@ formatter.match({
   "location": "CommonSteps.verify_status_code_is(int)"
 });
 formatter.result({
-  "duration": 5507000,
-  "error_message": "java.lang.AssertionError: expected:\u003c500\u003e but was:\u003c200\u003e\r\n\tat org.junit.Assert.fail(Assert.java:88)\r\n\tat org.junit.Assert.failNotEquals(Assert.java:743)\r\n\tat org.junit.Assert.assertEquals(Assert.java:118)\r\n\tat org.junit.Assert.assertEquals(Assert.java:555)\r\n\tat org.junit.Assert.assertEquals(Assert.java:542)\r\n\tat www.logisense.com.cucumber.steps.common.CommonSteps.verify_status_code_is(CommonSteps.java:19)\r\n\tat ✽.Then verify status code is 500(features/wizard/wizardNewProductNegative.feature:52)\r\n",
+  "duration": 6322500,
+  "error_message": "java.lang.AssertionError: expected:\u003c500\u003e but was:\u003c200\u003e\r\n\tat org.junit.Assert.fail(Assert.java:88)\r\n\tat org.junit.Assert.failNotEquals(Assert.java:743)\r\n\tat org.junit.Assert.assertEquals(Assert.java:118)\r\n\tat org.junit.Assert.assertEquals(Assert.java:555)\r\n\tat org.junit.Assert.assertEquals(Assert.java:542)\r\n\tat www.logisense.com.cucumber.steps.common.CommonSteps.verify_status_code_is(CommonSteps.java:31)\r\n\tat ✽.Then verify status code is 500(features/wizard/wizardNewProductNegative.feature:52)\r\n",
   "status": "failed"
 });
 formatter.match({
@@ -2249,19 +2377,23 @@ formatter.result({
   "status": "skipped"
 });
 formatter.after({
-  "duration": 148500,
+  "duration": 69900,
   "status": "passed"
 });
 formatter.before({
-  "duration": 39300,
+  "duration": 54600,
   "status": "passed"
 });
 formatter.before({
-  "duration": 32239700,
+  "duration": 112930900,
   "status": "passed"
 });
 formatter.before({
-  "duration": 30911400,
+  "duration": 62182300,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 49757500,
   "status": "passed"
 });
 formatter.scenario({
@@ -2349,21 +2481,21 @@ formatter.match({
   "location": "CreateNewProductSteps.productIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 157700,
+  "duration": 631900,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.productVideosIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 678000,
+  "duration": 763100,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.providerCreatesANewProduct()"
 });
 formatter.result({
-  "duration": 78244300,
+  "duration": 81868200,
   "status": "passed"
 });
 formatter.match({
@@ -2376,8 +2508,8 @@ formatter.match({
   "location": "CommonSteps.verify_status_code_is(int)"
 });
 formatter.result({
-  "duration": 4081900,
-  "error_message": "java.lang.AssertionError: expected:\u003c500\u003e but was:\u003c200\u003e\r\n\tat org.junit.Assert.fail(Assert.java:88)\r\n\tat org.junit.Assert.failNotEquals(Assert.java:743)\r\n\tat org.junit.Assert.assertEquals(Assert.java:118)\r\n\tat org.junit.Assert.assertEquals(Assert.java:555)\r\n\tat org.junit.Assert.assertEquals(Assert.java:542)\r\n\tat www.logisense.com.cucumber.steps.common.CommonSteps.verify_status_code_is(CommonSteps.java:19)\r\n\tat ✽.Then verify status code is 500(features/wizard/wizardNewProductNegative.feature:65)\r\n",
+  "duration": 10242100,
+  "error_message": "java.lang.AssertionError: expected:\u003c500\u003e but was:\u003c200\u003e\r\n\tat org.junit.Assert.fail(Assert.java:88)\r\n\tat org.junit.Assert.failNotEquals(Assert.java:743)\r\n\tat org.junit.Assert.assertEquals(Assert.java:118)\r\n\tat org.junit.Assert.assertEquals(Assert.java:555)\r\n\tat org.junit.Assert.assertEquals(Assert.java:542)\r\n\tat www.logisense.com.cucumber.steps.common.CommonSteps.verify_status_code_is(CommonSteps.java:31)\r\n\tat ✽.Then verify status code is 500(features/wizard/wizardNewProductNegative.feature:65)\r\n",
   "status": "failed"
 });
 formatter.match({
@@ -2393,19 +2525,23 @@ formatter.result({
   "status": "skipped"
 });
 formatter.after({
-  "duration": 32100,
+  "duration": 33000,
   "status": "passed"
 });
 formatter.before({
-  "duration": 37100,
+  "duration": 63700,
   "status": "passed"
 });
 formatter.before({
-  "duration": 32027600,
+  "duration": 50886200,
   "status": "passed"
 });
 formatter.before({
-  "duration": 31068300,
+  "duration": 54608500,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 79091600,
   "status": "passed"
 });
 formatter.scenario({
@@ -2495,21 +2631,21 @@ formatter.match({
   "location": "CreateNewProductSteps.productIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 228900,
+  "duration": 146200,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.productVideosIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 1260300,
+  "duration": 730100,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.providerCreatesANewProduct()"
 });
 formatter.result({
-  "duration": 70696300,
+  "duration": 135764200,
   "status": "passed"
 });
 formatter.match({
@@ -2522,8 +2658,8 @@ formatter.match({
   "location": "CommonSteps.verify_status_code_is(int)"
 });
 formatter.result({
-  "duration": 3845600,
-  "error_message": "java.lang.AssertionError: expected:\u003c500\u003e but was:\u003c200\u003e\r\n\tat org.junit.Assert.fail(Assert.java:88)\r\n\tat org.junit.Assert.failNotEquals(Assert.java:743)\r\n\tat org.junit.Assert.assertEquals(Assert.java:118)\r\n\tat org.junit.Assert.assertEquals(Assert.java:555)\r\n\tat org.junit.Assert.assertEquals(Assert.java:542)\r\n\tat www.logisense.com.cucumber.steps.common.CommonSteps.verify_status_code_is(CommonSteps.java:19)\r\n\tat ✽.Then verify status code is 500(features/wizard/wizardNewProductNegative.feature:77)\r\n",
+  "duration": 9004100,
+  "error_message": "java.lang.AssertionError: expected:\u003c500\u003e but was:\u003c200\u003e\r\n\tat org.junit.Assert.fail(Assert.java:88)\r\n\tat org.junit.Assert.failNotEquals(Assert.java:743)\r\n\tat org.junit.Assert.assertEquals(Assert.java:118)\r\n\tat org.junit.Assert.assertEquals(Assert.java:555)\r\n\tat org.junit.Assert.assertEquals(Assert.java:542)\r\n\tat www.logisense.com.cucumber.steps.common.CommonSteps.verify_status_code_is(CommonSteps.java:31)\r\n\tat ✽.Then verify status code is 500(features/wizard/wizardNewProductNegative.feature:77)\r\n",
   "status": "failed"
 });
 formatter.match({
@@ -2539,19 +2675,23 @@ formatter.result({
   "status": "skipped"
 });
 formatter.after({
-  "duration": 27600,
+  "duration": 32900,
   "status": "passed"
 });
 formatter.before({
-  "duration": 60400,
+  "duration": 49900,
   "status": "passed"
 });
 formatter.before({
-  "duration": 35907800,
+  "duration": 63097300,
   "status": "passed"
 });
 formatter.before({
-  "duration": 37222700,
+  "duration": 78766900,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 54526400,
   "status": "passed"
 });
 formatter.scenario({
@@ -2641,21 +2781,21 @@ formatter.match({
   "location": "CreateNewProductSteps.productIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 173900,
+  "duration": 161100,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.productVideosIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 364000,
+  "duration": 4943600,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.providerCreatesANewProduct()"
 });
 formatter.result({
-  "duration": 89503200,
+  "duration": 121762100,
   "status": "passed"
 });
 formatter.match({
@@ -2668,8 +2808,8 @@ formatter.match({
   "location": "CommonSteps.verify_status_code_is(int)"
 });
 formatter.result({
-  "duration": 3085400,
-  "error_message": "java.lang.AssertionError: expected:\u003c500\u003e but was:\u003c200\u003e\r\n\tat org.junit.Assert.fail(Assert.java:88)\r\n\tat org.junit.Assert.failNotEquals(Assert.java:743)\r\n\tat org.junit.Assert.assertEquals(Assert.java:118)\r\n\tat org.junit.Assert.assertEquals(Assert.java:555)\r\n\tat org.junit.Assert.assertEquals(Assert.java:542)\r\n\tat www.logisense.com.cucumber.steps.common.CommonSteps.verify_status_code_is(CommonSteps.java:19)\r\n\tat ✽.Then verify status code is 500(features/wizard/wizardNewProductNegative.feature:89)\r\n",
+  "duration": 4701400,
+  "error_message": "java.lang.AssertionError: expected:\u003c500\u003e but was:\u003c200\u003e\r\n\tat org.junit.Assert.fail(Assert.java:88)\r\n\tat org.junit.Assert.failNotEquals(Assert.java:743)\r\n\tat org.junit.Assert.assertEquals(Assert.java:118)\r\n\tat org.junit.Assert.assertEquals(Assert.java:555)\r\n\tat org.junit.Assert.assertEquals(Assert.java:542)\r\n\tat www.logisense.com.cucumber.steps.common.CommonSteps.verify_status_code_is(CommonSteps.java:31)\r\n\tat ✽.Then verify status code is 500(features/wizard/wizardNewProductNegative.feature:89)\r\n",
   "status": "failed"
 });
 formatter.match({
@@ -2685,19 +2825,23 @@ formatter.result({
   "status": "skipped"
 });
 formatter.after({
-  "duration": 30900,
+  "duration": 34800,
   "status": "passed"
 });
 formatter.before({
-  "duration": 52800,
+  "duration": 46300,
   "status": "passed"
 });
 formatter.before({
-  "duration": 32684800,
+  "duration": 56031300,
   "status": "passed"
 });
 formatter.before({
-  "duration": 32920000,
+  "duration": 44074100,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 46456700,
   "status": "passed"
 });
 formatter.scenario({
@@ -2787,21 +2931,21 @@ formatter.match({
   "location": "CreateNewProductSteps.productIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 127700,
+  "duration": 183200,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.productVideosIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 591900,
+  "duration": 416200,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.providerCreatesANewProduct()"
 });
 formatter.result({
-  "duration": 86986900,
+  "duration": 77697200,
   "status": "passed"
 });
 formatter.match({
@@ -2814,8 +2958,8 @@ formatter.match({
   "location": "CommonSteps.verify_status_code_is(int)"
 });
 formatter.result({
-  "duration": 3189800,
-  "error_message": "java.lang.AssertionError: expected:\u003c500\u003e but was:\u003c200\u003e\r\n\tat org.junit.Assert.fail(Assert.java:88)\r\n\tat org.junit.Assert.failNotEquals(Assert.java:743)\r\n\tat org.junit.Assert.assertEquals(Assert.java:118)\r\n\tat org.junit.Assert.assertEquals(Assert.java:555)\r\n\tat org.junit.Assert.assertEquals(Assert.java:542)\r\n\tat www.logisense.com.cucumber.steps.common.CommonSteps.verify_status_code_is(CommonSteps.java:19)\r\n\tat ✽.Then verify status code is 500(features/wizard/wizardNewProductNegative.feature:101)\r\n",
+  "duration": 7549400,
+  "error_message": "java.lang.AssertionError: expected:\u003c500\u003e but was:\u003c200\u003e\r\n\tat org.junit.Assert.fail(Assert.java:88)\r\n\tat org.junit.Assert.failNotEquals(Assert.java:743)\r\n\tat org.junit.Assert.assertEquals(Assert.java:118)\r\n\tat org.junit.Assert.assertEquals(Assert.java:555)\r\n\tat org.junit.Assert.assertEquals(Assert.java:542)\r\n\tat www.logisense.com.cucumber.steps.common.CommonSteps.verify_status_code_is(CommonSteps.java:31)\r\n\tat ✽.Then verify status code is 500(features/wizard/wizardNewProductNegative.feature:101)\r\n",
   "status": "failed"
 });
 formatter.match({
@@ -2831,19 +2975,23 @@ formatter.result({
   "status": "skipped"
 });
 formatter.after({
-  "duration": 23000,
+  "duration": 28300,
   "status": "passed"
 });
 formatter.before({
-  "duration": 60200,
+  "duration": 59400,
   "status": "passed"
 });
 formatter.before({
-  "duration": 30900800,
+  "duration": 44466100,
   "status": "passed"
 });
 formatter.before({
-  "duration": 30246200,
+  "duration": 52287900,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 40506400,
   "status": "passed"
 });
 formatter.scenario({
@@ -2931,21 +3079,21 @@ formatter.match({
   "location": "CreateNewProductSteps.productIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 108500,
+  "duration": 351800,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.productVideosIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 266100,
+  "duration": 518200,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.providerCreatesANewProduct()"
 });
 formatter.result({
-  "duration": 119433300,
+  "duration": 98587900,
   "status": "passed"
 });
 formatter.match({
@@ -2958,8 +3106,8 @@ formatter.match({
   "location": "CommonSteps.verify_status_code_is(int)"
 });
 formatter.result({
-  "duration": 4383000,
-  "error_message": "java.lang.AssertionError: expected:\u003c500\u003e but was:\u003c200\u003e\r\n\tat org.junit.Assert.fail(Assert.java:88)\r\n\tat org.junit.Assert.failNotEquals(Assert.java:743)\r\n\tat org.junit.Assert.assertEquals(Assert.java:118)\r\n\tat org.junit.Assert.assertEquals(Assert.java:555)\r\n\tat org.junit.Assert.assertEquals(Assert.java:542)\r\n\tat www.logisense.com.cucumber.steps.common.CommonSteps.verify_status_code_is(CommonSteps.java:19)\r\n\tat ✽.Then verify status code is 500(features/wizard/wizardNewProductNegative.feature:113)\r\n",
+  "duration": 5856200,
+  "error_message": "java.lang.AssertionError: expected:\u003c500\u003e but was:\u003c200\u003e\r\n\tat org.junit.Assert.fail(Assert.java:88)\r\n\tat org.junit.Assert.failNotEquals(Assert.java:743)\r\n\tat org.junit.Assert.assertEquals(Assert.java:118)\r\n\tat org.junit.Assert.assertEquals(Assert.java:555)\r\n\tat org.junit.Assert.assertEquals(Assert.java:542)\r\n\tat www.logisense.com.cucumber.steps.common.CommonSteps.verify_status_code_is(CommonSteps.java:31)\r\n\tat ✽.Then verify status code is 500(features/wizard/wizardNewProductNegative.feature:113)\r\n",
   "status": "failed"
 });
 formatter.match({
@@ -2975,7 +3123,7 @@ formatter.result({
   "status": "skipped"
 });
 formatter.after({
-  "duration": 21300,
+  "duration": 34400,
   "status": "passed"
 });
 formatter.uri("features/wizard/wizardNewProductTypes\u0026WorkingDatesNegative.feature");
@@ -2988,11 +3136,11 @@ formatter.feature({
   "tags": [
     {
       "line": 1,
-      "name": "@providerCreatesProductTypesWithOutSomeFields"
+      "name": "@smoke"
     },
     {
       "line": 1,
-      "name": "@smoke"
+      "name": "@providerCreatesProductTypesWithOutSomeFields"
     },
     {
       "line": 1,
@@ -3001,15 +3149,19 @@ formatter.feature({
   ]
 });
 formatter.before({
-  "duration": 59600,
+  "duration": 50200,
   "status": "passed"
 });
 formatter.before({
-  "duration": 33065600,
+  "duration": 95035100,
   "status": "passed"
 });
 formatter.before({
-  "duration": 40449200,
+  "duration": 108983300,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 49370700,
   "status": "passed"
 });
 formatter.background({
@@ -3077,14 +3229,14 @@ formatter.match({
   "location": "CreateNewProductSteps.productIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 146100,
+  "duration": 279100,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.productVideosIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 562600,
+  "duration": 493300,
   "status": "passed"
 });
 formatter.scenario({
@@ -3189,14 +3341,14 @@ formatter.match({
   "location": "CreateNewProductSteps.productTypesIsSetWithFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 103300,
+  "duration": 130100,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.providerCreatesANewProduct()"
 });
 formatter.result({
-  "duration": 75291000,
+  "duration": 79793800,
   "status": "passed"
 });
 formatter.match({
@@ -3209,8 +3361,8 @@ formatter.match({
   "location": "CommonSteps.verify_status_code_is(int)"
 });
 formatter.result({
-  "duration": 3497200,
-  "error_message": "java.lang.AssertionError: expected:\u003c500\u003e but was:\u003c200\u003e\r\n\tat org.junit.Assert.fail(Assert.java:88)\r\n\tat org.junit.Assert.failNotEquals(Assert.java:743)\r\n\tat org.junit.Assert.assertEquals(Assert.java:118)\r\n\tat org.junit.Assert.assertEquals(Assert.java:555)\r\n\tat org.junit.Assert.assertEquals(Assert.java:542)\r\n\tat www.logisense.com.cucumber.steps.common.CommonSteps.verify_status_code_is(CommonSteps.java:19)\r\n\tat ✽.Then verify status code is 500(features/wizard/wizardNewProductTypes\u0026WorkingDatesNegative.feature:33)\r\n",
+  "duration": 3392100,
+  "error_message": "java.lang.AssertionError: expected:\u003c500\u003e but was:\u003c200\u003e\r\n\tat org.junit.Assert.fail(Assert.java:88)\r\n\tat org.junit.Assert.failNotEquals(Assert.java:743)\r\n\tat org.junit.Assert.assertEquals(Assert.java:118)\r\n\tat org.junit.Assert.assertEquals(Assert.java:555)\r\n\tat org.junit.Assert.assertEquals(Assert.java:542)\r\n\tat www.logisense.com.cucumber.steps.common.CommonSteps.verify_status_code_is(CommonSteps.java:31)\r\n\tat ✽.Then verify status code is 500(features/wizard/wizardNewProductTypes\u0026WorkingDatesNegative.feature:33)\r\n",
   "status": "failed"
 });
 formatter.match({
@@ -3226,19 +3378,23 @@ formatter.result({
   "status": "skipped"
 });
 formatter.after({
-  "duration": 26400,
+  "duration": 34900,
   "status": "passed"
 });
 formatter.before({
-  "duration": 56100,
+  "duration": 68400,
   "status": "passed"
 });
 formatter.before({
-  "duration": 38662000,
+  "duration": 51294700,
   "status": "passed"
 });
 formatter.before({
-  "duration": 38324200,
+  "duration": 52453800,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 55168600,
   "status": "passed"
 });
 formatter.background({
@@ -3306,14 +3462,14 @@ formatter.match({
   "location": "CreateNewProductSteps.productIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 192000,
+  "duration": 170600,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.productVideosIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 493700,
+  "duration": 476100,
   "status": "passed"
 });
 formatter.scenario({
@@ -3378,14 +3534,14 @@ formatter.match({
   "location": "CreateNewProductSteps.productWorkingDatesIsSetWithFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 122100,
+  "duration": 143500,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.providerCreatesANewProduct()"
 });
 formatter.result({
-  "duration": 51573600,
+  "duration": 66575800,
   "status": "passed"
 });
 formatter.match({
@@ -3398,7 +3554,7 @@ formatter.match({
   "location": "CommonSteps.verify_status_code_is(int)"
 });
 formatter.result({
-  "duration": 1491600,
+  "duration": 1017600,
   "status": "passed"
 });
 formatter.match({
@@ -3411,23 +3567,27 @@ formatter.match({
   "location": "CommonSteps.verifyTheTitleIs(String)"
 });
 formatter.result({
-  "duration": 15285900,
+  "duration": 25925700,
   "status": "passed"
 });
 formatter.after({
-  "duration": 23700,
+  "duration": 31500,
   "status": "passed"
 });
 formatter.before({
-  "duration": 39800,
+  "duration": 65100,
   "status": "passed"
 });
 formatter.before({
-  "duration": 34072100,
+  "duration": 46505400,
   "status": "passed"
 });
 formatter.before({
-  "duration": 37149600,
+  "duration": 40212900,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 63789700,
   "status": "passed"
 });
 formatter.background({
@@ -3495,14 +3655,14 @@ formatter.match({
   "location": "CreateNewProductSteps.productIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 197000,
+  "duration": 196800,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.productVideosIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 476200,
+  "duration": 506100,
   "status": "passed"
 });
 formatter.scenario({
@@ -3569,14 +3729,14 @@ formatter.match({
   "location": "CreateNewProductSteps.productWorkingDatesIsSetWithFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 173400,
+  "duration": 182900,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.providerCreatesANewProduct()"
 });
 formatter.result({
-  "duration": 48225400,
+  "duration": 70318700,
   "status": "passed"
 });
 formatter.match({
@@ -3589,7 +3749,7 @@ formatter.match({
   "location": "CommonSteps.verify_status_code_is(int)"
 });
 formatter.result({
-  "duration": 936400,
+  "duration": 1401300,
   "status": "passed"
 });
 formatter.match({
@@ -3602,23 +3762,27 @@ formatter.match({
   "location": "CommonSteps.verifyTheTitleIs(String)"
 });
 formatter.result({
-  "duration": 24792200,
+  "duration": 26617800,
   "status": "passed"
 });
 formatter.after({
-  "duration": 37300,
+  "duration": 33200,
   "status": "passed"
 });
 formatter.before({
-  "duration": 59400,
+  "duration": 53800,
   "status": "passed"
 });
 formatter.before({
-  "duration": 48939100,
+  "duration": 45952300,
   "status": "passed"
 });
 formatter.before({
-  "duration": 50608200,
+  "duration": 69224300,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 54845100,
   "status": "passed"
 });
 formatter.background({
@@ -3686,14 +3850,14 @@ formatter.match({
   "location": "CreateNewProductSteps.productIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 146200,
+  "duration": 151300,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.productVideosIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 414000,
+  "duration": 362900,
   "status": "passed"
 });
 formatter.scenario({
@@ -3760,14 +3924,14 @@ formatter.match({
   "location": "CreateNewProductSteps.productWorkingDatesIsSetWithFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 126000,
+  "duration": 120300,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.providerCreatesANewProduct()"
 });
 formatter.result({
-  "duration": 94223100,
+  "duration": 54678100,
   "status": "passed"
 });
 formatter.match({
@@ -3780,7 +3944,7 @@ formatter.match({
   "location": "CommonSteps.verify_status_code_is(int)"
 });
 formatter.result({
-  "duration": 940600,
+  "duration": 792300,
   "status": "passed"
 });
 formatter.match({
@@ -3793,23 +3957,27 @@ formatter.match({
   "location": "CommonSteps.verifyTheTitleIs(String)"
 });
 formatter.result({
-  "duration": 22430800,
+  "duration": 25185000,
   "status": "passed"
 });
 formatter.after({
-  "duration": 40000,
+  "duration": 33800,
   "status": "passed"
 });
 formatter.before({
-  "duration": 58500,
+  "duration": 71200,
   "status": "passed"
 });
 formatter.before({
-  "duration": 50425800,
+  "duration": 50631900,
   "status": "passed"
 });
 formatter.before({
-  "duration": 43653800,
+  "duration": 50835400,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 45920300,
   "status": "passed"
 });
 formatter.background({
@@ -3877,14 +4045,14 @@ formatter.match({
   "location": "CreateNewProductSteps.productIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 224500,
+  "duration": 141400,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.productVideosIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 638300,
+  "duration": 614500,
   "status": "passed"
 });
 formatter.scenario({
@@ -3951,14 +4119,14 @@ formatter.match({
   "location": "CreateNewProductSteps.productWorkingDatesIsSetWithFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 154500,
+  "duration": 156200,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.providerCreatesANewProduct()"
 });
 formatter.result({
-  "duration": 66748400,
+  "duration": 55836200,
   "status": "passed"
 });
 formatter.match({
@@ -3971,7 +4139,7 @@ formatter.match({
   "location": "CommonSteps.verify_status_code_is(int)"
 });
 formatter.result({
-  "duration": 761800,
+  "duration": 753200,
   "status": "passed"
 });
 formatter.match({
@@ -3984,23 +4152,27 @@ formatter.match({
   "location": "CommonSteps.verifyTheTitleIs(String)"
 });
 formatter.result({
-  "duration": 17824800,
+  "duration": 24513100,
   "status": "passed"
 });
 formatter.after({
-  "duration": 26100,
+  "duration": 37600,
   "status": "passed"
 });
 formatter.before({
-  "duration": 58100,
+  "duration": 73700,
   "status": "passed"
 });
 formatter.before({
-  "duration": 42131500,
+  "duration": 45277900,
   "status": "passed"
 });
 formatter.before({
-  "duration": 47819700,
+  "duration": 71667900,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 46420900,
   "status": "passed"
 });
 formatter.background({
@@ -4068,14 +4240,14 @@ formatter.match({
   "location": "CreateNewProductSteps.productIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 625900,
+  "duration": 610300,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.productVideosIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 881500,
+  "duration": 1221000,
   "status": "passed"
 });
 formatter.scenario({
@@ -4140,14 +4312,14 @@ formatter.match({
   "location": "CreateNewProductSteps.productWorkingDatesIsSetWithFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 131500,
+  "duration": 135800,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.providerCreatesANewProduct()"
 });
 formatter.result({
-  "duration": 58015300,
+  "duration": 60358600,
   "status": "passed"
 });
 formatter.match({
@@ -4160,7 +4332,7 @@ formatter.match({
   "location": "CommonSteps.verify_status_code_is(int)"
 });
 formatter.result({
-  "duration": 3285000,
+  "duration": 3129000,
   "status": "passed"
 });
 formatter.match({
@@ -4173,23 +4345,27 @@ formatter.match({
   "location": "CommonSteps.verifyTheTitleIs(String)"
 });
 formatter.result({
-  "duration": 20448900,
+  "duration": 18622600,
   "status": "passed"
 });
 formatter.after({
-  "duration": 26000,
+  "duration": 25700,
   "status": "passed"
 });
 formatter.before({
-  "duration": 50000,
+  "duration": 44100,
   "status": "passed"
 });
 formatter.before({
-  "duration": 41388500,
+  "duration": 47846500,
   "status": "passed"
 });
 formatter.before({
-  "duration": 42158300,
+  "duration": 44209200,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 39359300,
   "status": "passed"
 });
 formatter.background({
@@ -4257,14 +4433,14 @@ formatter.match({
   "location": "CreateNewProductSteps.productIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 179700,
+  "duration": 217200,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.productVideosIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 407100,
+  "duration": 453800,
   "status": "passed"
 });
 formatter.scenario({
@@ -4331,14 +4507,14 @@ formatter.match({
   "location": "CreateNewProductSteps.productWorkingDatesIsSetWithFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 309200,
+  "duration": 140800,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.providerCreatesANewProduct()"
 });
 formatter.result({
-  "duration": 48245800,
+  "duration": 55093800,
   "status": "passed"
 });
 formatter.match({
@@ -4351,7 +4527,7 @@ formatter.match({
   "location": "CommonSteps.verify_status_code_is(int)"
 });
 formatter.result({
-  "duration": 1002300,
+  "duration": 1033400,
   "status": "passed"
 });
 formatter.match({
@@ -4364,23 +4540,27 @@ formatter.match({
   "location": "CommonSteps.verifyTheTitleIs(String)"
 });
 formatter.result({
-  "duration": 18979200,
+  "duration": 24743500,
   "status": "passed"
 });
 formatter.after({
-  "duration": 32800,
+  "duration": 32100,
   "status": "passed"
 });
 formatter.before({
-  "duration": 67800,
+  "duration": 50200,
   "status": "passed"
 });
 formatter.before({
-  "duration": 45826600,
+  "duration": 57210900,
   "status": "passed"
 });
 formatter.before({
-  "duration": 41756900,
+  "duration": 91122700,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 47496100,
   "status": "passed"
 });
 formatter.background({
@@ -4448,14 +4628,14 @@ formatter.match({
   "location": "CreateNewProductSteps.productIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 327800,
+  "duration": 134000,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.productVideosIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 377100,
+  "duration": 338600,
   "status": "passed"
 });
 formatter.scenario({
@@ -4522,14 +4702,14 @@ formatter.match({
   "location": "CreateNewProductSteps.productWorkingDatesIsSetWithFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 202100,
+  "duration": 137800,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.providerCreatesANewProduct()"
 });
 formatter.result({
-  "duration": 89405000,
+  "duration": 109062800,
   "status": "passed"
 });
 formatter.match({
@@ -4542,8 +4722,8 @@ formatter.match({
   "location": "CommonSteps.verify_status_code_is(int)"
 });
 formatter.result({
-  "duration": 9037700,
-  "error_message": "java.lang.AssertionError: expected:\u003c500\u003e but was:\u003c200\u003e\r\n\tat org.junit.Assert.fail(Assert.java:88)\r\n\tat org.junit.Assert.failNotEquals(Assert.java:743)\r\n\tat org.junit.Assert.assertEquals(Assert.java:118)\r\n\tat org.junit.Assert.assertEquals(Assert.java:555)\r\n\tat org.junit.Assert.assertEquals(Assert.java:542)\r\n\tat www.logisense.com.cucumber.steps.common.CommonSteps.verify_status_code_is(CommonSteps.java:19)\r\n\tat ✽.Then verify status code is 500(features/wizard/wizardNewProductTypes\u0026WorkingDatesNegative.feature:96)\r\n",
+  "duration": 4371300,
+  "error_message": "java.lang.AssertionError: expected:\u003c500\u003e but was:\u003c200\u003e\r\n\tat org.junit.Assert.fail(Assert.java:88)\r\n\tat org.junit.Assert.failNotEquals(Assert.java:743)\r\n\tat org.junit.Assert.assertEquals(Assert.java:118)\r\n\tat org.junit.Assert.assertEquals(Assert.java:555)\r\n\tat org.junit.Assert.assertEquals(Assert.java:542)\r\n\tat www.logisense.com.cucumber.steps.common.CommonSteps.verify_status_code_is(CommonSteps.java:31)\r\n\tat ✽.Then verify status code is 500(features/wizard/wizardNewProductTypes\u0026WorkingDatesNegative.feature:96)\r\n",
   "status": "failed"
 });
 formatter.match({
@@ -4559,19 +4739,23 @@ formatter.result({
   "status": "skipped"
 });
 formatter.after({
-  "duration": 33000,
+  "duration": 64100,
   "status": "passed"
 });
 formatter.before({
-  "duration": 66000,
+  "duration": 214800,
   "status": "passed"
 });
 formatter.before({
-  "duration": 58730200,
+  "duration": 67292500,
   "status": "passed"
 });
 formatter.before({
-  "duration": 43671600,
+  "duration": 56956000,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 39760800,
   "status": "passed"
 });
 formatter.background({
@@ -4639,14 +4823,14 @@ formatter.match({
   "location": "CreateNewProductSteps.productIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 179000,
+  "duration": 153400,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.productVideosIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 466100,
+  "duration": 391300,
   "status": "passed"
 });
 formatter.scenario({
@@ -4711,14 +4895,14 @@ formatter.match({
   "location": "CreateNewProductSteps.productWorkingDatesIsSetWithFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 182600,
+  "duration": 130900,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.providerCreatesANewProduct()"
 });
 formatter.result({
-  "duration": 68196800,
+  "duration": 86465500,
   "status": "passed"
 });
 formatter.match({
@@ -4731,7 +4915,7 @@ formatter.match({
   "location": "CommonSteps.verify_status_code_is(int)"
 });
 formatter.result({
-  "duration": 783900,
+  "duration": 707500,
   "status": "passed"
 });
 formatter.match({
@@ -4744,23 +4928,27 @@ formatter.match({
   "location": "CommonSteps.verifyTheTitleIs(String)"
 });
 formatter.result({
-  "duration": 15577800,
+  "duration": 26274100,
   "status": "passed"
 });
 formatter.after({
-  "duration": 31900,
+  "duration": 37800,
   "status": "passed"
 });
 formatter.before({
-  "duration": 70300,
+  "duration": 42200,
   "status": "passed"
 });
 formatter.before({
-  "duration": 40023200,
+  "duration": 46144700,
   "status": "passed"
 });
 formatter.before({
-  "duration": 39633600,
+  "duration": 74274600,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 44834200,
   "status": "passed"
 });
 formatter.background({
@@ -4828,14 +5016,14 @@ formatter.match({
   "location": "CreateNewProductSteps.productIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 145900,
+  "duration": 169100,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.productVideosIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 505000,
+  "duration": 519200,
   "status": "passed"
 });
 formatter.scenario({
@@ -4933,21 +5121,21 @@ formatter.match({
   "location": "CreateNewProductSteps.productWorkingDatesIsSetWithFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 135300,
+  "duration": 117300,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.productTimeSlotsIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 162300,
+  "duration": 115500,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.providerCreatesANewProduct()"
 });
 formatter.result({
-  "duration": 69618100,
+  "duration": 48053000,
   "status": "passed"
 });
 formatter.match({
@@ -4960,7 +5148,7 @@ formatter.match({
   "location": "CommonSteps.verify_status_code_is(int)"
 });
 formatter.result({
-  "duration": 1283300,
+  "duration": 876900,
   "status": "passed"
 });
 formatter.match({
@@ -4973,23 +5161,27 @@ formatter.match({
   "location": "CommonSteps.verifyTheTitleIs(String)"
 });
 formatter.result({
-  "duration": 24606900,
+  "duration": 21665700,
   "status": "passed"
 });
 formatter.after({
-  "duration": 37700,
+  "duration": 36700,
   "status": "passed"
 });
 formatter.before({
-  "duration": 47000,
+  "duration": 68300,
   "status": "passed"
 });
 formatter.before({
-  "duration": 49060100,
+  "duration": 42304200,
   "status": "passed"
 });
 formatter.before({
-  "duration": 51561600,
+  "duration": 43577300,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 63043000,
   "status": "passed"
 });
 formatter.background({
@@ -5057,14 +5249,14 @@ formatter.match({
   "location": "CreateNewProductSteps.productIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 152800,
+  "duration": 157800,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.productVideosIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 334500,
+  "duration": 343000,
   "status": "passed"
 });
 formatter.scenario({
@@ -5162,21 +5354,21 @@ formatter.match({
   "location": "CreateNewProductSteps.productWorkingDatesIsSetWithFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 173800,
+  "duration": 641700,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.productTimeSlotsIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 119500,
+  "duration": 193900,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.providerCreatesANewProduct()"
 });
 formatter.result({
-  "duration": 88376600,
+  "duration": 167575500,
   "status": "passed"
 });
 formatter.match({
@@ -5189,7 +5381,7 @@ formatter.match({
   "location": "CommonSteps.verify_status_code_is(int)"
 });
 formatter.result({
-  "duration": 883200,
+  "duration": 1902000,
   "status": "passed"
 });
 formatter.match({
@@ -5202,23 +5394,27 @@ formatter.match({
   "location": "CommonSteps.verifyTheTitleIs(String)"
 });
 formatter.result({
-  "duration": 18285400,
+  "duration": 21592600,
   "status": "passed"
 });
 formatter.after({
-  "duration": 32600,
+  "duration": 35900,
   "status": "passed"
 });
 formatter.before({
-  "duration": 49600,
+  "duration": 94900,
   "status": "passed"
 });
 formatter.before({
-  "duration": 48026100,
+  "duration": 78719000,
   "status": "passed"
 });
 formatter.before({
-  "duration": 42546500,
+  "duration": 35913000,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 36557400,
   "status": "passed"
 });
 formatter.background({
@@ -5286,14 +5482,14 @@ formatter.match({
   "location": "CreateNewProductSteps.productIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 161200,
+  "duration": 192500,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.productVideosIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 378300,
+  "duration": 426100,
   "status": "passed"
 });
 formatter.scenario({
@@ -5391,21 +5587,21 @@ formatter.match({
   "location": "CreateNewProductSteps.productWorkingDatesIsSetWithFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 141900,
+  "duration": 132400,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.productTimeSlotsIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 257400,
+  "duration": 161500,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.providerCreatesANewProduct()"
 });
 formatter.result({
-  "duration": 47456200,
+  "duration": 67791400,
   "status": "passed"
 });
 formatter.match({
@@ -5418,7 +5614,7 @@ formatter.match({
   "location": "CommonSteps.verify_status_code_is(int)"
 });
 formatter.result({
-  "duration": 1014800,
+  "duration": 567300,
   "status": "passed"
 });
 formatter.match({
@@ -5431,23 +5627,27 @@ formatter.match({
   "location": "CommonSteps.verifyTheTitleIs(String)"
 });
 formatter.result({
-  "duration": 22165500,
+  "duration": 20184900,
   "status": "passed"
 });
 formatter.after({
-  "duration": 31300,
+  "duration": 45300,
   "status": "passed"
 });
 formatter.before({
-  "duration": 40600,
+  "duration": 50300,
   "status": "passed"
 });
 formatter.before({
-  "duration": 41274800,
+  "duration": 51502000,
   "status": "passed"
 });
 formatter.before({
-  "duration": 49273800,
+  "duration": 53450500,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 46156600,
   "status": "passed"
 });
 formatter.background({
@@ -5515,14 +5715,14 @@ formatter.match({
   "location": "CreateNewProductSteps.productIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 123900,
+  "duration": 231800,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.productVideosIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 282200,
+  "duration": 264100,
   "status": "passed"
 });
 formatter.scenario({
@@ -5620,21 +5820,21 @@ formatter.match({
   "location": "CreateNewProductSteps.productWorkingDatesIsSetWithFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 118100,
+  "duration": 155900,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.productTimeSlotsIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 195900,
+  "duration": 212800,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.providerCreatesANewProduct()"
 });
 formatter.result({
-  "duration": 45655900,
+  "duration": 39635100,
   "status": "passed"
 });
 formatter.match({
@@ -5647,7 +5847,7 @@ formatter.match({
   "location": "CommonSteps.verify_status_code_is(int)"
 });
 formatter.result({
-  "duration": 1090700,
+  "duration": 572600,
   "status": "passed"
 });
 formatter.match({
@@ -5660,23 +5860,27 @@ formatter.match({
   "location": "CommonSteps.verifyTheTitleIs(String)"
 });
 formatter.result({
-  "duration": 22212500,
+  "duration": 20644300,
   "status": "passed"
 });
 formatter.after({
-  "duration": 57000,
+  "duration": 26800,
   "status": "passed"
 });
 formatter.before({
-  "duration": 60200,
+  "duration": 29000,
   "status": "passed"
 });
 formatter.before({
-  "duration": 46349100,
+  "duration": 35925000,
   "status": "passed"
 });
 formatter.before({
-  "duration": 45796600,
+  "duration": 38310600,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 42409900,
   "status": "passed"
 });
 formatter.background({
@@ -5744,14 +5948,14 @@ formatter.match({
   "location": "CreateNewProductSteps.productIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 178200,
+  "duration": 154900,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.productVideosIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 1893900,
+  "duration": 452600,
   "status": "passed"
 });
 formatter.scenario({
@@ -5847,21 +6051,21 @@ formatter.match({
   "location": "CreateNewProductSteps.productWorkingDatesIsSetWithFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 155300,
+  "duration": 146300,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.productTimeSlotsIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 138500,
+  "duration": 131700,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.providerCreatesANewProduct()"
 });
 formatter.result({
-  "duration": 107789900,
+  "duration": 135557100,
   "status": "passed"
 });
 formatter.match({
@@ -5874,8 +6078,8 @@ formatter.match({
   "location": "CommonSteps.verify_status_code_is(int)"
 });
 formatter.result({
-  "duration": 5690100,
-  "error_message": "java.lang.AssertionError: expected:\u003c400\u003e but was:\u003c200\u003e\r\n\tat org.junit.Assert.fail(Assert.java:88)\r\n\tat org.junit.Assert.failNotEquals(Assert.java:743)\r\n\tat org.junit.Assert.assertEquals(Assert.java:118)\r\n\tat org.junit.Assert.assertEquals(Assert.java:555)\r\n\tat org.junit.Assert.assertEquals(Assert.java:542)\r\n\tat www.logisense.com.cucumber.steps.common.CommonSteps.verify_status_code_is(CommonSteps.java:19)\r\n\tat ✽.Then verify status code is 400(features/wizard/wizardNewProductTypes\u0026WorkingDatesNegative.feature:166)\r\n",
+  "duration": 5495900,
+  "error_message": "java.lang.AssertionError: expected:\u003c400\u003e but was:\u003c200\u003e\r\n\tat org.junit.Assert.fail(Assert.java:88)\r\n\tat org.junit.Assert.failNotEquals(Assert.java:743)\r\n\tat org.junit.Assert.assertEquals(Assert.java:118)\r\n\tat org.junit.Assert.assertEquals(Assert.java:555)\r\n\tat org.junit.Assert.assertEquals(Assert.java:542)\r\n\tat www.logisense.com.cucumber.steps.common.CommonSteps.verify_status_code_is(CommonSteps.java:31)\r\n\tat ✽.Then verify status code is 400(features/wizard/wizardNewProductTypes\u0026WorkingDatesNegative.feature:166)\r\n",
   "status": "failed"
 });
 formatter.match({
@@ -5891,19 +6095,23 @@ formatter.result({
   "status": "skipped"
 });
 formatter.after({
-  "duration": 34800,
+  "duration": 35400,
   "status": "passed"
 });
 formatter.before({
-  "duration": 78500,
+  "duration": 101100,
   "status": "passed"
 });
 formatter.before({
-  "duration": 43108700,
+  "duration": 92046800,
   "status": "passed"
 });
 formatter.before({
-  "duration": 50343200,
+  "duration": 65652700,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 68789200,
   "status": "passed"
 });
 formatter.background({
@@ -5971,14 +6179,14 @@ formatter.match({
   "location": "CreateNewProductSteps.productIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 141700,
+  "duration": 146200,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.productVideosIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 399300,
+  "duration": 418200,
   "status": "passed"
 });
 formatter.scenario({
@@ -6076,21 +6284,21 @@ formatter.match({
   "location": "CreateNewProductSteps.productWorkingDatesIsSetWithFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 135200,
+  "duration": 160700,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.productTimeSlotsIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 121400,
+  "duration": 150100,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.providerCreatesANewProduct()"
 });
 formatter.result({
-  "duration": 52156700,
+  "duration": 45939300,
   "status": "passed"
 });
 formatter.match({
@@ -6103,7 +6311,7 @@ formatter.match({
   "location": "CommonSteps.verify_status_code_is(int)"
 });
 formatter.result({
-  "duration": 878800,
+  "duration": 970100,
   "status": "passed"
 });
 formatter.match({
@@ -6116,23 +6324,27 @@ formatter.match({
   "location": "CommonSteps.verifyTheTitleIs(String)"
 });
 formatter.result({
-  "duration": 24013600,
+  "duration": 19745700,
   "status": "passed"
 });
 formatter.after({
-  "duration": 30500,
+  "duration": 32300,
   "status": "passed"
 });
 formatter.before({
-  "duration": 49600,
+  "duration": 54600,
   "status": "passed"
 });
 formatter.before({
-  "duration": 40186300,
+  "duration": 46351200,
   "status": "passed"
 });
 formatter.before({
-  "duration": 45746000,
+  "duration": 52059600,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 47820200,
   "status": "passed"
 });
 formatter.background({
@@ -6200,14 +6412,14 @@ formatter.match({
   "location": "CreateNewProductSteps.productIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 233500,
+  "duration": 192100,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.productVideosIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 361500,
+  "duration": 631300,
   "status": "passed"
 });
 formatter.scenario({
@@ -6305,21 +6517,21 @@ formatter.match({
   "location": "CreateNewProductSteps.productWorkingDatesIsSetWithFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 601900,
+  "duration": 960100,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.productTimeSlotsIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 150300,
+  "duration": 284500,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.providerCreatesANewProduct()"
 });
 formatter.result({
-  "duration": 44998500,
+  "duration": 42886800,
   "status": "passed"
 });
 formatter.match({
@@ -6332,7 +6544,7 @@ formatter.match({
   "location": "CommonSteps.verify_status_code_is(int)"
 });
 formatter.result({
-  "duration": 1709900,
+  "duration": 1022800,
   "status": "passed"
 });
 formatter.match({
@@ -6345,23 +6557,27 @@ formatter.match({
   "location": "CommonSteps.verifyTheTitleIs(String)"
 });
 formatter.result({
-  "duration": 18487000,
+  "duration": 20645700,
   "status": "passed"
 });
 formatter.after({
-  "duration": 29300,
+  "duration": 34300,
   "status": "passed"
 });
 formatter.before({
-  "duration": 40300,
+  "duration": 59000,
   "status": "passed"
 });
 formatter.before({
-  "duration": 41324700,
+  "duration": 39226000,
   "status": "passed"
 });
 formatter.before({
-  "duration": 45671500,
+  "duration": 54757300,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 37421100,
   "status": "passed"
 });
 formatter.background({
@@ -6429,14 +6645,14 @@ formatter.match({
   "location": "CreateNewProductSteps.productIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 150200,
+  "duration": 147700,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.productVideosIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 311200,
+  "duration": 320000,
   "status": "passed"
 });
 formatter.scenario({
@@ -6534,21 +6750,21 @@ formatter.match({
   "location": "CreateNewProductSteps.productWorkingDatesIsSetWithFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 157200,
+  "duration": 129500,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.productTimeSlotsIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 178000,
+  "duration": 118100,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.providerCreatesANewProduct()"
 });
 formatter.result({
-  "duration": 51670200,
+  "duration": 42274000,
   "status": "passed"
 });
 formatter.match({
@@ -6561,7 +6777,7 @@ formatter.match({
   "location": "CommonSteps.verify_status_code_is(int)"
 });
 formatter.result({
-  "duration": 2001700,
+  "duration": 723000,
   "status": "passed"
 });
 formatter.match({
@@ -6574,23 +6790,27 @@ formatter.match({
   "location": "CommonSteps.verifyTheTitleIs(String)"
 });
 formatter.result({
-  "duration": 18843200,
+  "duration": 19406900,
   "status": "passed"
 });
 formatter.after({
-  "duration": 32200,
+  "duration": 25000,
   "status": "passed"
 });
 formatter.before({
-  "duration": 96600,
+  "duration": 51600,
   "status": "passed"
 });
 formatter.before({
-  "duration": 57555600,
+  "duration": 43269000,
   "status": "passed"
 });
 formatter.before({
-  "duration": 44851100,
+  "duration": 42437000,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 53306900,
   "status": "passed"
 });
 formatter.background({
@@ -6658,14 +6878,14 @@ formatter.match({
   "location": "CreateNewProductSteps.productIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 192700,
+  "duration": 178200,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.productVideosIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 310500,
+  "duration": 439600,
   "status": "passed"
 });
 formatter.scenario({
@@ -6763,21 +6983,21 @@ formatter.match({
   "location": "CreateNewProductSteps.productWorkingDatesIsSetWithFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 117100,
+  "duration": 106000,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.productTimeSlotsIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 101700,
+  "duration": 112300,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.providerCreatesANewProduct()"
 });
 formatter.result({
-  "duration": 46024000,
+  "duration": 68017900,
   "status": "passed"
 });
 formatter.match({
@@ -6790,7 +7010,7 @@ formatter.match({
   "location": "CommonSteps.verify_status_code_is(int)"
 });
 formatter.result({
-  "duration": 1576300,
+  "duration": 884900,
   "status": "passed"
 });
 formatter.match({
@@ -6803,23 +7023,27 @@ formatter.match({
   "location": "CommonSteps.verifyTheTitleIs(String)"
 });
 formatter.result({
-  "duration": 24878500,
+  "duration": 24214600,
   "status": "passed"
 });
 formatter.after({
-  "duration": 57700,
+  "duration": 26300,
   "status": "passed"
 });
 formatter.before({
-  "duration": 52700,
+  "duration": 41400,
   "status": "passed"
 });
 formatter.before({
-  "duration": 37878700,
+  "duration": 69569000,
   "status": "passed"
 });
 formatter.before({
-  "duration": 45119000,
+  "duration": 76388200,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 46263700,
   "status": "passed"
 });
 formatter.background({
@@ -6887,14 +7111,14 @@ formatter.match({
   "location": "CreateNewProductSteps.productIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 156900,
+  "duration": 119200,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.productVideosIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 349900,
+  "duration": 331000,
   "status": "passed"
 });
 formatter.scenario({
@@ -6990,21 +7214,21 @@ formatter.match({
   "location": "CreateNewProductSteps.productWorkingDatesIsSetWithFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 147200,
+  "duration": 138400,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.productTimeSlotsIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 151500,
+  "duration": 132200,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.providerCreatesANewProduct()"
 });
 formatter.result({
-  "duration": 108234100,
+  "duration": 88458400,
   "status": "passed"
 });
 formatter.match({
@@ -7017,8 +7241,8 @@ formatter.match({
   "location": "CommonSteps.verify_status_code_is(int)"
 });
 formatter.result({
-  "duration": 4571800,
-  "error_message": "java.lang.AssertionError: expected:\u003c400\u003e but was:\u003c200\u003e\r\n\tat org.junit.Assert.fail(Assert.java:88)\r\n\tat org.junit.Assert.failNotEquals(Assert.java:743)\r\n\tat org.junit.Assert.assertEquals(Assert.java:118)\r\n\tat org.junit.Assert.assertEquals(Assert.java:555)\r\n\tat org.junit.Assert.assertEquals(Assert.java:542)\r\n\tat www.logisense.com.cucumber.steps.common.CommonSteps.verify_status_code_is(CommonSteps.java:19)\r\n\tat ✽.Then verify status code is 400(features/wizard/wizardNewProductTypes\u0026WorkingDatesNegative.feature:229)\r\n",
+  "duration": 3687100,
+  "error_message": "java.lang.AssertionError: expected:\u003c400\u003e but was:\u003c200\u003e\r\n\tat org.junit.Assert.fail(Assert.java:88)\r\n\tat org.junit.Assert.failNotEquals(Assert.java:743)\r\n\tat org.junit.Assert.assertEquals(Assert.java:118)\r\n\tat org.junit.Assert.assertEquals(Assert.java:555)\r\n\tat org.junit.Assert.assertEquals(Assert.java:542)\r\n\tat www.logisense.com.cucumber.steps.common.CommonSteps.verify_status_code_is(CommonSteps.java:31)\r\n\tat ✽.Then verify status code is 400(features/wizard/wizardNewProductTypes\u0026WorkingDatesNegative.feature:229)\r\n",
   "status": "failed"
 });
 formatter.match({
@@ -7034,19 +7258,23 @@ formatter.result({
   "status": "skipped"
 });
 formatter.after({
-  "duration": 38100,
+  "duration": 54400,
   "status": "passed"
 });
 formatter.before({
-  "duration": 57500,
+  "duration": 61400,
   "status": "passed"
 });
 formatter.before({
-  "duration": 47698700,
+  "duration": 41073200,
   "status": "passed"
 });
 formatter.before({
-  "duration": 55115100,
+  "duration": 48044000,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 54946200,
   "status": "passed"
 });
 formatter.background({
@@ -7114,14 +7342,14 @@ formatter.match({
   "location": "CreateNewProductSteps.productIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 172300,
+  "duration": 206900,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.productVideosIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 815200,
+  "duration": 361800,
   "status": "passed"
 });
 formatter.scenario({
@@ -7219,21 +7447,21 @@ formatter.match({
   "location": "CreateNewProductSteps.productWorkingDatesIsSetWithFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 131900,
+  "duration": 130900,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.productTimeSlotsIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 169200,
+  "duration": 120700,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.providerCreatesANewProduct()"
 });
 formatter.result({
-  "duration": 55827500,
+  "duration": 55654500,
   "status": "passed"
 });
 formatter.match({
@@ -7246,7 +7474,7 @@ formatter.match({
   "location": "CommonSteps.verify_status_code_is(int)"
 });
 formatter.result({
-  "duration": 962600,
+  "duration": 1418900,
   "status": "passed"
 });
 formatter.match({
@@ -7259,23 +7487,27 @@ formatter.match({
   "location": "CommonSteps.verifyTheTitleIs(String)"
 });
 formatter.result({
-  "duration": 19970700,
+  "duration": 21028600,
   "status": "passed"
 });
 formatter.after({
-  "duration": 36000,
+  "duration": 36200,
   "status": "passed"
 });
 formatter.before({
-  "duration": 90000,
+  "duration": 50900,
   "status": "passed"
 });
 formatter.before({
-  "duration": 43855700,
+  "duration": 111744800,
   "status": "passed"
 });
 formatter.before({
-  "duration": 49096300,
+  "duration": 37779000,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 38971600,
   "status": "passed"
 });
 formatter.background({
@@ -7350,7 +7582,7 @@ formatter.match({
   "location": "CreateNewProductSteps.productVideosIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 641500,
+  "duration": 331500,
   "status": "passed"
 });
 formatter.scenario({
@@ -7448,21 +7680,21 @@ formatter.match({
   "location": "CreateNewProductSteps.productWorkingDatesIsSetWithFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 155000,
+  "duration": 139700,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.productTimeSlotsIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 195400,
+  "duration": 156200,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.providerCreatesANewProduct()"
 });
 formatter.result({
-  "duration": 51563600,
+  "duration": 74571700,
   "status": "passed"
 });
 formatter.match({
@@ -7475,7 +7707,7 @@ formatter.match({
   "location": "CommonSteps.verify_status_code_is(int)"
 });
 formatter.result({
-  "duration": 827000,
+  "duration": 803300,
   "status": "passed"
 });
 formatter.match({
@@ -7488,23 +7720,27 @@ formatter.match({
   "location": "CommonSteps.verifyTheTitleIs(String)"
 });
 formatter.result({
-  "duration": 18621000,
+  "duration": 26957000,
   "status": "passed"
 });
 formatter.after({
-  "duration": 38100,
+  "duration": 75500,
   "status": "passed"
 });
 formatter.before({
-  "duration": 77500,
+  "duration": 61200,
   "status": "passed"
 });
 formatter.before({
-  "duration": 41002400,
+  "duration": 55249100,
   "status": "passed"
 });
 formatter.before({
-  "duration": 41137700,
+  "duration": 45153300,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 64215200,
   "status": "passed"
 });
 formatter.background({
@@ -7572,14 +7808,14 @@ formatter.match({
   "location": "CreateNewProductSteps.productIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 146400,
+  "duration": 196200,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.productVideosIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 388900,
+  "duration": 615700,
   "status": "passed"
 });
 formatter.scenario({
@@ -7677,21 +7913,21 @@ formatter.match({
   "location": "CreateNewProductSteps.productWorkingDatesIsSetWithFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 134200,
+  "duration": 125500,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.productTimeSlotsIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 157300,
+  "duration": 110500,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.providerCreatesANewProduct()"
 });
 formatter.result({
-  "duration": 217029800,
+  "duration": 80306100,
   "status": "passed"
 });
 formatter.match({
@@ -7704,8 +7940,8 @@ formatter.match({
   "location": "CommonSteps.verify_status_code_is(int)"
 });
 formatter.result({
-  "duration": 4545200,
-  "error_message": "java.lang.AssertionError: expected:\u003c500\u003e but was:\u003c200\u003e\r\n\tat org.junit.Assert.fail(Assert.java:88)\r\n\tat org.junit.Assert.failNotEquals(Assert.java:743)\r\n\tat org.junit.Assert.assertEquals(Assert.java:118)\r\n\tat org.junit.Assert.assertEquals(Assert.java:555)\r\n\tat org.junit.Assert.assertEquals(Assert.java:542)\r\n\tat www.logisense.com.cucumber.steps.common.CommonSteps.verify_status_code_is(CommonSteps.java:19)\r\n\tat ✽.Then verify status code is 500(features/wizard/wizardNewProductTypes\u0026WorkingDatesNegative.feature:265)\r\n",
+  "duration": 4844600,
+  "error_message": "java.lang.AssertionError: expected:\u003c500\u003e but was:\u003c200\u003e\r\n\tat org.junit.Assert.fail(Assert.java:88)\r\n\tat org.junit.Assert.failNotEquals(Assert.java:743)\r\n\tat org.junit.Assert.assertEquals(Assert.java:118)\r\n\tat org.junit.Assert.assertEquals(Assert.java:555)\r\n\tat org.junit.Assert.assertEquals(Assert.java:542)\r\n\tat www.logisense.com.cucumber.steps.common.CommonSteps.verify_status_code_is(CommonSteps.java:31)\r\n\tat ✽.Then verify status code is 500(features/wizard/wizardNewProductTypes\u0026WorkingDatesNegative.feature:265)\r\n",
   "status": "failed"
 });
 formatter.match({
@@ -7721,19 +7957,23 @@ formatter.result({
   "status": "skipped"
 });
 formatter.after({
-  "duration": 28300,
+  "duration": 34900,
   "status": "passed"
 });
 formatter.before({
-  "duration": 43800,
+  "duration": 51400,
   "status": "passed"
 });
 formatter.before({
-  "duration": 57070600,
+  "duration": 68272300,
   "status": "passed"
 });
 formatter.before({
-  "duration": 49452100,
+  "duration": 37915300,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 41420800,
   "status": "passed"
 });
 formatter.background({
@@ -7801,14 +8041,14 @@ formatter.match({
   "location": "CreateNewProductSteps.productIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 151700,
+  "duration": 150000,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.productVideosIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 392900,
+  "duration": 319800,
   "status": "passed"
 });
 formatter.scenario({
@@ -7904,21 +8144,21 @@ formatter.match({
   "location": "CreateNewProductSteps.productWorkingDatesIsSetWithFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 116800,
+  "duration": 186700,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.productTimeSlotsIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 150900,
+  "duration": 195100,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.providerCreatesANewProduct()"
 });
 formatter.result({
-  "duration": 70899800,
+  "duration": 79883300,
   "status": "passed"
 });
 formatter.match({
@@ -7931,8 +8171,8 @@ formatter.match({
   "location": "CommonSteps.verify_status_code_is(int)"
 });
 formatter.result({
-  "duration": 4524700,
-  "error_message": "java.lang.AssertionError: expected:\u003c500\u003e but was:\u003c200\u003e\r\n\tat org.junit.Assert.fail(Assert.java:88)\r\n\tat org.junit.Assert.failNotEquals(Assert.java:743)\r\n\tat org.junit.Assert.assertEquals(Assert.java:118)\r\n\tat org.junit.Assert.assertEquals(Assert.java:555)\r\n\tat org.junit.Assert.assertEquals(Assert.java:542)\r\n\tat www.logisense.com.cucumber.steps.common.CommonSteps.verify_status_code_is(CommonSteps.java:19)\r\n\tat ✽.Then verify status code is 500(features/wizard/wizardNewProductTypes\u0026WorkingDatesNegative.feature:278)\r\n",
+  "duration": 4362900,
+  "error_message": "java.lang.AssertionError: expected:\u003c500\u003e but was:\u003c200\u003e\r\n\tat org.junit.Assert.fail(Assert.java:88)\r\n\tat org.junit.Assert.failNotEquals(Assert.java:743)\r\n\tat org.junit.Assert.assertEquals(Assert.java:118)\r\n\tat org.junit.Assert.assertEquals(Assert.java:555)\r\n\tat org.junit.Assert.assertEquals(Assert.java:542)\r\n\tat www.logisense.com.cucumber.steps.common.CommonSteps.verify_status_code_is(CommonSteps.java:31)\r\n\tat ✽.Then verify status code is 500(features/wizard/wizardNewProductTypes\u0026WorkingDatesNegative.feature:278)\r\n",
   "status": "failed"
 });
 formatter.match({
@@ -7948,19 +8188,23 @@ formatter.result({
   "status": "skipped"
 });
 formatter.after({
-  "duration": 28100,
+  "duration": 39600,
   "status": "passed"
 });
 formatter.before({
-  "duration": 48800,
+  "duration": 35400,
   "status": "passed"
 });
 formatter.before({
-  "duration": 46405000,
+  "duration": 42821400,
   "status": "passed"
 });
 formatter.before({
-  "duration": 33445500,
+  "duration": 38937000,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 45587300,
   "status": "passed"
 });
 formatter.background({
@@ -8028,14 +8272,14 @@ formatter.match({
   "location": "CreateNewProductSteps.productIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 131000,
+  "duration": 166500,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.productVideosIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 279500,
+  "duration": 467600,
   "status": "passed"
 });
 formatter.scenario({
@@ -8133,21 +8377,21 @@ formatter.match({
   "location": "CreateNewProductSteps.productWorkingDatesIsSetWithFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 112000,
+  "duration": 137300,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.productTimeSlotsIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 467400,
+  "duration": 567200,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.providerCreatesANewProduct()"
 });
 formatter.result({
-  "duration": 44339300,
+  "duration": 41157200,
   "status": "passed"
 });
 formatter.match({
@@ -8160,7 +8404,7 @@ formatter.match({
   "location": "CommonSteps.verify_status_code_is(int)"
 });
 formatter.result({
-  "duration": 839000,
+  "duration": 1345600,
   "status": "passed"
 });
 formatter.match({
@@ -8173,23 +8417,27 @@ formatter.match({
   "location": "CommonSteps.verifyTheTitleIs(String)"
 });
 formatter.result({
-  "duration": 19388600,
+  "duration": 19632100,
   "status": "passed"
 });
 formatter.after({
-  "duration": 36400,
+  "duration": 31100,
   "status": "passed"
 });
 formatter.before({
-  "duration": 38100,
+  "duration": 66800,
   "status": "passed"
 });
 formatter.before({
-  "duration": 35866300,
+  "duration": 44680900,
   "status": "passed"
 });
 formatter.before({
-  "duration": 46198300,
+  "duration": 58281400,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 42608600,
   "status": "passed"
 });
 formatter.background({
@@ -8257,14 +8505,14 @@ formatter.match({
   "location": "CreateNewProductSteps.productIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 145400,
+  "duration": 132100,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.productVideosIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 337500,
+  "duration": 326600,
   "status": "passed"
 });
 formatter.scenario({
@@ -8362,21 +8610,21 @@ formatter.match({
   "location": "CreateNewProductSteps.productWorkingDatesIsSetWithFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 123300,
+  "duration": 106600,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.productTimeSlotsIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 200300,
+  "duration": 115900,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.providerCreatesANewProduct()"
 });
 formatter.result({
-  "duration": 56072300,
+  "duration": 52810100,
   "status": "passed"
 });
 formatter.match({
@@ -8389,7 +8637,7 @@ formatter.match({
   "location": "CommonSteps.verify_status_code_is(int)"
 });
 formatter.result({
-  "duration": 1120500,
+  "duration": 920400,
   "status": "passed"
 });
 formatter.match({
@@ -8402,23 +8650,27 @@ formatter.match({
   "location": "CommonSteps.verifyTheTitleIs(String)"
 });
 formatter.result({
-  "duration": 18054800,
+  "duration": 22708800,
   "status": "passed"
 });
 formatter.after({
-  "duration": 30600,
+  "duration": 30500,
   "status": "passed"
 });
 formatter.before({
-  "duration": 41600,
+  "duration": 31500,
   "status": "passed"
 });
 formatter.before({
-  "duration": 41814300,
+  "duration": 39126900,
   "status": "passed"
 });
 formatter.before({
-  "duration": 47360400,
+  "duration": 39703700,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 58795700,
   "status": "passed"
 });
 formatter.background({
@@ -8486,14 +8738,14 @@ formatter.match({
   "location": "CreateNewProductSteps.productIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 139400,
+  "duration": 207100,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.productVideosIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 827300,
+  "duration": 389500,
   "status": "passed"
 });
 formatter.scenario({
@@ -8591,21 +8843,21 @@ formatter.match({
   "location": "CreateNewProductSteps.productWorkingDatesIsSetWithFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 382700,
+  "duration": 133200,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.productTimeSlotsIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 109300,
+  "duration": 116100,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.providerCreatesANewProduct()"
 });
 formatter.result({
-  "duration": 46682200,
+  "duration": 52004000,
   "status": "passed"
 });
 formatter.match({
@@ -8618,7 +8870,7 @@ formatter.match({
   "location": "CommonSteps.verify_status_code_is(int)"
 });
 formatter.result({
-  "duration": 778800,
+  "duration": 726900,
   "status": "passed"
 });
 formatter.match({
@@ -8631,23 +8883,27 @@ formatter.match({
   "location": "CommonSteps.verifyTheTitleIs(String)"
 });
 formatter.result({
-  "duration": 19351400,
+  "duration": 17564300,
   "status": "passed"
 });
 formatter.after({
-  "duration": 36600,
+  "duration": 29700,
   "status": "passed"
 });
 formatter.before({
-  "duration": 42700,
+  "duration": 31700,
   "status": "passed"
 });
 formatter.before({
-  "duration": 41495500,
+  "duration": 42238400,
   "status": "passed"
 });
 formatter.before({
-  "duration": 42541500,
+  "duration": 66297500,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 65935700,
   "status": "passed"
 });
 formatter.background({
@@ -8715,14 +8971,14 @@ formatter.match({
   "location": "CreateNewProductSteps.productIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 239900,
+  "duration": 149200,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.productVideosIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 1618400,
+  "duration": 321500,
   "status": "passed"
 });
 formatter.scenario({
@@ -8818,21 +9074,21 @@ formatter.match({
   "location": "CreateNewProductSteps.productWorkingDatesIsSetWithFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 118600,
+  "duration": 109200,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.productTimeSlotsIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 103600,
+  "duration": 105800,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.providerCreatesANewProduct()"
 });
 formatter.result({
-  "duration": 167525900,
+  "duration": 109886400,
   "status": "passed"
 });
 formatter.match({
@@ -8845,8 +9101,8 @@ formatter.match({
   "location": "CommonSteps.verify_status_code_is(int)"
 });
 formatter.result({
-  "duration": 3186500,
-  "error_message": "java.lang.AssertionError: expected:\u003c400\u003e but was:\u003c200\u003e\r\n\tat org.junit.Assert.fail(Assert.java:88)\r\n\tat org.junit.Assert.failNotEquals(Assert.java:743)\r\n\tat org.junit.Assert.assertEquals(Assert.java:118)\r\n\tat org.junit.Assert.assertEquals(Assert.java:555)\r\n\tat org.junit.Assert.assertEquals(Assert.java:542)\r\n\tat www.logisense.com.cucumber.steps.common.CommonSteps.verify_status_code_is(CommonSteps.java:19)\r\n\tat ✽.Then verify status code is 400(features/wizard/wizardNewProductTypes\u0026WorkingDatesNegative.feature:328)\r\n",
+  "duration": 3005200,
+  "error_message": "java.lang.AssertionError: expected:\u003c400\u003e but was:\u003c200\u003e\r\n\tat org.junit.Assert.fail(Assert.java:88)\r\n\tat org.junit.Assert.failNotEquals(Assert.java:743)\r\n\tat org.junit.Assert.assertEquals(Assert.java:118)\r\n\tat org.junit.Assert.assertEquals(Assert.java:555)\r\n\tat org.junit.Assert.assertEquals(Assert.java:542)\r\n\tat www.logisense.com.cucumber.steps.common.CommonSteps.verify_status_code_is(CommonSteps.java:31)\r\n\tat ✽.Then verify status code is 400(features/wizard/wizardNewProductTypes\u0026WorkingDatesNegative.feature:328)\r\n",
   "status": "failed"
 });
 formatter.match({
@@ -8862,7 +9118,7 @@ formatter.result({
   "status": "skipped"
 });
 formatter.after({
-  "duration": 300000,
+  "duration": 43400,
   "status": "passed"
 });
 formatter.uri("features/wizard/wizardProductNameNegative.feature");
@@ -8875,28 +9131,32 @@ formatter.feature({
   "tags": [
     {
       "line": 1,
-      "name": "@negative"
-    },
-    {
-      "line": 1,
       "name": "@smoke"
     },
     {
       "line": 1,
-      "name": "@Regression"
+      "name": "@negative"
+    },
+    {
+      "line": 1,
+      "name": "@regression"
     }
   ]
 });
 formatter.before({
-  "duration": 71500,
+  "duration": 46500,
   "status": "passed"
 });
 formatter.before({
-  "duration": 51010900,
+  "duration": 34605800,
   "status": "passed"
 });
 formatter.before({
-  "duration": 48175400,
+  "duration": 40508100,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 45210900,
   "status": "passed"
 });
 formatter.scenario({
@@ -8999,28 +9259,28 @@ formatter.match({
   "location": "WizardProductNegativeSteps.product_name_is_set_with_times(String,int)"
 });
 formatter.result({
-  "duration": 247600,
+  "duration": 236900,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.productIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 204900,
+  "duration": 139500,
   "status": "passed"
 });
 formatter.match({
   "location": "WizardProductNegativeSteps.productVideoIsCreatedWithBellowGivenPath(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 285900,
+  "duration": 356000,
   "status": "passed"
 });
 formatter.match({
   "location": "WizardProductNegativeSteps.provider_sends_a_new_product()"
 });
 formatter.result({
-  "duration": 78750500,
+  "duration": 86553100,
   "status": "passed"
 });
 formatter.match({
@@ -9033,7 +9293,7 @@ formatter.match({
   "location": "CommonSteps.verify_status_code_is(int)"
 });
 formatter.result({
-  "duration": 865000,
+  "duration": 594700,
   "status": "passed"
 });
 formatter.match({
@@ -9046,23 +9306,27 @@ formatter.match({
   "location": "CommonSteps.verifyTheTitleIs(String)"
 });
 formatter.result({
-  "duration": 18443700,
+  "duration": 20215600,
   "status": "passed"
 });
 formatter.after({
-  "duration": 34600,
+  "duration": 39200,
   "status": "passed"
 });
 formatter.before({
-  "duration": 93900,
+  "duration": 44400,
   "status": "passed"
 });
 formatter.before({
-  "duration": 42108100,
+  "duration": 38631500,
   "status": "passed"
 });
 formatter.before({
-  "duration": 40651900,
+  "duration": 67362600,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 44091300,
   "status": "passed"
 });
 formatter.scenario({
@@ -9165,28 +9429,28 @@ formatter.match({
   "location": "WizardProductNegativeSteps.product_shortDescription_is_set_with_times(String,int)"
 });
 formatter.result({
-  "duration": 233900,
+  "duration": 241200,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.productIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 183500,
+  "duration": 156900,
   "status": "passed"
 });
 formatter.match({
   "location": "WizardProductNegativeSteps.productVideoIsCreatedWithBellowGivenPath(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 288000,
+  "duration": 318800,
   "status": "passed"
 });
 formatter.match({
   "location": "WizardProductNegativeSteps.provider_sends_a_new_product()"
 });
 formatter.result({
-  "duration": 85174700,
+  "duration": 83870400,
   "status": "passed"
 });
 formatter.match({
@@ -9199,7 +9463,7 @@ formatter.match({
   "location": "CommonSteps.verify_status_code_is(int)"
 });
 formatter.result({
-  "duration": 744600,
+  "duration": 918700,
   "status": "passed"
 });
 formatter.match({
@@ -9212,23 +9476,27 @@ formatter.match({
   "location": "CommonSteps.verifyTheTitleIs(String)"
 });
 formatter.result({
-  "duration": 18420300,
+  "duration": 19029500,
   "status": "passed"
 });
 formatter.after({
-  "duration": 30000,
+  "duration": 31500,
   "status": "passed"
 });
 formatter.before({
-  "duration": 42400,
+  "duration": 49900,
   "status": "passed"
 });
 formatter.before({
-  "duration": 40619500,
+  "duration": 48542800,
   "status": "passed"
 });
 formatter.before({
-  "duration": 40058300,
+  "duration": 43311300,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 46090400,
   "status": "passed"
 });
 formatter.scenario({
@@ -9331,28 +9599,28 @@ formatter.match({
   "location": "WizardProductNegativeSteps.product_fullDescription_is_set_with_times(String,int)"
 });
 formatter.result({
-  "duration": 568500,
+  "duration": 1212300,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.productIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 229100,
+  "duration": 153100,
   "status": "passed"
 });
 formatter.match({
   "location": "WizardProductNegativeSteps.productVideoIsCreatedWithBellowGivenPath(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 250000,
+  "duration": 371900,
   "status": "passed"
 });
 formatter.match({
   "location": "WizardProductNegativeSteps.provider_sends_a_new_product()"
 });
 formatter.result({
-  "duration": 64307400,
+  "duration": 63822900,
   "status": "passed"
 });
 formatter.match({
@@ -9365,7 +9633,7 @@ formatter.match({
   "location": "CommonSteps.verify_status_code_is(int)"
 });
 formatter.result({
-  "duration": 820000,
+  "duration": 787500,
   "status": "passed"
 });
 formatter.match({
@@ -9378,11 +9646,11 @@ formatter.match({
   "location": "CommonSteps.verifyTheTitleIs(String)"
 });
 formatter.result({
-  "duration": 17578800,
+  "duration": 18572800,
   "status": "passed"
 });
 formatter.after({
-  "duration": 31400,
+  "duration": 30800,
   "status": "passed"
 });
 formatter.uri("features/wizard/wizardProductPricesNegative.feature");
@@ -9395,11 +9663,11 @@ formatter.feature({
   "tags": [
     {
       "line": 1,
-      "name": "@productPriceNegativeTesting"
+      "name": "@smoke"
     },
     {
       "line": 1,
-      "name": "@smoke"
+      "name": "@productPriceNegativeTesting"
     },
     {
       "line": 1,
@@ -9408,15 +9676,19 @@ formatter.feature({
   ]
 });
 formatter.before({
-  "duration": 49800,
+  "duration": 35000,
   "status": "passed"
 });
 formatter.before({
-  "duration": 40753600,
+  "duration": 41724800,
   "status": "passed"
 });
 formatter.before({
-  "duration": 49866700,
+  "duration": 72303000,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 41549300,
   "status": "passed"
 });
 formatter.background({
@@ -9484,14 +9756,14 @@ formatter.match({
   "location": "CreateNewProductSteps.productIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 257200,
+  "duration": 261900,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.productVideosIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 344100,
+  "duration": 287300,
   "status": "passed"
 });
 formatter.scenario({
@@ -9564,14 +9836,14 @@ formatter.match({
   "location": "CreateNewProductSteps.productPricesIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 127000,
+  "duration": 208100,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.providerCreatesANewProduct()"
 });
 formatter.result({
-  "duration": 50007900,
+  "duration": 60763600,
   "status": "passed"
 });
 formatter.match({
@@ -9584,7 +9856,7 @@ formatter.match({
   "location": "CommonSteps.verify_status_code_is(int)"
 });
 formatter.result({
-  "duration": 1031600,
+  "duration": 1184800,
   "status": "passed"
 });
 formatter.match({
@@ -9597,23 +9869,27 @@ formatter.match({
   "location": "CommonSteps.verifyTheTitleIs(String)"
 });
 formatter.result({
-  "duration": 13669100,
+  "duration": 18111200,
   "status": "passed"
 });
 formatter.after({
-  "duration": 24900,
+  "duration": 34900,
   "status": "passed"
 });
 formatter.before({
-  "duration": 27100,
+  "duration": 29600,
   "status": "passed"
 });
 formatter.before({
-  "duration": 43431500,
+  "duration": 42140100,
   "status": "passed"
 });
 formatter.before({
-  "duration": 39240900,
+  "duration": 50002700,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 40415900,
   "status": "passed"
 });
 formatter.background({
@@ -9681,14 +9957,14 @@ formatter.match({
   "location": "CreateNewProductSteps.productIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 194900,
+  "duration": 158000,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.productVideosIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 560800,
+  "duration": 317400,
   "status": "passed"
 });
 formatter.scenario({
@@ -9759,14 +10035,14 @@ formatter.match({
   "location": "CreateNewProductSteps.productPricesIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 170500,
+  "duration": 128100,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.providerCreatesANewProduct()"
 });
 formatter.result({
-  "duration": 81183100,
+  "duration": 131316300,
   "status": "passed"
 });
 formatter.match({
@@ -9779,8 +10055,8 @@ formatter.match({
   "location": "CommonSteps.verify_status_code_is(int)"
 });
 formatter.result({
-  "duration": 2864900,
-  "error_message": "java.lang.AssertionError: expected:\u003c400\u003e but was:\u003c200\u003e\r\n\tat org.junit.Assert.fail(Assert.java:88)\r\n\tat org.junit.Assert.failNotEquals(Assert.java:743)\r\n\tat org.junit.Assert.assertEquals(Assert.java:118)\r\n\tat org.junit.Assert.assertEquals(Assert.java:555)\r\n\tat org.junit.Assert.assertEquals(Assert.java:542)\r\n\tat www.logisense.com.cucumber.steps.common.CommonSteps.verify_status_code_is(CommonSteps.java:19)\r\n\tat ✽.Then verify status code is 400(features/wizard/wizardProductPricesNegative.feature:28)\r\n",
+  "duration": 3707600,
+  "error_message": "java.lang.AssertionError: expected:\u003c400\u003e but was:\u003c200\u003e\r\n\tat org.junit.Assert.fail(Assert.java:88)\r\n\tat org.junit.Assert.failNotEquals(Assert.java:743)\r\n\tat org.junit.Assert.assertEquals(Assert.java:118)\r\n\tat org.junit.Assert.assertEquals(Assert.java:555)\r\n\tat org.junit.Assert.assertEquals(Assert.java:542)\r\n\tat www.logisense.com.cucumber.steps.common.CommonSteps.verify_status_code_is(CommonSteps.java:31)\r\n\tat ✽.Then verify status code is 400(features/wizard/wizardProductPricesNegative.feature:28)\r\n",
   "status": "failed"
 });
 formatter.match({
@@ -9796,19 +10072,23 @@ formatter.result({
   "status": "skipped"
 });
 formatter.after({
-  "duration": 58800,
+  "duration": 24000,
   "status": "passed"
 });
 formatter.before({
-  "duration": 68200,
+  "duration": 28400,
   "status": "passed"
 });
 formatter.before({
-  "duration": 44560600,
+  "duration": 65205800,
   "status": "passed"
 });
 formatter.before({
-  "duration": 36699900,
+  "duration": 43170600,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 38084900,
   "status": "passed"
 });
 formatter.background({
@@ -9876,14 +10156,14 @@ formatter.match({
   "location": "CreateNewProductSteps.productIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 100000,
+  "duration": 787400,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.productVideosIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 192100,
+  "duration": 324100,
   "status": "passed"
 });
 formatter.scenario({
@@ -9956,14 +10236,14 @@ formatter.match({
   "location": "CreateNewProductSteps.productPricesIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 142400,
+  "duration": 111200,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.providerCreatesANewProduct()"
 });
 formatter.result({
-  "duration": 36482600,
+  "duration": 46000900,
   "status": "passed"
 });
 formatter.match({
@@ -9976,7 +10256,7 @@ formatter.match({
   "location": "CommonSteps.verify_status_code_is(int)"
 });
 formatter.result({
-  "duration": 907800,
+  "duration": 1134700,
   "status": "passed"
 });
 formatter.match({
@@ -9989,23 +10269,27 @@ formatter.match({
   "location": "CommonSteps.verifyTheTitleIs(String)"
 });
 formatter.result({
-  "duration": 15789200,
+  "duration": 17589800,
   "status": "passed"
 });
 formatter.after({
-  "duration": 39200,
+  "duration": 29400,
   "status": "passed"
 });
 formatter.before({
-  "duration": 44400,
+  "duration": 36800,
   "status": "passed"
 });
 formatter.before({
-  "duration": 40235600,
+  "duration": 37211100,
   "status": "passed"
 });
 formatter.before({
-  "duration": 43173600,
+  "duration": 41475300,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 40887500,
   "status": "passed"
 });
 formatter.background({
@@ -10073,14 +10357,14 @@ formatter.match({
   "location": "CreateNewProductSteps.productIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 138200,
+  "duration": 128800,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.productVideosIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 264500,
+  "duration": 558300,
   "status": "passed"
 });
 formatter.scenario({
@@ -10153,14 +10437,14 @@ formatter.match({
   "location": "CreateNewProductSteps.productPricesIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 111700,
+  "duration": 136600,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.providerCreatesANewProduct()"
 });
 formatter.result({
-  "duration": 45430800,
+  "duration": 45860300,
   "status": "passed"
 });
 formatter.match({
@@ -10173,7 +10457,7 @@ formatter.match({
   "location": "CommonSteps.verify_status_code_is(int)"
 });
 formatter.result({
-  "duration": 800200,
+  "duration": 1015400,
   "status": "passed"
 });
 formatter.match({
@@ -10186,23 +10470,27 @@ formatter.match({
   "location": "CommonSteps.verifyTheTitleIs(String)"
 });
 formatter.result({
-  "duration": 17404500,
+  "duration": 34124800,
   "status": "passed"
 });
 formatter.after({
-  "duration": 28800,
+  "duration": 39300,
   "status": "passed"
 });
 formatter.before({
-  "duration": 37100,
+  "duration": 39900,
   "status": "passed"
 });
 formatter.before({
-  "duration": 45914700,
+  "duration": 70568500,
   "status": "passed"
 });
 formatter.before({
-  "duration": 41394100,
+  "duration": 73684900,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 46462500,
   "status": "passed"
 });
 formatter.background({
@@ -10270,14 +10558,14 @@ formatter.match({
   "location": "CreateNewProductSteps.productIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 270300,
+  "duration": 128600,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.productVideosIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 290800,
+  "duration": 258000,
   "status": "passed"
 });
 formatter.scenario({
@@ -10348,14 +10636,14 @@ formatter.match({
   "location": "CreateNewProductSteps.productPricesIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 551600,
+  "duration": 111400,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.providerCreatesANewProduct()"
 });
 formatter.result({
-  "duration": 72819400,
+  "duration": 71034400,
   "status": "passed"
 });
 formatter.match({
@@ -10368,7 +10656,7 @@ formatter.match({
   "location": "CommonSteps.verify_status_code_is(int)"
 });
 formatter.result({
-  "duration": 1729200,
+  "duration": 751000,
   "status": "passed"
 });
 formatter.match({
@@ -10381,23 +10669,27 @@ formatter.match({
   "location": "CommonSteps.verifyTheTitleIs(String)"
 });
 formatter.result({
-  "duration": 18689300,
+  "duration": 17226000,
   "status": "passed"
 });
 formatter.after({
-  "duration": 43300,
+  "duration": 31800,
   "status": "passed"
 });
 formatter.before({
-  "duration": 64300,
+  "duration": 25800,
   "status": "passed"
 });
 formatter.before({
-  "duration": 43974500,
+  "duration": 43940800,
   "status": "passed"
 });
 formatter.before({
-  "duration": 37749600,
+  "duration": 42792000,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 45476000,
   "status": "passed"
 });
 formatter.background({
@@ -10465,14 +10757,14 @@ formatter.match({
   "location": "CreateNewProductSteps.productIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 178000,
+  "duration": 156200,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.productVideosIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 435600,
+  "duration": 350300,
   "status": "passed"
 });
 formatter.scenario({
@@ -10545,14 +10837,14 @@ formatter.match({
   "location": "CreateNewProductSteps.productPricesIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 213500,
+  "duration": 130100,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.providerCreatesANewProduct()"
 });
 formatter.result({
-  "duration": 46776100,
+  "duration": 46278600,
   "status": "passed"
 });
 formatter.match({
@@ -10565,7 +10857,7 @@ formatter.match({
   "location": "CommonSteps.verify_status_code_is(int)"
 });
 formatter.result({
-  "duration": 864400,
+  "duration": 773000,
   "status": "passed"
 });
 formatter.match({
@@ -10578,23 +10870,27 @@ formatter.match({
   "location": "CommonSteps.verifyTheTitleIs(String)"
 });
 formatter.result({
-  "duration": 18851900,
+  "duration": 20784800,
   "status": "passed"
 });
 formatter.after({
-  "duration": 34300,
+  "duration": 25900,
   "status": "passed"
 });
 formatter.before({
-  "duration": 50300,
+  "duration": 28700,
   "status": "passed"
 });
 formatter.before({
-  "duration": 43570500,
+  "duration": 45263200,
   "status": "passed"
 });
 formatter.before({
-  "duration": 37070700,
+  "duration": 40404500,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 51544500,
   "status": "passed"
 });
 formatter.background({
@@ -10662,14 +10958,14 @@ formatter.match({
   "location": "CreateNewProductSteps.productIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 308600,
+  "duration": 149500,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.productVideosIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 355000,
+  "duration": 327000,
   "status": "passed"
 });
 formatter.scenario({
@@ -10742,14 +11038,14 @@ formatter.match({
   "location": "CreateNewProductSteps.productPricesIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 355200,
+  "duration": 169400,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.providerCreatesANewProduct()"
 });
 formatter.result({
-  "duration": 141863800,
+  "duration": 75774200,
   "status": "passed"
 });
 formatter.match({
@@ -10762,8 +11058,8 @@ formatter.match({
   "location": "CommonSteps.verify_status_code_is(int)"
 });
 formatter.result({
-  "duration": 3098900,
-  "error_message": "java.lang.AssertionError: expected:\u003c400\u003e but was:\u003c200\u003e\r\n\tat org.junit.Assert.fail(Assert.java:88)\r\n\tat org.junit.Assert.failNotEquals(Assert.java:743)\r\n\tat org.junit.Assert.assertEquals(Assert.java:118)\r\n\tat org.junit.Assert.assertEquals(Assert.java:555)\r\n\tat org.junit.Assert.assertEquals(Assert.java:542)\r\n\tat www.logisense.com.cucumber.steps.common.CommonSteps.verify_status_code_is(CommonSteps.java:19)\r\n\tat ✽.Then verify status code is 400(features/wizard/wizardProductPricesNegative.feature:76)\r\n",
+  "duration": 3140900,
+  "error_message": "java.lang.AssertionError: expected:\u003c400\u003e but was:\u003c200\u003e\r\n\tat org.junit.Assert.fail(Assert.java:88)\r\n\tat org.junit.Assert.failNotEquals(Assert.java:743)\r\n\tat org.junit.Assert.assertEquals(Assert.java:118)\r\n\tat org.junit.Assert.assertEquals(Assert.java:555)\r\n\tat org.junit.Assert.assertEquals(Assert.java:542)\r\n\tat www.logisense.com.cucumber.steps.common.CommonSteps.verify_status_code_is(CommonSteps.java:31)\r\n\tat ✽.Then verify status code is 400(features/wizard/wizardProductPricesNegative.feature:76)\r\n",
   "status": "failed"
 });
 formatter.match({
@@ -10779,19 +11075,23 @@ formatter.result({
   "status": "skipped"
 });
 formatter.after({
-  "duration": 31000,
+  "duration": 28900,
   "status": "passed"
 });
 formatter.before({
-  "duration": 38800,
+  "duration": 25400,
   "status": "passed"
 });
 formatter.before({
-  "duration": 37603600,
+  "duration": 35773600,
   "status": "passed"
 });
 formatter.before({
-  "duration": 38072200,
+  "duration": 45279100,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 39357300,
   "status": "passed"
 });
 formatter.background({
@@ -10859,14 +11159,14 @@ formatter.match({
   "location": "CreateNewProductSteps.productIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 365100,
+  "duration": 889700,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.productVideosIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 371200,
+  "duration": 415000,
   "status": "passed"
 });
 formatter.scenario({
@@ -10937,14 +11237,14 @@ formatter.match({
   "location": "CreateNewProductSteps.productPricesIsSetWithTheFollowingFields(String,String\u003e\u003e)"
 });
 formatter.result({
-  "duration": 172900,
+  "duration": 164800,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateNewProductSteps.providerCreatesANewProduct()"
 });
 formatter.result({
-  "duration": 76612400,
+  "duration": 80504900,
   "status": "passed"
 });
 formatter.match({
@@ -10957,8 +11257,8 @@ formatter.match({
   "location": "CommonSteps.verify_status_code_is(int)"
 });
 formatter.result({
-  "duration": 3406400,
-  "error_message": "java.lang.AssertionError: expected:\u003c400\u003e but was:\u003c200\u003e\r\n\tat org.junit.Assert.fail(Assert.java:88)\r\n\tat org.junit.Assert.failNotEquals(Assert.java:743)\r\n\tat org.junit.Assert.assertEquals(Assert.java:118)\r\n\tat org.junit.Assert.assertEquals(Assert.java:555)\r\n\tat org.junit.Assert.assertEquals(Assert.java:542)\r\n\tat www.logisense.com.cucumber.steps.common.CommonSteps.verify_status_code_is(CommonSteps.java:19)\r\n\tat ✽.Then verify status code is 400(features/wizard/wizardProductPricesNegative.feature:86)\r\n",
+  "duration": 2857200,
+  "error_message": "java.lang.AssertionError: expected:\u003c400\u003e but was:\u003c200\u003e\r\n\tat org.junit.Assert.fail(Assert.java:88)\r\n\tat org.junit.Assert.failNotEquals(Assert.java:743)\r\n\tat org.junit.Assert.assertEquals(Assert.java:118)\r\n\tat org.junit.Assert.assertEquals(Assert.java:555)\r\n\tat org.junit.Assert.assertEquals(Assert.java:542)\r\n\tat www.logisense.com.cucumber.steps.common.CommonSteps.verify_status_code_is(CommonSteps.java:31)\r\n\tat ✽.Then verify status code is 400(features/wizard/wizardProductPricesNegative.feature:86)\r\n",
   "status": "failed"
 });
 formatter.match({
@@ -10974,7 +11274,580 @@ formatter.result({
   "status": "skipped"
 });
 formatter.after({
-  "duration": 32000,
+  "duration": 24900,
+  "status": "passed"
+});
+formatter.uri("features/wizard/wizardProductRegionsNegative.feature");
+formatter.feature({
+  "line": 2,
+  "name": "productRegions is being tested with negative scenarios",
+  "description": "",
+  "id": "productregions-is-being-tested-with-negative-scenarios",
+  "keyword": "Feature",
+  "tags": [
+    {
+      "line": 1,
+      "name": "@smoke"
+    }
+  ]
+});
+formatter.before({
+  "duration": 24100,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 44733100,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 41008000,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 41689500,
+  "status": "passed"
+});
+formatter.background({
+  "line": 4,
+  "name": "",
+  "description": "",
+  "type": "background",
+  "keyword": "Background"
+});
+formatter.step({
+  "line": 5,
+  "name": "product is set with the following fields",
+  "rows": [
+    {
+      "cells": [
+        "name",
+        "active",
+        "shortDescription",
+        "fullDescription",
+        "mostPopular",
+        "longitude",
+        "latitude",
+        "calendarColor",
+        "address"
+      ],
+      "line": 6
+    },
+    {
+      "cells": [
+        "AutoTest",
+        "true",
+        "Test For Automation 1",
+        "Automation for API in Postman",
+        "true",
+        "456.456",
+        "3245678.5467",
+        "blue",
+        "Bishkek"
+      ],
+      "line": 7
+    }
+  ],
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 8,
+  "name": "productVideos is set with the following fields",
+  "rows": [
+    {
+      "cells": [
+        "path"
+      ],
+      "line": 9
+    },
+    {
+      "cells": [
+        "https://www.youtube.com/watch?v\u003du1yVCeXYya4\u0026list\u003dRDMMu1yVCeXYya4\u0026start_radio\u003d1"
+      ],
+      "line": 10
+    }
+  ],
+  "keyword": "Given "
+});
+formatter.match({
+  "location": "CreateNewProductSteps.productIsSetWithTheFollowingFields(String,String\u003e\u003e)"
+});
+formatter.result({
+  "duration": 121000,
+  "status": "passed"
+});
+formatter.match({
+  "location": "CreateNewProductSteps.productVideosIsSetWithTheFollowingFields(String,String\u003e\u003e)"
+});
+formatter.result({
+  "duration": 279500,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 13,
+  "name": "provider enters a data in productRegions with empty  regionName field",
+  "description": "",
+  "id": "productregions-is-being-tested-with-negative-scenarios;provider-enters-a-data-in-productregions-with-empty--regionname-field",
+  "type": "scenario",
+  "keyword": "Scenario",
+  "tags": [
+    {
+      "line": 12,
+      "name": "@productRegionWithEmptyRegionNameField"
+    }
+  ]
+});
+formatter.step({
+  "line": 14,
+  "name": "productRegions is set with the following fields",
+  "rows": [
+    {
+      "cells": [
+        "productId",
+        "regionId",
+        "regionName"
+      ],
+      "line": 15
+    },
+    {
+      "cells": [
+        "PYayPjpW",
+        "5bpJKaVE",
+        ""
+      ],
+      "line": 16
+    }
+  ],
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 17,
+  "name": "provider creates a new product",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 18,
+  "name": "verify status code is 400",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 19,
+  "name": "verify the title is \"One or more validation errors occurred.\"",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "CreateNewProductSteps.productRegionsIsSetWithTheFollowingFields(String,String\u003e\u003e)"
+});
+formatter.result({
+  "duration": 104100,
+  "status": "passed"
+});
+formatter.match({
+  "location": "CreateNewProductSteps.providerCreatesANewProduct()"
+});
+formatter.result({
+  "duration": 78270900,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "400",
+      "offset": 22
+    }
+  ],
+  "location": "CommonSteps.verify_status_code_is(int)"
+});
+formatter.result({
+  "duration": 2992100,
+  "error_message": "java.lang.AssertionError: expected:\u003c400\u003e but was:\u003c200\u003e\r\n\tat org.junit.Assert.fail(Assert.java:88)\r\n\tat org.junit.Assert.failNotEquals(Assert.java:743)\r\n\tat org.junit.Assert.assertEquals(Assert.java:118)\r\n\tat org.junit.Assert.assertEquals(Assert.java:555)\r\n\tat org.junit.Assert.assertEquals(Assert.java:542)\r\n\tat www.logisense.com.cucumber.steps.common.CommonSteps.verify_status_code_is(CommonSteps.java:31)\r\n\tat ✽.Then verify status code is 400(features/wizard/wizardProductRegionsNegative.feature:18)\r\n",
+  "status": "failed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "One or more validation errors occurred.",
+      "offset": 21
+    }
+  ],
+  "location": "CommonSteps.verifyTheTitleIs(String)"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.after({
+  "duration": 30400,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 46500,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 52977300,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 39761200,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 47524500,
+  "status": "passed"
+});
+formatter.background({
+  "line": 4,
+  "name": "",
+  "description": "",
+  "type": "background",
+  "keyword": "Background"
+});
+formatter.step({
+  "line": 5,
+  "name": "product is set with the following fields",
+  "rows": [
+    {
+      "cells": [
+        "name",
+        "active",
+        "shortDescription",
+        "fullDescription",
+        "mostPopular",
+        "longitude",
+        "latitude",
+        "calendarColor",
+        "address"
+      ],
+      "line": 6
+    },
+    {
+      "cells": [
+        "AutoTest",
+        "true",
+        "Test For Automation 1",
+        "Automation for API in Postman",
+        "true",
+        "456.456",
+        "3245678.5467",
+        "blue",
+        "Bishkek"
+      ],
+      "line": 7
+    }
+  ],
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 8,
+  "name": "productVideos is set with the following fields",
+  "rows": [
+    {
+      "cells": [
+        "path"
+      ],
+      "line": 9
+    },
+    {
+      "cells": [
+        "https://www.youtube.com/watch?v\u003du1yVCeXYya4\u0026list\u003dRDMMu1yVCeXYya4\u0026start_radio\u003d1"
+      ],
+      "line": 10
+    }
+  ],
+  "keyword": "Given "
+});
+formatter.match({
+  "location": "CreateNewProductSteps.productIsSetWithTheFollowingFields(String,String\u003e\u003e)"
+});
+formatter.result({
+  "duration": 127200,
+  "status": "passed"
+});
+formatter.match({
+  "location": "CreateNewProductSteps.productVideosIsSetWithTheFollowingFields(String,String\u003e\u003e)"
+});
+formatter.result({
+  "duration": 454900,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 22,
+  "name": "provider enters a data in productRegions with missing  regionName field",
+  "description": "",
+  "id": "productregions-is-being-tested-with-negative-scenarios;provider-enters-a-data-in-productregions-with-missing--regionname-field",
+  "type": "scenario",
+  "keyword": "Scenario",
+  "tags": [
+    {
+      "line": 21,
+      "name": "@productRegionWithMissingRegionNameField"
+    }
+  ]
+});
+formatter.step({
+  "line": 23,
+  "name": "productRegions is set with the following fields",
+  "rows": [
+    {
+      "cells": [
+        "productId",
+        "regionId"
+      ],
+      "line": 24
+    },
+    {
+      "cells": [
+        "PYayPjpW",
+        "5bpJKaVE"
+      ],
+      "line": 25
+    }
+  ],
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 26,
+  "name": "provider creates a new product",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 27,
+  "name": "verify status code is 400",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 28,
+  "name": "verify the title is \"One or more validation errors occurred.\"",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "CreateNewProductSteps.productRegionsIsSetWithTheFollowingFields(String,String\u003e\u003e)"
+});
+formatter.result({
+  "duration": 101300,
+  "status": "passed"
+});
+formatter.match({
+  "location": "CreateNewProductSteps.providerCreatesANewProduct()"
+});
+formatter.result({
+  "duration": 83146700,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "400",
+      "offset": 22
+    }
+  ],
+  "location": "CommonSteps.verify_status_code_is(int)"
+});
+formatter.result({
+  "duration": 3110000,
+  "error_message": "java.lang.AssertionError: expected:\u003c400\u003e but was:\u003c200\u003e\r\n\tat org.junit.Assert.fail(Assert.java:88)\r\n\tat org.junit.Assert.failNotEquals(Assert.java:743)\r\n\tat org.junit.Assert.assertEquals(Assert.java:118)\r\n\tat org.junit.Assert.assertEquals(Assert.java:555)\r\n\tat org.junit.Assert.assertEquals(Assert.java:542)\r\n\tat www.logisense.com.cucumber.steps.common.CommonSteps.verify_status_code_is(CommonSteps.java:31)\r\n\tat ✽.Then verify status code is 400(features/wizard/wizardProductRegionsNegative.feature:27)\r\n",
+  "status": "failed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "One or more validation errors occurred.",
+      "offset": 21
+    }
+  ],
+  "location": "CommonSteps.verifyTheTitleIs(String)"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.after({
+  "duration": 67700,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 25700,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 57276400,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 86348800,
+  "status": "passed"
+});
+formatter.before({
+  "duration": 59203800,
+  "status": "passed"
+});
+formatter.background({
+  "line": 4,
+  "name": "",
+  "description": "",
+  "type": "background",
+  "keyword": "Background"
+});
+formatter.step({
+  "line": 5,
+  "name": "product is set with the following fields",
+  "rows": [
+    {
+      "cells": [
+        "name",
+        "active",
+        "shortDescription",
+        "fullDescription",
+        "mostPopular",
+        "longitude",
+        "latitude",
+        "calendarColor",
+        "address"
+      ],
+      "line": 6
+    },
+    {
+      "cells": [
+        "AutoTest",
+        "true",
+        "Test For Automation 1",
+        "Automation for API in Postman",
+        "true",
+        "456.456",
+        "3245678.5467",
+        "blue",
+        "Bishkek"
+      ],
+      "line": 7
+    }
+  ],
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 8,
+  "name": "productVideos is set with the following fields",
+  "rows": [
+    {
+      "cells": [
+        "path"
+      ],
+      "line": 9
+    },
+    {
+      "cells": [
+        "https://www.youtube.com/watch?v\u003du1yVCeXYya4\u0026list\u003dRDMMu1yVCeXYya4\u0026start_radio\u003d1"
+      ],
+      "line": 10
+    }
+  ],
+  "keyword": "Given "
+});
+formatter.match({
+  "location": "CreateNewProductSteps.productIsSetWithTheFollowingFields(String,String\u003e\u003e)"
+});
+formatter.result({
+  "duration": 146600,
+  "status": "passed"
+});
+formatter.match({
+  "location": "CreateNewProductSteps.productVideosIsSetWithTheFollowingFields(String,String\u003e\u003e)"
+});
+formatter.result({
+  "duration": 293300,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 32,
+  "name": "provider enters a data in productRegions with special chars  regionName field",
+  "description": "",
+  "id": "productregions-is-being-tested-with-negative-scenarios;provider-enters-a-data-in-productregions-with-special-chars--regionname-field",
+  "type": "scenario",
+  "keyword": "Scenario",
+  "tags": [
+    {
+      "line": 31,
+      "name": "@productRegionWithSpecialCharsRegionNameField"
+    }
+  ]
+});
+formatter.step({
+  "line": 33,
+  "name": "productRegions is set with the following fields",
+  "rows": [
+    {
+      "cells": [
+        "productId",
+        "regionId",
+        "regionName"
+      ],
+      "line": 34
+    },
+    {
+      "cells": [
+        "PYayPjpW",
+        "5bpJKaVE",
+        "@#$%^"
+      ],
+      "line": 35
+    }
+  ],
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 36,
+  "name": "provider creates a new product",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 37,
+  "name": "verify status code is 400",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 38,
+  "name": "verify the title is \"One or more validation errors occurred.\"",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "CreateNewProductSteps.productRegionsIsSetWithTheFollowingFields(String,String\u003e\u003e)"
+});
+formatter.result({
+  "duration": 123500,
+  "status": "passed"
+});
+formatter.match({
+  "location": "CreateNewProductSteps.providerCreatesANewProduct()"
+});
+formatter.result({
+  "duration": 96104000,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "400",
+      "offset": 22
+    }
+  ],
+  "location": "CommonSteps.verify_status_code_is(int)"
+});
+formatter.result({
+  "duration": 3010400,
+  "error_message": "java.lang.AssertionError: expected:\u003c400\u003e but was:\u003c200\u003e\r\n\tat org.junit.Assert.fail(Assert.java:88)\r\n\tat org.junit.Assert.failNotEquals(Assert.java:743)\r\n\tat org.junit.Assert.assertEquals(Assert.java:118)\r\n\tat org.junit.Assert.assertEquals(Assert.java:555)\r\n\tat org.junit.Assert.assertEquals(Assert.java:542)\r\n\tat www.logisense.com.cucumber.steps.common.CommonSteps.verify_status_code_is(CommonSteps.java:31)\r\n\tat ✽.Then verify status code is 400(features/wizard/wizardProductRegionsNegative.feature:37)\r\n",
+  "status": "failed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "One or more validation errors occurred.",
+      "offset": 21
+    }
+  ],
+  "location": "CommonSteps.verifyTheTitleIs(String)"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.after({
+  "duration": 27600,
   "status": "passed"
 });
 });

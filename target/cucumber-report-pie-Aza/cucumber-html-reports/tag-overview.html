@@ -49,32 +49,32 @@ $(document).ready(function() {
   $(document).ready(function() {
 
     var chartData = {
-        labels: ["@Regression","@creatingProductWithEmptyAddress","@creatingProductWithEmptyFullDescription","@creatingProductWithEmptyNameField","@creatingProductWithEmptyShortDescription","@creatingProductWithMissingAddress","@creatingProductWithMissingFullDescriptionField","@creatingProductWithMissingNameField","@creatingProductWithMissingShortDescriptionField","@creatingProductWithTheSameDataOver","@fullDescriptionNegative","@nameNegative","@negative","@productPriceNegativeTesting","@productPricesWithEmptyFromDateField","@productPricesWithEmptyTitleField","@productPricesWithEmptyToDateField","@productPricesWithMissingFromDateField","@productPricesWithMissingTitleField","@productPricesWithMissingToDateField","@productPricesWithSpecialCharFromDateField","@productPricesWithSpecialCharToDateField","@productTypesWithMissingNameField","@productWorkingDatesWithEmptyFromDateField","@productWorkingDatesWithEmptyNameField","@productWorkingDatesWithEmptyToDateField","@productWorkingDatesWithMissingFromDateField","@productWorkingDatesWithMissingNameField","@productWorkingDatesWithMissingToDateField","@productWorkingDatesWithNullFromDateField","@productWorkingDatesWithNullToDateField","@providerCreatesProductTypesWithOutSomeFields","@providerCreatesProductWithOutSomeFields","@regression","@shortDescriptionNegative","@smoke","@successfullyCreateProduct","@timeSlotsWithEmptyDayOfWeekField","@timeSlotsWithEmptyDurationField","@timeSlotsWithEmptyEndTimeField","@timeSlotsWithEmptyStartTimeField","@timeSlotsWithIncorrectTimingDurationField","@timeSlotsWithIncorrectTimingInEndTimeField","@timeSlotsWithIncorrectTimingInStartTimeField","@timeSlotsWithMissingDayOfWeekField","@timeSlotsWithMissingDurationField","@timeSlotsWithMissingEndTimeField","@timeSlotsWithMissingStartTimeField","@timeSlotsWithNullDayOfWeekField","@timeSlotsWithNullEndTimeField","@timeSlotsWithNullStartTimeField","@timeSlotsWithSpecialCharDurationField","@timeSlotsWithSpecialCharsInDayOfWeekField","@timeSlotsWithSpecialCharsInEndTimeField","@timeSlotsWithSpecialCharsInStartTimeField"],
+        labels: ["@creatingProductWithEmptyAddress","@creatingProductWithEmptyFullDescription","@creatingProductWithEmptyNameField","@creatingProductWithEmptyShortDescription","@creatingProductWithMissingAddress","@creatingProductWithMissingFullDescriptionField","@creatingProductWithMissingNameField","@creatingProductWithMissingShortDescriptionField","@creatingProductWithTheSameDataOver","@fullDescriptionNegative","@nameNegative","@negative","@productPriceNegativeTesting","@productPricesWithEmptyFromDateField","@productPricesWithEmptyTitleField","@productPricesWithEmptyToDateField","@productPricesWithMissingFromDateField","@productPricesWithMissingTitleField","@productPricesWithMissingToDateField","@productPricesWithSpecialCharFromDateField","@productPricesWithSpecialCharToDateField","@productRegionWithEmptyRegionNameField","@productRegionWithMissingRegionNameField","@productRegionWithSpecialCharsRegionNameField","@productTypesWithMissingNameField","@productWorkingDatesWithEmptyFromDateField","@productWorkingDatesWithEmptyNameField","@productWorkingDatesWithEmptyToDateField","@productWorkingDatesWithMissingFromDateField","@productWorkingDatesWithMissingNameField","@productWorkingDatesWithMissingToDateField","@productWorkingDatesWithNullFromDateField","@productWorkingDatesWithNullToDateField","@providerCreatesProductTypesWithOutSomeFields","@providerCreatesProductWithOutSomeFields","@regression","@shortDescriptionNegative","@smoke","@successfullyCreateProduct","@timeSlotsWithEmptyDayOfWeekField","@timeSlotsWithEmptyDurationField","@timeSlotsWithEmptyEndTimeField","@timeSlotsWithEmptyStartTimeField","@timeSlotsWithIncorrectTimingDurationField","@timeSlotsWithIncorrectTimingInEndTimeField","@timeSlotsWithIncorrectTimingInStartTimeField","@timeSlotsWithMissingDayOfWeekField","@timeSlotsWithMissingDurationField","@timeSlotsWithMissingEndTimeField","@timeSlotsWithMissingStartTimeField","@timeSlotsWithNullDayOfWeekField","@timeSlotsWithNullEndTimeField","@timeSlotsWithNullStartTimeField","@timeSlotsWithSpecialCharDurationField","@timeSlotsWithSpecialCharsInDayOfWeekField","@timeSlotsWithSpecialCharsInEndTimeField","@timeSlotsWithSpecialCharsInStartTimeField"],
         datasets: [
             {
                 label: 'Passed',
                 backgroundColor: "#92DD96",
-                data: [100.00, 60.00, 60.00, 60.00, 60.00, 60.00, 60.00, 100.00, 60.00, 60.00, 100.00, 100.00, 100.00, 78.57, 100.00, 50.00, 100.00, 50.00, 50.00, 100.00, 100.00, 100.00, 50.00, 100.00, 50.00, 100.00, 100.00, 100.00, 100.00, 100.00, 100.00, 88.89, 64.44, 82.30, 100.00, 83.61, 85.19, 60.00, 100.00, 100.00, 100.00, 100.00, 100.00, 100.00, 60.00, 60.00, 60.00, 60.00, 100.00, 100.00, 100.00, 100.00, 100.00, 100.00, 100.00]
+                data: [60.00, 60.00, 60.00, 60.00, 60.00, 60.00, 100.00, 60.00, 60.00, 100.00, 100.00, 100.00, 78.57, 100.00, 50.00, 100.00, 50.00, 50.00, 100.00, 100.00, 100.00, 50.00, 50.00, 50.00, 50.00, 100.00, 50.00, 100.00, 100.00, 100.00, 100.00, 100.00, 100.00, 88.89, 64.44, 83.61, 100.00, 82.03, 85.19, 60.00, 100.00, 100.00, 100.00, 100.00, 100.00, 100.00, 60.00, 60.00, 60.00, 60.00, 100.00, 100.00, 100.00, 100.00, 100.00, 100.00, 100.00]
             },
             {
                 label: 'Failed',
                 backgroundColor: "#F2928C",
-                data: [0.00, 20.00, 20.00, 20.00, 20.00, 20.00, 20.00, 0.00, 20.00, 20.00, 0.00, 0.00, 0.00, 10.71, 0.00, 25.00, 0.00, 25.00, 25.00, 0.00, 0.00, 0.00, 25.00, 0.00, 25.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 5.56, 17.78, 9.73, 0.00, 9.02, 14.81, 20.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 20.00, 20.00, 20.00, 20.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00]
+                data: [20.00, 20.00, 20.00, 20.00, 20.00, 20.00, 0.00, 20.00, 20.00, 0.00, 0.00, 0.00, 10.71, 0.00, 25.00, 0.00, 25.00, 25.00, 0.00, 0.00, 0.00, 25.00, 25.00, 25.00, 25.00, 0.00, 25.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 5.56, 17.78, 9.02, 0.00, 9.77, 14.81, 20.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 20.00, 20.00, 20.00, 20.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00]
             },
             {
                 label: 'Skipped',
                 backgroundColor: "#8AF",
-                data: [0.00, 20.00, 20.00, 20.00, 20.00, 20.00, 20.00, 0.00, 20.00, 20.00, 0.00, 0.00, 0.00, 10.71, 0.00, 25.00, 0.00, 25.00, 25.00, 0.00, 0.00, 0.00, 25.00, 0.00, 25.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 5.56, 17.78, 7.96, 0.00, 7.38, 0.00, 20.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 20.00, 20.00, 20.00, 20.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00]
+                data: [20.00, 20.00, 20.00, 20.00, 20.00, 20.00, 0.00, 20.00, 20.00, 0.00, 0.00, 0.00, 10.71, 0.00, 25.00, 0.00, 25.00, 25.00, 0.00, 0.00, 0.00, 25.00, 25.00, 25.00, 25.00, 0.00, 25.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 5.56, 17.78, 7.38, 0.00, 8.20, 0.00, 20.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 20.00, 20.00, 20.00, 20.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00]
             },
             {
                 label: 'Pending',
                 backgroundColor: "#F5F28F",
-                data: [0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00]
+                data: [0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00]
             },
             {
                 label: 'Undefined',
                 backgroundColor: "#F5B975",
-                data: [0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00]
+                data: [0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00]
             }
         ]
     };
@@ -135,7 +135,7 @@ $(document).ready(function() {
           <tr class="info">
             <td>book_it_wizard</td>
                           <td>1</td>
-                        <td>16 Jun 2021, 15:24</td>
+                        <td>28 Jun 2021, 10:54</td>
           </tr>
         </tbody>
       </table>
@@ -192,21 +192,6 @@ $(document).ready(function() {
 
   <tbody>
           <tr>
-        <td class="tagname"><a href="Regression.html">@Regression</a></td>
-        
-        <td  class="passed"    >3</td>
-        <td >0</td>
-        <td class="total">3</td>
-        <td      class="passed"    >18</td>
-        <td >0</td>
-        <td >0</td>
-        <td >0</td>
-        <td >0</td>
-        <td class="total">18</td>
-        <td class="duration" data-value="287596400">287ms</td>
-        <td class="passed">Passed</td>
-      </tr>
-          <tr>
         <td class="tagname"><a href="creatingProductWithEmptyAddress.html">@creatingProductWithEmptyAddress</a></td>
         
         <td >0</td>
@@ -218,7 +203,7 @@ $(document).ready(function() {
         <td >0</td>
         <td >0</td>
         <td class="total">5</td>
-        <td class="duration" data-value="90896300">090ms</td>
+        <td class="duration" data-value="85846000">085ms</td>
         <td class="failed">Failed</td>
       </tr>
           <tr>
@@ -233,7 +218,7 @@ $(document).ready(function() {
         <td >0</td>
         <td >0</td>
         <td class="total">5</td>
-        <td class="duration" data-value="93126500">093ms</td>
+        <td class="duration" data-value="131568200">131ms</td>
         <td class="failed">Failed</td>
       </tr>
           <tr>
@@ -248,7 +233,7 @@ $(document).ready(function() {
         <td >0</td>
         <td >0</td>
         <td class="total">5</td>
-        <td class="duration" data-value="261419100">261ms</td>
+        <td class="duration" data-value="106769700">106ms</td>
         <td class="failed">Failed</td>
       </tr>
           <tr>
@@ -263,7 +248,7 @@ $(document).ready(function() {
         <td >0</td>
         <td >0</td>
         <td class="total">5</td>
-        <td class="duration" data-value="76031100">076ms</td>
+        <td class="duration" data-value="145644600">145ms</td>
         <td class="failed">Failed</td>
       </tr>
           <tr>
@@ -278,7 +263,7 @@ $(document).ready(function() {
         <td >0</td>
         <td >0</td>
         <td class="total">5</td>
-        <td class="duration" data-value="124190900">124ms</td>
+        <td class="duration" data-value="105314100">105ms</td>
         <td class="failed">Failed</td>
       </tr>
           <tr>
@@ -293,7 +278,7 @@ $(document).ready(function() {
         <td >0</td>
         <td >0</td>
         <td class="total">5</td>
-        <td class="duration" data-value="83161900">083ms</td>
+        <td class="duration" data-value="93505300">093ms</td>
         <td class="failed">Failed</td>
       </tr>
           <tr>
@@ -308,7 +293,7 @@ $(document).ready(function() {
         <td >0</td>
         <td >0</td>
         <td class="total">5</td>
-        <td class="duration" data-value="2600243100">2s 600ms</td>
+        <td class="duration" data-value="2411987700">2s 411ms</td>
         <td class="passed">Passed</td>
       </tr>
           <tr>
@@ -323,7 +308,7 @@ $(document).ready(function() {
         <td >0</td>
         <td >0</td>
         <td class="total">5</td>
-        <td class="duration" data-value="122593900">122ms</td>
+        <td class="duration" data-value="131805100">131ms</td>
         <td class="failed">Failed</td>
       </tr>
           <tr>
@@ -338,7 +323,7 @@ $(document).ready(function() {
         <td >0</td>
         <td >0</td>
         <td class="total">5</td>
-        <td class="duration" data-value="97838700">097ms</td>
+        <td class="duration" data-value="134788400">134ms</td>
         <td class="failed">Failed</td>
       </tr>
           <tr>
@@ -353,7 +338,7 @@ $(document).ready(function() {
         <td >0</td>
         <td >0</td>
         <td class="total">6</td>
-        <td class="duration" data-value="83753800">083ms</td>
+        <td class="duration" data-value="84920500">084ms</td>
         <td class="passed">Passed</td>
       </tr>
           <tr>
@@ -368,7 +353,7 @@ $(document).ready(function() {
         <td >0</td>
         <td >0</td>
         <td class="total">6</td>
-        <td class="duration" data-value="98797600">098ms</td>
+        <td class="duration" data-value="108095800">108ms</td>
         <td class="passed">Passed</td>
       </tr>
           <tr>
@@ -383,7 +368,7 @@ $(document).ready(function() {
         <td >0</td>
         <td >0</td>
         <td class="total">18</td>
-        <td class="duration" data-value="287596400">287ms</td>
+        <td class="duration" data-value="297551800">297ms</td>
         <td class="passed">Passed</td>
       </tr>
           <tr>
@@ -398,7 +383,7 @@ $(document).ready(function() {
         <td >0</td>
         <td >0</td>
         <td class="total">28</td>
-        <td class="duration" data-value="598806300">598ms</td>
+        <td class="duration" data-value="616257500">616ms</td>
         <td class="failed">Failed</td>
       </tr>
           <tr>
@@ -413,7 +398,7 @@ $(document).ready(function() {
         <td >0</td>
         <td >0</td>
         <td class="total">4</td>
-        <td class="duration" data-value="64835600">064ms</td>
+        <td class="duration" data-value="80267700">080ms</td>
         <td class="passed">Passed</td>
       </tr>
           <tr>
@@ -428,7 +413,7 @@ $(document).ready(function() {
         <td >0</td>
         <td >0</td>
         <td class="total">4</td>
-        <td class="duration" data-value="145317900">145ms</td>
+        <td class="duration" data-value="79084500">079ms</td>
         <td class="failed">Failed</td>
       </tr>
           <tr>
@@ -443,7 +428,7 @@ $(document).ready(function() {
         <td >0</td>
         <td >0</td>
         <td class="total">4</td>
-        <td class="duration" data-value="63747200">063ms</td>
+        <td class="duration" data-value="81137100">081ms</td>
         <td class="passed">Passed</td>
       </tr>
           <tr>
@@ -458,7 +443,7 @@ $(document).ready(function() {
         <td >0</td>
         <td >0</td>
         <td class="total">4</td>
-        <td class="duration" data-value="84218500">084ms</td>
+        <td class="duration" data-value="135152000">135ms</td>
         <td class="failed">Failed</td>
       </tr>
           <tr>
@@ -473,7 +458,7 @@ $(document).ready(function() {
         <td >0</td>
         <td >0</td>
         <td class="total">4</td>
-        <td class="duration" data-value="80191700">080ms</td>
+        <td class="duration" data-value="83526900">083ms</td>
         <td class="failed">Failed</td>
       </tr>
           <tr>
@@ -488,7 +473,7 @@ $(document).ready(function() {
         <td >0</td>
         <td >0</td>
         <td class="total">4</td>
-        <td class="duration" data-value="93789500">093ms</td>
+        <td class="duration" data-value="89122800">089ms</td>
         <td class="passed">Passed</td>
       </tr>
           <tr>
@@ -503,7 +488,7 @@ $(document).ready(function() {
         <td >0</td>
         <td >0</td>
         <td class="total">4</td>
-        <td class="duration" data-value="53322000">053ms</td>
+        <td class="duration" data-value="64836600">064ms</td>
         <td class="passed">Passed</td>
       </tr>
           <tr>
@@ -518,8 +503,53 @@ $(document).ready(function() {
         <td >0</td>
         <td >0</td>
         <td class="total">4</td>
-        <td class="duration" data-value="66705900">066ms</td>
+        <td class="duration" data-value="67966500">067ms</td>
         <td class="passed">Passed</td>
+      </tr>
+          <tr>
+        <td class="tagname"><a href="productRegionWithEmptyRegionNameField.html">@productRegionWithEmptyRegionNameField</a></td>
+        
+        <td >0</td>
+        <td  class="failed"    >1</td>
+        <td class="total">1</td>
+        <td      class="passed"    >2</td>
+        <td      class="failed"    >1</td>
+        <td     class="skipped"   >1</td>
+        <td >0</td>
+        <td >0</td>
+        <td class="total">4</td>
+        <td class="duration" data-value="81367100">081ms</td>
+        <td class="failed">Failed</td>
+      </tr>
+          <tr>
+        <td class="tagname"><a href="productRegionWithMissingRegionNameField.html">@productRegionWithMissingRegionNameField</a></td>
+        
+        <td >0</td>
+        <td  class="failed"    >1</td>
+        <td class="total">1</td>
+        <td      class="passed"    >2</td>
+        <td      class="failed"    >1</td>
+        <td     class="skipped"   >1</td>
+        <td >0</td>
+        <td >0</td>
+        <td class="total">4</td>
+        <td class="duration" data-value="86358000">086ms</td>
+        <td class="failed">Failed</td>
+      </tr>
+          <tr>
+        <td class="tagname"><a href="productRegionWithSpecialCharsRegionNameField.html">@productRegionWithSpecialCharsRegionNameField</a></td>
+        
+        <td >0</td>
+        <td  class="failed"    >1</td>
+        <td class="total">1</td>
+        <td      class="passed"    >2</td>
+        <td      class="failed"    >1</td>
+        <td     class="skipped"   >1</td>
+        <td >0</td>
+        <td >0</td>
+        <td class="total">4</td>
+        <td class="duration" data-value="99237900">099ms</td>
+        <td class="failed">Failed</td>
       </tr>
           <tr>
         <td class="tagname"><a href="productTypesWithMissingNameField.html">@productTypesWithMissingNameField</a></td>
@@ -533,7 +563,7 @@ $(document).ready(function() {
         <td >0</td>
         <td >0</td>
         <td class="total">4</td>
-        <td class="duration" data-value="78891500">078ms</td>
+        <td class="duration" data-value="83316000">083ms</td>
         <td class="failed">Failed</td>
       </tr>
           <tr>
@@ -548,7 +578,7 @@ $(document).ready(function() {
         <td >0</td>
         <td >0</td>
         <td class="total">4</td>
-        <td class="duration" data-value="74127400">074ms</td>
+        <td class="duration" data-value="98520700">098ms</td>
         <td class="passed">Passed</td>
       </tr>
           <tr>
@@ -563,7 +593,7 @@ $(document).ready(function() {
         <td >0</td>
         <td >0</td>
         <td class="total">4</td>
-        <td class="duration" data-value="98644800">098ms</td>
+        <td class="duration" data-value="113571900">113ms</td>
         <td class="failed">Failed</td>
       </tr>
           <tr>
@@ -578,7 +608,7 @@ $(document).ready(function() {
         <td >0</td>
         <td >0</td>
         <td class="total">4</td>
-        <td class="duration" data-value="85489500">085ms</td>
+        <td class="duration" data-value="81258700">081ms</td>
         <td class="passed">Passed</td>
       </tr>
           <tr>
@@ -593,7 +623,7 @@ $(document).ready(function() {
         <td >0</td>
         <td >0</td>
         <td class="total">4</td>
-        <td class="duration" data-value="68473200">068ms</td>
+        <td class="duration" data-value="93662600">093ms</td>
         <td class="passed">Passed</td>
       </tr>
           <tr>
@@ -608,7 +638,7 @@ $(document).ready(function() {
         <td >0</td>
         <td >0</td>
         <td class="total">4</td>
-        <td class="duration" data-value="84741100">084ms</td>
+        <td class="duration" data-value="113578000">113ms</td>
         <td class="passed">Passed</td>
       </tr>
           <tr>
@@ -623,7 +653,7 @@ $(document).ready(function() {
         <td >0</td>
         <td >0</td>
         <td class="total">4</td>
-        <td class="duration" data-value="81880700">081ms</td>
+        <td class="duration" data-value="82246000">082ms</td>
         <td class="passed">Passed</td>
       </tr>
           <tr>
@@ -638,7 +668,7 @@ $(document).ready(function() {
         <td >0</td>
         <td >0</td>
         <td class="total">4</td>
-        <td class="duration" data-value="117720500">117ms</td>
+        <td class="duration" data-value="80775700">080ms</td>
         <td class="passed">Passed</td>
       </tr>
           <tr>
@@ -653,7 +683,7 @@ $(document).ready(function() {
         <td >0</td>
         <td >0</td>
         <td class="total">4</td>
-        <td class="duration" data-value="68536500">068ms</td>
+        <td class="duration" data-value="81011500">081ms</td>
         <td class="passed">Passed</td>
       </tr>
           <tr>
@@ -668,7 +698,7 @@ $(document).ready(function() {
         <td >0</td>
         <td >0</td>
         <td class="total">126</td>
-        <td class="duration" data-value="2443077200">2s 443ms</td>
+        <td class="duration" data-value="2437382000">2s 437ms</td>
         <td class="failed">Failed</td>
       </tr>
           <tr>
@@ -683,22 +713,22 @@ $(document).ready(function() {
         <td >0</td>
         <td >0</td>
         <td class="total">45</td>
-        <td class="duration" data-value="3549501500">3s 549ms</td>
+        <td class="duration" data-value="3347229100">3s 347ms</td>
         <td class="failed">Failed</td>
       </tr>
           <tr>
         <td class="tagname"><a href="regression.html">@regression</a></td>
         
-        <td  class="passed"    >48</td>
+        <td  class="passed"    >51</td>
         <td  class="failed"    >22</td>
-        <td class="total">70</td>
-        <td      class="passed"    >186</td>
+        <td class="total">73</td>
+        <td      class="passed"    >204</td>
         <td      class="failed"    >22</td>
         <td     class="skipped"   >18</td>
         <td >0</td>
         <td >0</td>
-        <td class="total">226</td>
-        <td class="duration" data-value="6906143200">6s 906ms</td>
+        <td class="total">244</td>
+        <td class="duration" data-value="7592232800">7s 592ms</td>
         <td class="failed">Failed</td>
       </tr>
           <tr>
@@ -713,22 +743,22 @@ $(document).ready(function() {
         <td >0</td>
         <td >0</td>
         <td class="total">6</td>
-        <td class="duration" data-value="105045000">105ms</td>
+        <td class="duration" data-value="104535500">104ms</td>
         <td class="passed">Passed</td>
       </tr>
           <tr>
         <td class="tagname"><a href="smoke.html">@smoke</a></td>
         
         <td  class="passed"    >51</td>
-        <td  class="failed"    >22</td>
-        <td class="total">73</td>
-        <td      class="passed"    >204</td>
-        <td      class="failed"    >22</td>
-        <td     class="skipped"   >18</td>
+        <td  class="failed"    >25</td>
+        <td class="total">76</td>
+        <td      class="passed"    >210</td>
+        <td      class="failed"    >25</td>
+        <td     class="skipped"   >21</td>
         <td >0</td>
         <td >0</td>
-        <td class="total">244</td>
-        <td class="duration" data-value="7193739600">7s 193ms</td>
+        <td class="total">256</td>
+        <td class="duration" data-value="7859195800">7s 859ms</td>
         <td class="failed">Failed</td>
       </tr>
           <tr>
@@ -743,7 +773,7 @@ $(document).ready(function() {
         <td >0</td>
         <td >0</td>
         <td class="total">27</td>
-        <td class="duration" data-value="314758200">314ms</td>
+        <td class="duration" data-value="893812400">893ms</td>
         <td class="failed">Failed</td>
       </tr>
           <tr>
@@ -758,7 +788,7 @@ $(document).ready(function() {
         <td >0</td>
         <td >0</td>
         <td class="total">5</td>
-        <td class="duration" data-value="221866500">221ms</td>
+        <td class="duration" data-value="85386700">085ms</td>
         <td class="failed">Failed</td>
       </tr>
           <tr>
@@ -773,7 +803,7 @@ $(document).ready(function() {
         <td >0</td>
         <td >0</td>
         <td class="total">5</td>
-        <td class="duration" data-value="65146300">065ms</td>
+        <td class="duration" data-value="62839400">062ms</td>
         <td class="passed">Passed</td>
       </tr>
           <tr>
@@ -788,7 +818,7 @@ $(document).ready(function() {
         <td >0</td>
         <td >0</td>
         <td class="total">5</td>
-        <td class="duration" data-value="77305700">077ms</td>
+        <td class="duration" data-value="66965900">066ms</td>
         <td class="passed">Passed</td>
       </tr>
           <tr>
@@ -803,7 +833,7 @@ $(document).ready(function() {
         <td >0</td>
         <td >0</td>
         <td class="total">5</td>
-        <td class="duration" data-value="95805900">095ms</td>
+        <td class="duration" data-value="70828400">070ms</td>
         <td class="passed">Passed</td>
       </tr>
           <tr>
@@ -818,7 +848,7 @@ $(document).ready(function() {
         <td >0</td>
         <td >0</td>
         <td class="total">5</td>
-        <td class="duration" data-value="75571200">075ms</td>
+        <td class="duration" data-value="76661800">076ms</td>
         <td class="passed">Passed</td>
       </tr>
           <tr>
@@ -833,7 +863,7 @@ $(document).ready(function() {
         <td >0</td>
         <td >0</td>
         <td class="total">5</td>
-        <td class="duration" data-value="72850300">072ms</td>
+        <td class="duration" data-value="62651500">062ms</td>
         <td class="passed">Passed</td>
       </tr>
           <tr>
@@ -848,7 +878,7 @@ $(document).ready(function() {
         <td >0</td>
         <td >0</td>
         <td class="total">5</td>
-        <td class="duration" data-value="71035800">071ms</td>
+        <td class="duration" data-value="88837500">088ms</td>
         <td class="passed">Passed</td>
       </tr>
           <tr>
@@ -863,7 +893,7 @@ $(document).ready(function() {
         <td >0</td>
         <td >0</td>
         <td class="total">5</td>
-        <td class="duration" data-value="75692200">075ms</td>
+        <td class="duration" data-value="84628000">084ms</td>
         <td class="failed">Failed</td>
       </tr>
           <tr>
@@ -878,7 +908,7 @@ $(document).ready(function() {
         <td >0</td>
         <td >0</td>
         <td class="total">5</td>
-        <td class="duration" data-value="170934600">170ms</td>
+        <td class="duration" data-value="113106600">113ms</td>
         <td class="failed">Failed</td>
       </tr>
           <tr>
@@ -893,7 +923,7 @@ $(document).ready(function() {
         <td >0</td>
         <td >0</td>
         <td class="total">5</td>
-        <td class="duration" data-value="113104600">113ms</td>
+        <td class="duration" data-value="92416100">092ms</td>
         <td class="failed">Failed</td>
       </tr>
           <tr>
@@ -908,7 +938,7 @@ $(document).ready(function() {
         <td >0</td>
         <td >0</td>
         <td class="total">5</td>
-        <td class="duration" data-value="113773800">113ms</td>
+        <td class="duration" data-value="141331000">141ms</td>
         <td class="failed">Failed</td>
       </tr>
           <tr>
@@ -923,7 +953,7 @@ $(document).ready(function() {
         <td >0</td>
         <td >0</td>
         <td class="total">5</td>
-        <td class="duration" data-value="71362000">071ms</td>
+        <td class="duration" data-value="102627900">102ms</td>
         <td class="passed">Passed</td>
       </tr>
           <tr>
@@ -938,7 +968,7 @@ $(document).ready(function() {
         <td >0</td>
         <td >0</td>
         <td class="total">5</td>
-        <td class="duration" data-value="65947600">065ms</td>
+        <td class="duration" data-value="65799900">065ms</td>
         <td class="passed">Passed</td>
       </tr>
           <tr>
@@ -953,7 +983,7 @@ $(document).ready(function() {
         <td >0</td>
         <td >0</td>
         <td class="total">5</td>
-        <td class="duration" data-value="107838500">107ms</td>
+        <td class="duration" data-value="191905700">191ms</td>
         <td class="passed">Passed</td>
       </tr>
           <tr>
@@ -968,7 +998,7 @@ $(document).ready(function() {
         <td >0</td>
         <td >0</td>
         <td class="total">5</td>
-        <td class="duration" data-value="67304400">067ms</td>
+        <td class="duration" data-value="70544500">070ms</td>
         <td class="passed">Passed</td>
       </tr>
           <tr>
@@ -983,7 +1013,7 @@ $(document).ready(function() {
         <td >0</td>
         <td >0</td>
         <td class="total">5</td>
-        <td class="duration" data-value="77061900">077ms</td>
+        <td class="duration" data-value="78353600">078ms</td>
         <td class="passed">Passed</td>
       </tr>
           <tr>
@@ -998,7 +1028,7 @@ $(document).ready(function() {
         <td >0</td>
         <td >0</td>
         <td class="total">5</td>
-        <td class="duration" data-value="72697600">072ms</td>
+        <td class="duration" data-value="93335700">093ms</td>
         <td class="passed">Passed</td>
       </tr>
           <tr>
@@ -1013,39 +1043,39 @@ $(document).ready(function() {
         <td >0</td>
         <td >0</td>
         <td class="total">5</td>
-        <td class="duration" data-value="69273100">069ms</td>
+        <td class="duration" data-value="61220700">061ms</td>
         <td class="passed">Passed</td>
       </tr>
       </tbody>
 
   <tfoot class="total">
     <tr>
-      <td>55</td>
+      <td>57</td>
             <td>38</td>
-      <td>228</td>
-      <td>266</td>
-      <td>797</td>
-      <td>84</td>
-      <td>72</td>
+      <td>234</td>
+      <td>272</td>
+      <td>809</td>
+      <td>90</td>
+      <td>78</td>
       <td>0</td>
       <td>0</td>
-      <td>953</td>
-      <td class="duration">28s 513ms</td>
+      <td>977</td>
+      <td class="duration">30s 073ms</td>
       <td></td>
     </tr>
     <tr>
       <td></td>
-            <td>14.29%</td>
-      <td>85.71%</td>
+            <td>13.97%</td>
+      <td>86.03%</td>
       <td></td>
-      <td>83.63%</td>
-      <td>8.81%</td>
-      <td>7.56%</td>
+      <td>82.80%</td>
+      <td>9.21%</td>
+      <td>7.98%</td>
       <td>0.00%</td>
       <td>0.00%</td>
       <td></td>
       <td></td>
-      <td>85.71%</td>
+      <td>86.03%</td>
     </tr>
   </tfoot>
 </table>
