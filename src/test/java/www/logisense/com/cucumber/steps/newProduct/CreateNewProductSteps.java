@@ -108,6 +108,9 @@ public class CreateNewProductSteps {
         productWorkingDates1.setMaxUsedTicketsQuantity(Integer.parseInt(productWorkingDates.get(0).get("maxUsedTicketsQuantity")));
         productWorkingDates1.setErrorCode(Integer.parseInt(productWorkingDates.get(0).get("errorCode")));
 
+
+
+
         if (productWorkingDates1.getDeletedAt() != null) {
             productWorkingDates1.setDeletedAt(null);
         }

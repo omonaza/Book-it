@@ -19,7 +19,7 @@ import org.junit.runner.RunWith;
                 "pretty", "html:target/reports","json:target/cucumber.json"
         },
         tags = {
-                " @successfullyCreateProduct"
+                " @productWorkingDatesWithEmptyFromDateField"
         },
         dryRun = false
 
